@@ -30,7 +30,7 @@ cv2.imshow("Sure bg", sure_bg)
 cv2.imshow("Sure fg",sure_fg)
 cv2.imshow("unknown",unknown)
 
-#Marker Labelling
+#Marker Labelling (for those with python version below 3.0)
 contours, hierarchy = cv2.findContours(sure_fg,cv2.RETR_TREE,cv2.CHAIN_APPROX_SIMPLE)
 
 #Creating a numpy array for markers and converting the image to 32 bit using dtype paramter
@@ -45,7 +45,7 @@ marker = marker + 1
 marker[unknown==255] = 0
 
 """
-# Marker labelling
+# Marker labelling (For those with python version 3.0 and above)
 ret, markers = cv2.connectedComponents(sure_fg)
 
 # Add one to all labels so that sure background is not 0, but 1
