@@ -1,7 +1,9 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.5.23)  16 JUN 2015 12:38
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.5.23)  16 JUN 2015 13:04
 entering extended mode
 **Progress-Presentation.tex
-(D:\Progress-Presentation\Progress-Presentation.tex
+
+(C:\Users\KUMAR\eYSIP_2015_Marker_based_Robot_Localisation\Progress-Presentatio
+n\Progress-Presentation.tex
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -760,7 +762,8 @@ Package: beamercolorthemeorchid 2010/06/17  (rcs-revision d02a7cf4d8ae)
 (D:\mikTex\tex\latex\beamer\base\themes\color\beamercolorthemecrane.sty
 Package: beamercolorthemecrane 2010/06/17  (rcs-revision d02a7cf4d8ae)
 )
-(D:\Progress-Presentation\Progress-Presentation.aux
+(C:\Users\KUMAR\eYSIP_2015_Marker_based_Robot_Localisation\Progress-Presentatio
+n\Progress-Presentation.aux
 
 LaTeX Warning: Label `fig:sfig2' multiply defined.
 
@@ -870,8 +873,10 @@ LaTeX Info: Redefining \ref on input line 17.
 LaTeX Info: Redefining \pageref on input line 17.
 LaTeX Info: Redefining \nameref on input line 17.
 
-(D:\Progress-Presentation\Progress-Presentation.out)
-(D:\Progress-Presentation\Progress-Presentation.out)
+(C:\Users\KUMAR\eYSIP_2015_Marker_based_Robot_Localisation\Progress-Presentatio
+n\Progress-Presentation.out)
+(C:\Users\KUMAR\eYSIP_2015_Marker_based_Robot_Localisation\Progress-Presentatio
+n\Progress-Presentation.out)
 \@outlinefile=\write5
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 17.
@@ -952,7 +957,8 @@ Dictionary: translator-theorem-dictionary, Language: English
 )
 LaTeX Info: Redefining \includegraphics on input line 17.
 
-(D:\Progress-Presentation\Progress-Presentation.nav)
+(C:\Users\KUMAR\eYSIP_2015_Marker_based_Robot_Localisation\Progress-Presentatio
+n\Progress-Presentation.nav)
 
 Package hyperref Warning: Option `pdfauthor' has already been used,
 (hyperref)                setting the option has no effect on input line 22.
@@ -976,38 +982,42 @@ LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <4> not available
 
 ] [7
 
+] [8
+
+] [9
+
 ]
-LaTeX Font Info:    Try loading font information for U+msa on input line 81.
+LaTeX Font Info:    Try loading font information for U+msa on input line 85.
  (D:\mikTex\tex\latex\amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 81.
+LaTeX Font Info:    Try loading font information for U+msb on input line 85.
 
 (D:\mikTex\tex\latex\amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Try loading font information for OT1+mathkerncmss on input 
-line 81.
+line 85.
 
 (D:\mikTex\tex\latex\sansmathaccent\ot1mathkerncmss.fd
 File: ot1mathkerncmss.fd 2013/03/27 Fontinst v1.933 font definitions for OT1/ma
 thkerncmss.
-) [8
+) [10
 
-] [9
+] [11
 
 ]
 <C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation.wiki/images/ras.jpg,
- id=340, 108.405pt x 72.5109pt>
+ id=406, 108.405pt x 72.5109pt>
 File: C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation.wiki/images/ras
 .jpg Graphic file (type jpg)
 
 <use C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation.wiki/images/ras.
 jpg>
 Package pdftex.def Info: C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisat
-ion.wiki/images/ras.jpg used on input line 143.
+ion.wiki/images/ras.jpg used on input line 147.
 (pdftex.def)             Requested size: 72.68886pt x 89.66028pt.
- [10
+ [12
 
  <C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation.wiki/images/ras.jpg
 >]
@@ -1017,322 +1027,323 @@ File: C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation.wiki/images/ras
 <use C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation.wiki/images/ras.
 jpg>
 Package pdftex.def Info: C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisat
-ion.wiki/images/ras.jpg used on input line 143.
-(pdftex.def)             Requested size: 72.68886pt x 89.66028pt.
- [11
-
-]
-File: C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation.wiki/images/ras
-.jpg Graphic file (type jpg)
-
-<use C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation.wiki/images/ras.
-jpg>
-Package pdftex.def Info: C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisat
-ion.wiki/images/ras.jpg used on input line 143.
-(pdftex.def)             Requested size: 72.68886pt x 89.66028pt.
- [12
-
-]
-File: C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation.wiki/images/ras
-.jpg Graphic file (type jpg)
-
-<use C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation.wiki/images/ras.
-jpg>
-Package pdftex.def Info: C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisat
-ion.wiki/images/ras.jpg used on input line 143.
+ion.wiki/images/ras.jpg used on input line 147.
 (pdftex.def)             Requested size: 72.68886pt x 89.66028pt.
  [13
 
-] [14
+]
+File: C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation.wiki/images/ras
+.jpg Graphic file (type jpg)
+
+<use C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation.wiki/images/ras.
+jpg>
+Package pdftex.def Info: C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisat
+ion.wiki/images/ras.jpg used on input line 147.
+(pdftex.def)             Requested size: 72.68886pt x 89.66028pt.
+ [14
+
+]
+File: C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation.wiki/images/ras
+.jpg Graphic file (type jpg)
+
+<use C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation.wiki/images/ras.
+jpg>
+Package pdftex.def Info: C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisat
+ion.wiki/images/ras.jpg used on input line 147.
+(pdftex.def)             Requested size: 72.68886pt x 89.66028pt.
+ [15
+
+] [16
 
 ]
 <C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation.wiki/images/Raspi-co
-nfig.png, id=510, 487.06969pt x 191.21437pt>
+nfig.png, id=576, 487.06969pt x 191.21437pt>
 File: C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation.wiki/images/Ras
 pi-config.png Graphic file (type png)
 
 <use C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation.wiki/images/Rasp
 i-config.png>
 Package pdftex.def Info: C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisat
-ion.wiki/images/Raspi-config.png used on input line 166.
+ion.wiki/images/Raspi-config.png used on input line 170.
 (pdftex.def)             Requested size: 261.6685pt x 112.0744pt.
 pdfTeX warning (ext4): destination with the same identifier (name{fig:sfig2}) h
 as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.166 \end{frame}
-                  [15
+l.170 \end{frame}
+                  [17
 
  <C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation.wiki/images/Raspi-c
 onfig.png>]
 <C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation.wiki/images/Threshol
-ding.png, id=546, 589.0005pt x 444.4605pt>
+ding.png, id=612, 589.0005pt x 444.4605pt>
 File: C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation.wiki/images/Thr
 esholding.png Graphic file (type png)
 
 <use C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation.wiki/images/Thre
 sholding.png>
 Package pdftex.def Info: C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisat
-ion.wiki/images/Thresholding.png used on input line 181.
+ion.wiki/images/Thresholding.png used on input line 185.
 (pdftex.def)             Requested size: 218.06158pt x 156.89954pt.
- [16
+ [18
 
  <C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation.wiki/images/Thresho
-lding.png>] [17
+lding.png>] [19
 
 ]
 <C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation.wiki/images/morph.pn
-g, id=616, 589.0005pt x 444.4605pt>
+g, id=683, 589.0005pt x 444.4605pt>
 File: C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation.wiki/images/mor
 ph.png Graphic file (type png)
 
 <use C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation.wiki/images/morp
 h.png>
 Package pdftex.def Info: C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisat
-ion.wiki/images/morph.png used on input line 206.
+ion.wiki/images/morph.png used on input line 210.
 (pdftex.def)             Requested size: 218.06158pt x 156.89954pt.
- [18
+ [20
 
  <C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation.wiki/images/morph.p
 ng>]
 <C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation.wiki/images/tiger_DT
-.png, id=651, 589.0005pt x 444.4605pt>
+.png, id=718, 589.0005pt x 444.4605pt>
 File: C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation.wiki/images/tig
 er_DT.png Graphic file (type png)
 
 <use C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation.wiki/images/tige
 r_DT.png>
 Package pdftex.def Info: C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisat
-ion.wiki/images/tiger_DT.png used on input line 225.
+ion.wiki/images/tiger_DT.png used on input line 229.
 (pdftex.def)             Requested size: 218.06158pt x 156.89954pt.
 
-Overfull \vbox (10.75291pt too high) detected at line 225
+Overfull \vbox (10.75291pt too high) detected at line 229
  []
 
-[19
+[21
 
  <C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation.wiki/images/tiger_D
 T.png>]
 <C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation.wiki/images/water_co
-ins.jpg, id=688, 252.945pt x 313.17pt>
+ins.jpg, id=754, 252.945pt x 313.17pt>
 File: C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation.wiki/images/wat
 er_coins.jpg Graphic file (type jpg)
 
 <use C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation.wiki/images/wate
 r_coins.jpg>
 Package pdftex.def Info: C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisat
-ion.wiki/images/water_coins.jpg used on input line 239.
+ion.wiki/images/water_coins.jpg used on input line 243.
 (pdftex.def)             Requested size: 145.37277pt x 156.90477pt.
 pdfTeX warning (ext4): destination with the same identifier (name{fig:sfig4}) h
 as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.239 \end{frame}
-                  [20
+l.243 \end{frame}
+                  [22
 
  <C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation.wiki/images/water_c
 oins.jpg>]
 <C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation.wiki/images/otsuthre
-sh.jpg, id=722, 252.945pt x 313.17pt>
+sh.jpg, id=788, 252.945pt x 313.17pt>
 File: C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation.wiki/images/ots
 uthresh.jpg Graphic file (type jpg)
 
 <use C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation.wiki/images/otsu
 thresh.jpg>
 Package pdftex.def Info: C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisat
-ion.wiki/images/otsuthresh.jpg used on input line 251.
+ion.wiki/images/otsuthresh.jpg used on input line 255.
 (pdftex.def)             Requested size: 145.37277pt x 156.90477pt.
 pdfTeX warning (ext4): destination with the same identifier (name{fig:sfig4}) h
 as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.251 \end{frame}
-                  [21
+l.255 \end{frame}
+                  [23
 
  <C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation.wiki/images/otsuthr
 esh.jpg>]
 <C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation.wiki/images/Sure_fg.
-jpg, id=756, 252.945pt x 313.17pt>
+jpg, id=822, 252.945pt x 313.17pt>
 File: C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation.wiki/images/Sur
 e_fg.jpg Graphic file (type jpg)
 
 <use C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation.wiki/images/Sure
 _fg.jpg>
 Package pdftex.def Info: C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisat
-ion.wiki/images/Sure_fg.jpg used on input line 265.
+ion.wiki/images/Sure_fg.jpg used on input line 269.
 (pdftex.def)             Requested size: 145.37277pt x 156.90477pt.
- [22
+ [24
 
  <C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation.wiki/images/Sure_fg
 .jpg>]
 <C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation.wiki/images/Sure_bg.
-jpg, id=790, 252.945pt x 313.17pt>
+jpg, id=856, 252.945pt x 313.17pt>
 File: C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation.wiki/images/Sur
 e_bg.jpg Graphic file (type jpg)
 
 <use C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation.wiki/images/Sure
 _bg.jpg>
 Package pdftex.def Info: C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisat
-ion.wiki/images/Sure_bg.jpg used on input line 277.
+ion.wiki/images/Sure_bg.jpg used on input line 281.
 (pdftex.def)             Requested size: 145.37277pt x 156.90477pt.
 pdfTeX warning (ext4): destination with the same identifier (name{fig:sfig4}) h
 as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.277 \end{frame}
-                  [23
+l.281 \end{frame}
+                  [25
 
  <C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation.wiki/images/Sure_bg
 .jpg>]
 <C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation.wiki/images/img.jpg,
- id=824, 252.945pt x 313.17pt>
+ id=891, 252.945pt x 313.17pt>
 File: C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation.wiki/images/img
 .jpg Graphic file (type jpg)
 
 <use C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation.wiki/images/img.
 jpg>
 Package pdftex.def Info: C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisat
-ion.wiki/images/img.jpg used on input line 289.
+ion.wiki/images/img.jpg used on input line 293.
 (pdftex.def)             Requested size: 145.37277pt x 156.90477pt.
 pdfTeX warning (ext4): destination with the same identifier (name{fig:sfig4}) h
 as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.289 \end{frame}
-                  [24
+l.293 \end{frame}
+                  [26
 
  <C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation.wiki/images/img.jpg
->] [25
+>] [27
 
 ]
 <C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation.wiki/images/grad.png
-, id=892, 589.0005pt x 444.4605pt>
+, id=958, 589.0005pt x 444.4605pt>
 File: C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation.wiki/images/gra
 d.png Graphic file (type png)
 
 <use C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation.wiki/images/grad
 .png>
 Package pdftex.def Info: C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisat
-ion.wiki/images/grad.png used on input line 312.
+ion.wiki/images/grad.png used on input line 316.
 (pdftex.def)             Requested size: 218.06158pt x 156.89954pt.
- [26
+ [28
 
  <C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation.wiki/images/grad.pn
 g>]
 <C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation.wiki/images/mona.png
-, id=927, 589.0005pt x 444.4605pt>
+, id=993, 589.0005pt x 444.4605pt>
 File: C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation.wiki/images/mon
 a.png Graphic file (type png)
 
 <use C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation.wiki/images/mona
 .png>
 Package pdftex.def Info: C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisat
-ion.wiki/images/mona.png used on input line 326.
+ion.wiki/images/mona.png used on input line 330.
 (pdftex.def)             Requested size: 218.06158pt x 156.89954pt.
 pdfTeX warning (ext4): destination with the same identifier (name{fig:sfig4}) h
 as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.326 \end{frame}
-                  [27
+l.330 \end{frame}
+                  [29
 
  <C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation.wiki/images/mona.pn
 g>]
 <C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation.wiki/images/cartoon_
-ab.jpg, id=962, 474.77374pt x 519.9425pt>
+ab.jpg, id=1028, 474.77374pt x 519.9425pt>
 File: C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation.wiki/images/car
 toon_ab.jpg Graphic file (type jpg)
 
 <use C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation.wiki/images/cart
 oon_ab.jpg>
 Package pdftex.def Info: C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisat
-ion.wiki/images/cartoon_ab.jpg used on input line 344.
+ion.wiki/images/cartoon_ab.jpg used on input line 348.
 (pdftex.def)             Requested size: 145.36722pt x 156.89632pt.
 pdfTeX warning (ext4): destination with the same identifier (name{fig:sfig4}) h
 as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.344 \end{frame}
-                  [28
+l.348 \end{frame}
+                  [30
 
  <C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation.wiki/images/cartoon
 _ab.jpg>]
 <C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation.wiki/images/ab2.jpg,
- id=996, 474.77374pt x 519.9425pt>
+ id=1062, 474.77374pt x 519.9425pt>
 File: C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation.wiki/images/ab2
 .jpg Graphic file (type jpg)
 
 <use C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation.wiki/images/ab2.
 jpg>
 Package pdftex.def Info: C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisat
-ion.wiki/images/ab2.jpg used on input line 356.
+ion.wiki/images/ab2.jpg used on input line 360.
 (pdftex.def)             Requested size: 145.36722pt x 156.89632pt.
 pdfTeX warning (ext4): destination with the same identifier (name{fig:sfig4}) h
 as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.356 \end{frame}
-                  [29
+l.360 \end{frame}
+                  [31
 
  <C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation.wiki/images/ab2.jpg
 >]
 <C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation.wiki/images/Hough.pn
-g, id=1030, 589.0005pt x 444.4605pt>
+g, id=1097, 589.0005pt x 444.4605pt>
 File: C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation.wiki/images/Hou
 gh.png Graphic file (type png)
 
 <use C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation.wiki/images/Houg
 h.png>
 Package pdftex.def Info: C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisat
-ion.wiki/images/Hough.png used on input line 372.
+ion.wiki/images/Hough.png used on input line 376.
 (pdftex.def)             Requested size: 247.13585pt x 156.89954pt.
 pdfTeX warning (ext4): destination with the same identifier (name{fig:sfig4}) h
 as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.372 \end{frame}
+l.376 \end{frame}
                  
-Overfull \vbox (12.64178pt too high) detected at line 372
+Overfull \vbox (12.64178pt too high) detected at line 376
  []
 
-[30
+[32
 
  <C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation.wiki/images/Hough.p
 ng>]
 <C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation.wiki/images/Shape.pn
-g, id=1064, 589.0005pt x 444.4605pt>
+g, id=1131, 589.0005pt x 444.4605pt>
 File: C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation.wiki/images/Sha
 pe.png Graphic file (type png)
 
 <use C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation.wiki/images/Shap
 e.png>
 Package pdftex.def Info: C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisat
-ion.wiki/images/Shape.png used on input line 392.
+ion.wiki/images/Shape.png used on input line 396.
 (pdftex.def)             Requested size: 218.06158pt x 156.89954pt.
 pdfTeX warning (ext4): destination with the same identifier (name{fig:sfig4}) h
 as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.392 \end{frame}
-                  [31
+l.396 \end{frame}
+                  [33
 
  <C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation.wiki/images/Shape.p
-ng>] [32
+ng>] [34
 
-] [33
+] [35
 
-] [34
+] [36
 
 ]
 \tf@nav=\write6
 \tf@toc=\write7
 \tf@snm=\write8
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 423.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 423.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 427.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 427.
 
-(D:\Progress-Presentation\Progress-Presentation.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 423.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 423.
+(C:\Users\KUMAR\eYSIP_2015_Marker_based_Robot_Localisation\Progress-Presentatio
+n\Progress-Presentation.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 427.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 427.
 Package rerunfilecheck Info: File `Progress-Presentation.out' has not changed.
 (rerunfilecheck)             Checksum: 71700BAB36F22CCB65B71EDEF0B9B8D9;357.
 
@@ -1343,11 +1354,11 @@ LaTeX Font Warning: Size substitutions with differences
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 423.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 427.
  ) 
 Here is how much of TeX's memory you used:
- 17656 strings out of 493921
- 334779 string characters out of 3154500
+ 17660 strings out of 493921
+ 335532 string characters out of 3154500
  403099 words of memory out of 3000000
  20423 multiletter control sequences out of 15000+200000
  8935 words of font info for 33 fonts, out of 3000000 for 9000
@@ -1358,9 +1369,9 @@ ublic/amsfonts/cm/cmss12.pfb><D:/mikTex/fonts/type1/public/amsfonts/cm/cmss8.pf
 b><D:/mikTex/fonts/type1/public/amsfonts/cm/cmss9.pfb><D:/mikTex/fonts/type1/pu
 blic/amsfonts/cm/cmssbx10.pfb><D:/mikTex/fonts/type1/public/amsfonts/cm/cmsy10.
 pfb>
-Output written on Progress-Presentation.pdf (34 pages, 1692573 bytes).
+Output written on Progress-Presentation.pdf (36 pages, 1709239 bytes).
 PDF statistics:
- 1235 PDF objects out of 1440 (max. 8388607)
- 80 named destinations out of 1000 (max. 500000)
+ 1301 PDF objects out of 1440 (max. 8388607)
+ 84 named destinations out of 1000 (max. 500000)
  179 words of extra memory for PDF output out of 10000 (max. 10000000)
 
