@@ -2,7 +2,7 @@
 import cv2
 
 # Read image
-img = cv2.imread("images/example/example.jpg")
+img = cv2.imread("images/Moments/example.jpg")
 
 # Convert to grayscale and apply thresholding
 gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
