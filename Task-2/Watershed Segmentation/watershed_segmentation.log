@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.5.23)  4 JUL 2015 14:26
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.5.23)  4 JUL 2015 14:31
 entering extended mode
 **watershed_segmentation.tex
 
@@ -854,99 +854,69 @@ Overfull \hbox (86.87224pt too wide) in paragraph at lines 134--134
 File: lstlang1.sty 2014/09/06 1.5e listings language file
 )
 ("C:\Users\KUMAR\eYSIP_2015_Marker_based_Robot_Localisation\Task-2\Watershed Se
-gmentation\watershed.py"
-Overfull \hbox (159.26016pt too wide) in paragraph at lines 8--9
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-
-Overfull \hbox (193.1pt too wide) in paragraph at lines 9--11
-[][][][][][][][][][][][][][][][][][][][][][][][][][]
- []
-
-[2]
-Overfull \hbox (125.42032pt too wide) in paragraph at lines 15--17
-[][][][][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-
-Overfull \hbox (83.12051pt too wide) in paragraph at lines 22--23
-[][][][][][][][][][][][][][][][][][][] 
- []
-
-
-Overfull \hbox (150.8002pt too wide) in paragraph at lines 23--25
-[][][][][][][][][][][][][][][][][][][][] 
- []
-
-
-Overfull \hbox (15.44083pt too wide) in paragraph at lines 33--34
+gmentation\watershed.py" [2]
+Overfull \hbox (15.44083pt too wide) in paragraph at lines 38--39
 [][][][][][][][][][][][][][][][][][][][][][] 
  []
 
 
-Overfull \hbox (235.39981pt too wide) in paragraph at lines 34--36
-[][][][][][][][][][][][][][][][][][][][][][][][] 
+Overfull \hbox (23.90079pt too wide) in paragraph at lines 39--40
+[][][][][][][][][][][][][][][][][][][] 
  []
 
 
-Overfull \hbox (286.15958pt too wide) in paragraph at lines 36--37
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+Overfull \hbox (40.82071pt too wide) in paragraph at lines 40--42
+[][][][][][][][] 
  []
 
-
-Overfull \hbox (74.66055pt too wide) in paragraph at lines 37--39
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-LaTeX Font Info:    Try loading font information for OT1+lmr on input line 42.
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 50.
 (D:\mikTex\tex\latex\lm\ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OML+lmm on input line 42.
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 50.
  (D:\mikTex\tex\latex\lm\omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 42.
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 50.
 
 
 (D:\mikTex\tex\latex\lm\omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMX+lmex on input line 42.
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 50.
 
  (D:\mikTex\tex\latex\lm\omxlmex.fd
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <14.4> on input line 42.
+(Font)              <14.4> on input line 50.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 42.
+(Font)              <10> on input line 50.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 42.
+(Font)              <7> on input line 50.
 
-Overfull \hbox (32.36075pt too wide) in paragraph at lines 42--44
+Overfull \hbox (32.36075pt too wide) in paragraph at lines 50--52
 [][][][][][][][][][][][][][][][][][] 
  []
 
 
-Overfull \hbox (57.74063pt too wide) in paragraph at lines 48--49
-[][][][][][][][][][][][][][][][][][][][][][][][][][] 
+Overfull \hbox (32.36075pt too wide) in paragraph at lines 55--56
+[][][][][] 
  []
 
-
-Overfull \hbox (49.28067pt too wide) in paragraph at lines 51--52
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+[3]
+Overfull \hbox (23.90079pt too wide) in paragraph at lines 67--68
+[][][][][] 
  []
 
-[3]) [4] <watercoins.jpg, id=127, 252.945pt x 313.17pt>
+) [4] <watercoins.jpg, id=137, 252.945pt x 313.17pt>
 File: watercoins.jpg Graphic file (type jpg)
  <use watercoins.jpg>
 Package pdftex.def Info: watercoins.jpg used on input line 147.
 (pdftex.def)             Requested size: 252.94438pt x 313.16922pt.
 
 [5 <C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation/Task-2/Watershed 
-Segmentation/watercoins.jpg>] <otsuthresh.jpg, id=133, 252.945pt x 313.17pt>
+Segmentation/watercoins.jpg>] <otsuthresh.jpg, id=143, 252.945pt x 313.17pt>
 File: otsuthresh.jpg Graphic file (type jpg)
 
 <use otsuthresh.jpg>
@@ -954,19 +924,19 @@ Package pdftex.def Info: otsuthresh.jpg used on input line 152.
 (pdftex.def)             Requested size: 252.94438pt x 313.16922pt.
  [6 <C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation/Task-2/Watershed
  Segmentation/otsuthresh.jpg>]
-<Surebg.jpg, id=140, 252.945pt x 313.17pt>
+<Surebg.jpg, id=150, 252.945pt x 313.17pt>
 File: Surebg.jpg Graphic file (type jpg)
  <use Surebg.jpg>
 Package pdftex.def Info: Surebg.jpg used on input line 157.
 (pdftex.def)             Requested size: 252.94438pt x 313.16922pt.
  [7 <C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation/Task-2/Watershed
- Segmentation/Surebg.jpg>] <Surefg.jpg, id=146, 252.945pt x 313.17pt>
+ Segmentation/Surebg.jpg>] <Surefg.jpg, id=156, 252.945pt x 313.17pt>
 File: Surefg.jpg Graphic file (type jpg)
  <use Surefg.jpg>
 Package pdftex.def Info: Surefg.jpg used on input line 162.
 (pdftex.def)             Requested size: 252.94438pt x 313.16922pt.
  [8 <C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation/Task-2/Watershed
- Segmentation/Surefg.jpg>] <img.jpg, id=152, 252.945pt x 313.17pt>
+ Segmentation/Surefg.jpg>] <img.jpg, id=162, 252.945pt x 313.17pt>
 File: img.jpg Graphic file (type jpg)
  <use img.jpg>
 Package pdftex.def Info: img.jpg used on input line 169.
@@ -1008,13 +978,13 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 189.
  ) 
 Here is how much of TeX's memory you used:
- 13072 strings out of 493921
- 187048 string characters out of 3154500
- 320233 words of memory out of 3000000
- 16104 multiletter control sequences out of 15000+200000
+ 13083 strings out of 493921
+ 187201 string characters out of 3154500
+ 318233 words of memory out of 3000000
+ 16105 multiletter control sequences out of 15000+200000
  51369 words of font info for 47 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 39i,7n,43p,852b,2007s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 39i,7n,43p,852b,1957s stack positions out of 5000i,500n,10000p,200000b,50000s
 {D:/mikTex/fonts/enc/dvips/lm/lm-mathsy.enc}{D:/mikTex/fonts/enc/dvips/lm/lm-
 ts1.enc}{D:/mikTex/fonts/enc/dvips/lm/lm-ec.enc}<D:/mikTex/fonts/type1/public/l
 m/lmbx10.pfb><D:/mikTex/fonts/type1/public/lm/lmbx12.pfb><D:/mikTex/fonts/type1
@@ -1022,9 +992,9 @@ m/lmbx10.pfb><D:/mikTex/fonts/type1/public/lm/lmbx12.pfb><D:/mikTex/fonts/type1
 nts/type1/public/lm/lmr12.pfb><D:/mikTex/fonts/type1/public/lm/lmri12.pfb><D:/m
 ikTex/fonts/type1/public/lm/lmsy10.pfb><D:/mikTex/fonts/type1/public/lm/lmtt12.
 pfb>
-Output written on watershed_segmentation.pdf (11 pages, 308450 bytes).
+Output written on watershed_segmentation.pdf (11 pages, 311610 bytes).
 PDF statistics:
- 221 PDF objects out of 1000 (max. 8388607)
- 98 named destinations out of 1000 (max. 500000)
+ 232 PDF objects out of 1000 (max. 8388607)
+ 108 named destinations out of 1000 (max. 500000)
  8258 words of extra memory for PDF output out of 10000 (max. 10000000)
 
