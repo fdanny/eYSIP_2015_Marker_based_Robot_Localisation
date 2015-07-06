@@ -84,13 +84,15 @@
 
 \section{Goal}\label{goal}
 
-\emph{\textbf{In this chapter,}} 
+\emph{\textbf{\large In this chapter,}} 
 \begin{itemize} 
+	\Large
 	\item How to use marker-based water shed segmentation on images.
     \item  We will see: \textbf{cv2.distanceTransform()}, \textbf{cv2.watershed()}
 \end{itemize}
 
 \section{Theory}\label{theory}
+\Large
 Watershed is an algorithm in image processing used for isolating objects in the image from the background. The algorithm accepts a grayscale image and a marker image. The markers is an image where you tell the watershed about the foreground objects and the background. \\
 \\
 \Large{\textbf{Working principle}} \\
@@ -111,25 +113,25 @@ What we do is to give different labels for our object we know. Label the region 
 
 \begin{verbatim}
 '''
-******************************************************************************
-*
-*                   IMAGE PROCESSING ( THRESHOLDING OPERATION )
-*
-*
-*  TEAM MEMBERS : NIHARIKA JAYANTHI, DHEERAJ KAMATH
-*  
-*  MENTOR : SANAM SHAKYA
-*
-*  FILENAME : watershed.PY
-*
-*  THEME : DEVELOP MODULES FOR IMAGE PROCESSING AND
-*          ROBOT LOCALISATION USING MARKERS
-*
-*  FUNCTIONS : cv2.watershed(), cv2.distanceTransform()
-*
-*  GLOBAL VARIABLES : NONE
-*
-*****************************************************************************
+*********************************************************************
+*                                                                   *
+*          IMAGE PROCESSING ( WATERSHED SEGMENTATION )              *
+*                                                                   *
+*                                                                   *
+*  TEAM MEMBERS : NIHARIKA JAYANTHI, DHEERAJ KAMATH                 *
+*                                                                   *
+*  MENTOR : SANAM SHAKYA                                            *
+*                                                                   *
+*  FILENAME : watershed.py                                         *
+*                                                                   *
+*  THEME : DEVELOP MODULES FOR IMAGE PROCESSING AND                 *
+*          ROBOT LOCALISATION USING MARKERS                         *
+*                                                                   *
+*  FUNCTIONS : cv2.watershed(), cv2.distanceTransform()             *
+*                                                                   *
+*  GLOBAL VARIABLES : NONE                                          *
+*                                                                   *
+*********************************************************************
 '''
 \end{verbatim}
 
@@ -176,12 +178,12 @@ Output Images:
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi})}
 \tightlist
-\item http://cmm.ensmp.fr/~beucher/wtshed.html\#examples
-\item http://opencv-python-tutroals.readthedocs.org/en/latest/py
-\_tutorials/py\_imgproc/py\_watershed/py\_watershed.html\#watershed
-\item https://www.cs.auckland.ac.nz/courses/compsci773s1c/lectures/
-ImageProcessing-html/topic3.htm
-\item http://stackoverflow.com/questions/11294859/how-to-define-the-markers-for-watershed-in-opencv
+\item \url{http://cmm.ensmp.fr/~beucher/wtshed.html\#examples}
+\item \href{http://opencv-python-tutroals.readthedocs.org/en/latest/py
+\_tutorials/py\_imgproc/py\_watershed/py\_watershed.html\#watershed}{About watershed segmentation}
+\item \href{https://www.cs.auckland.ac.nz/courses/compsci773s1c/lectures
+/ImageProcessing-html/topic3.htm}{Image processing lectures}
+\item \href{http://stackoverflow.com/questions/11294859 \\ /how-to-define-the-markers-for-watershed-in-opencv}{Info on defining markers}
 \end{enumerate}
 
 

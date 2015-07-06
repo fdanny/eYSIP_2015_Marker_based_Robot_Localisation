@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.5.23)  6 JUL 2015 18:51
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.5.23)  6 JUL 2015 18:18
 entering extended mode
-**watershed_segmentation.tex
+**Thresholding.tex
 
-("C:\Users\KUMAR\eYSIP_2015_Marker_based_Robot_Localisation\Task-2\Watershed Se
-gmentation\Documentation\Tex\watershed_segmentation.tex"
+(C:\Users\KUMAR\eYSIP_2015_Marker_based_Robot_Localisation.wiki\Thresholding.te
+x
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -66,74 +66,82 @@ LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
 )
-(D:\mikTex\tex\latex\geometry\geometry.sty
-Package: geometry 2010/09/12 v5.6 Page Geometry
+(D:\mikTex\tex\latex\amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
 
-(D:\mikTex\tex\latex\graphics\keyval.sty
-Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
-\KV@toks@=\toks14
-)
-(D:\mikTex\tex\generic\oberdiek\ifpdf.sty
-Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
-Package ifpdf Info: pdfTeX in PDF mode is detected.
-)
-(D:\mikTex\tex\generic\oberdiek\ifvtex.sty
-Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
-Package ifvtex Info: VTeX not detected.
-)
-(D:\mikTex\tex\generic\ifxetex\ifxetex.sty
-Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
-)
-\Gm@cnth=\count87
-\Gm@cntv=\count88
-\c@Gm@tempcnt=\count89
-\Gm@bindingoffset=\dimen103
-\Gm@wd@mp=\dimen104
-\Gm@odd@mp=\dimen105
-\Gm@even@mp=\dimen106
-\Gm@layoutwidth=\dimen107
-\Gm@layoutheight=\dimen108
-\Gm@layouthoffset=\dimen109
-\Gm@layoutvoffset=\dimen110
-\Gm@dimlist=\toks15
-
-(D:\mikTex\tex\latex\geometry\geometry.cfg))
-
-Package geometry Warning: Over-specification in `h'-direction.
-    `width' (597.50787pt) is ignored.
-
-
-Package geometry Warning: Over-specification in `v'-direction.
-    `height' (845.04684pt) is ignored.
-
-(D:\mikTex\tex\latex\listings\listings.sty
-\lst@mode=\count90
-\lst@gtempboxa=\box26
-\lst@token=\toks16
-\lst@length=\count91
-\lst@currlwidth=\dimen111
-\lst@column=\count92
-\lst@pos=\count93
-\lst@lostspace=\dimen112
-\lst@width=\dimen113
-\lst@newlines=\count94
-\lst@lineno=\count95
-\lst@maxwidth=\dimen114
-
-(D:\mikTex\tex\latex\listings\lstmisc.sty
-File: lstmisc.sty 2014/09/06 1.5e (Carsten Heinz)
-\c@lstnumber=\count96
-\lst@skipnumbers=\count97
-\lst@framebox=\box27
-)
-(D:\mikTex\tex\latex\listings\listings.cfg
-File: listings.cfg 2014/09/06 1.5e listings configuration
+(D:\mikTex\tex\latex\amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks14
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 ))
-Package: listings 2014/09/06 1.5e (Carsten Heinz)
+(D:\mikTex\tex\latex\amsmath\amsmath.sty
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip43
 
+For additional information on amsmath, use the `?' option.
+(D:\mikTex\tex\latex\amsmath\amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(D:\mikTex\tex\latex\amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks15
+\ex@=\dimen103
+))
+(D:\mikTex\tex\latex\amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen104
+)
+(D:\mikTex\tex\latex\amsmath\amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count87
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count88
+\leftroot@=\count89
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count90
+\DOTSCASE@=\count91
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen105
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count92
+\c@MaxMatrixCols=\count93
+\dotsspace@=\muskip10
+\c@parentequation=\count94
+\dspbrk@lvl=\count95
+\tag@help=\toks16
+\row@=\count96
+\column@=\count97
+\maxfields@=\count98
+\andhelp@=\toks17
+\eqnshift@=\dimen106
+\alignsep@=\dimen107
+\tagshift@=\dimen108
+\tagwidth@=\dimen109
+\totwidth@=\dimen110
+\lineht@=\dimen111
+\@envbody=\toks18
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks19
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
 (D:\mikTex\tex\latex\graphics\graphicx.sty
 Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
 
+(D:\mikTex\tex\latex\graphics\keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks20
+)
 (D:\mikTex\tex\latex\graphics\graphics.sty
 Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
 
@@ -154,10 +162,13 @@ Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
 (D:\mikTex\tex\generic\oberdiek\ltxcmds.sty
 Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 )
-\Gread@gobject=\count98
+\Gread@gobject=\count99
 ))
-\Gin@req@height=\dimen115
-\Gin@req@width=\dimen116
+\Gin@req@height=\dimen112
+\Gin@req@width=\dimen113
+)
+(D:\mikTex\tex\generic\ifxetex\ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
 (D:\mikTex\tex\generic\oberdiek\ifluatex.sty
 Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
@@ -166,6 +177,8 @@ Package ifluatex Info: LuaTeX not detected.
 (D:\mikTex\tex\latex\base\fixltx2e.sty
 Package: fixltx2e 2006/09/13 v1.1m fixes to LaTeX
 LaTeX Info: Redefining \em on input line 420.
+LaTeX Info: The control sequence `\[' is already robust on input line 471.
+LaTeX Info: The control sequence `\]' is already robust on input line 472.
 ) (D:\mikTex\tex\latex\base\fontenc.sty
 Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
 
@@ -174,8 +187,8 @@ File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
 )) (D:\mikTex\tex\latex\base\inputenc.sty
 Package: inputenc 2008/03/30 v1.1d Input encoding file
-\inpenc@prehook=\toks17
-\inpenc@posthook=\toks18
+\inpenc@prehook=\toks21
+\inpenc@posthook=\toks22
 
 (D:\mikTex\tex\latex\base\utf8.def
 File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
@@ -545,19 +558,19 @@ Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 340.
 ))
 (D:\mikTex\tex\latex\microtype\microtype.sty
 Package: microtype 2013/05/23 v2.5a Micro-typographical refinements (RS)
-\MT@toks=\toks19
-\MT@count=\count99
+\MT@toks=\toks23
+\MT@count=\count100
 LaTeX Info: Redefining \textls on input line 766.
-\MT@outer@kern=\dimen117
+\MT@outer@kern=\dimen114
 LaTeX Info: Redefining \textmicrotypecontext on input line 1285.
-\MT@listname@count=\count100
+\MT@listname@count=\count101
 
 (D:\mikTex\tex\latex\microtype\microtype-pdftex.def
 File: microtype-pdftex.def 2013/05/23 v2.5a Definitions specific to pdftex (RS)
 
 LaTeX Info: Redefining \lsstyle on input line 915.
 LaTeX Info: Redefining \lslig on input line 915.
-\MT@outer@space=\skip43
+\MT@outer@space=\skip46
 )
 Package microtype Info: Loading configuration file microtype.cfg.
 
@@ -577,9 +590,11 @@ Package: hobsub 2012/04/25 v1.12 Construct package bundles (HO)
 Package hobsub Info: Skipping package `infwarerr' (already loaded).
 Package hobsub Info: Skipping package `ltxcmds' (already loaded).
 Package hobsub Info: Skipping package `ifluatex' (already loaded).
-Package hobsub Info: Skipping package `ifvtex' (already loaded).
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
 Package: intcalc 2007/09/27 v1.1 Expandable calculations with integers (HO)
-Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
 Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
 Package etexcmds Info: Could not find \expanded.
 (etexcmds)             That can mean that you are not using pdfTeX 1.50 or
@@ -615,16 +630,16 @@ Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
 (D:\mikTex\tex\latex\oberdiek\kvoptions.sty
 Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
 )
-\@linkdim=\dimen118
-\Hy@linkcounter=\count101
-\Hy@pagecounter=\count102
+\@linkdim=\dimen115
+\Hy@linkcounter=\count102
+\Hy@pagecounter=\count103
 
 (D:\mikTex\tex\latex\hyperref\pd1enc.def
 File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
-\Hy@SavedSpaceFactor=\count103
+\Hy@SavedSpaceFactor=\count104
 
 (D:\mikTex\tex\latex\00miktex\hyperref.cfg
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
@@ -643,16 +658,16 @@ Package hyperref Info: Plain pages OFF on input line 4458.
 Package hyperref Info: Backreferencing OFF on input line 4463.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4688.
-\c@Hy@tempcnt=\count104
+\c@Hy@tempcnt=\count105
  (D:\mikTex\tex\latex\url\url.sty
-\Urlmuskip=\muskip10
+\Urlmuskip=\muskip11
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 5041.
-\XeTeXLinkMargin=\dimen119
-\Fld@menulength=\count105
-\Field@Width=\dimen120
-\Fld@charsize=\dimen121
+\XeTeXLinkMargin=\dimen116
+\Fld@menulength=\count106
+\Field@Width=\dimen117
+\Fld@charsize=\dimen118
 Package hyperref Info: Hyper figures OFF on input line 6295.
 Package hyperref Info: Link nesting OFF on input line 6300.
 Package hyperref Info: Hyper index ON on input line 6303.
@@ -662,115 +677,76 @@ Package hyperref Info: Link coloring with OCG OFF on input line 6320.
 Package hyperref Info: PDF/A mode OFF on input line 6325.
 LaTeX Info: Redefining \ref on input line 6365.
 LaTeX Info: Redefining \pageref on input line 6369.
-\Hy@abspage=\count106
-\c@Item=\count107
-\c@Hfootnote=\count108
+\Hy@abspage=\count107
+\c@Item=\count108
+\c@Hfootnote=\count109
 )
 
 Package hyperref Message: Driver (autodetected): hpdftex.
 
 (D:\mikTex\tex\latex\hyperref\hpdftex.def
 File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
-\Fld@listcount=\count109
-\c@bookmark@seq@number=\count110
+\Fld@listcount=\count110
+\c@bookmark@seq@number=\count111
 
 (D:\mikTex\tex\latex\oberdiek\rerunfilecheck.sty
 Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
 )
-\Hy@SectionHShift=\skip44
+\Hy@SectionHShift=\skip47
 )
-Package hyperref Info: Option `breaklinks' set `true' on input line 52.
+Package hyperref Info: Option `breaklinks' set `true' on input line 42.
 
 
 Package hyperref Warning: Option `bookmarks' has already been used,
-(hyperref)                setting the option has no effect on input line 52.
+(hyperref)                setting the option has no effect on input line 42.
 
-Package hyperref Info: Option `colorlinks' set `true' on input line 52.
+Package hyperref Info: Option `colorlinks' set `true' on input line 42.
 
-("C:\Users\KUMAR\eYSIP_2015_Marker_based_Robot_Localisation\Task-2\Watershed Se
-gmentation\Documentation\Tex\watershed_segmentation.aux"
-
-LaTeX Warning: Label `additional-resources' multiply defined.
-
-)
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 73.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 73.
+(C:\Users\KUMAR\eYSIP_2015_Marker_based_Robot_Localisation.wiki\Thresholding.au
+x)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 63.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 63.
  (D:\mikTex\tex\latex\base\ts1cmr.fd
 File: ts1cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 73.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
-LaTeX Font Info:    Try loading font information for T1+lmr on input line 73.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Try loading font information for T1+lmr on input line 63.
  (D:\mikTex\tex\latex\lm\t1lmr.fd
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-*geometry* driver: auto-detecting
-*geometry* detected driver: pdftex
-*geometry* verbose mode - [ preamble ] result:
-* driver: pdftex
-* paper: a4paper
-* layout: <same size as paper>
-* layoutoffset:(h,v)=(0.0pt,0.0pt)
-* modes: 
-* h-part:(L,W,R)=(56.9055pt, 483.69687pt, 56.9055pt)
-* v-part:(T,H,B)=(56.9055pt, 731.23584pt, 56.9055pt)
-* \paperwidth=597.50787pt
-* \paperheight=845.04684pt
-* \textwidth=483.69687pt
-* \textheight=731.23584pt
-* \oddsidemargin=-15.36449pt
-* \evensidemargin=-15.36449pt
-* \topmargin=-52.36449pt
-* \headheight=12.0pt
-* \headsep=25.0pt
-* \topskip=10.0pt
-* \footskip=30.0pt
-* \marginparwidth=65.0pt
-* \marginparsep=11.0pt
-* \columnsep=10.0pt
-* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
-* \hoffset=0.0pt
-* \voffset=0.0pt
-* \mag=1000
-* \@twocolumnfalse
-* \@twosidefalse
-* \@mparswitchfalse
-* \@reversemarginfalse
-* (1in=72.27pt=25.4mm, 1cm=28.453pt)
-
-\c@lstlisting=\count111
 (D:\mikTex\tex\context\base\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count112
-\scratchdimen=\dimen122
+\scratchdimen=\dimen119
 \scratchbox=\box28
 \nofMPsegments=\count113
 \nofMParguments=\count114
-\everyMPshowfont=\toks20
+\everyMPshowfont=\toks24
 \MPscratchCnt=\count115
-\MPscratchDim=\dimen123
+\MPscratchDim=\dimen120
 \MPnumerator=\count116
 \makeMPintoPDFobject=\count117
-\everyMPtoPDFconversion=\toks21
+\everyMPtoPDFconversion=\toks25
 )
-LaTeX Info: Redefining \microtypecontext on input line 73.
+LaTeX Info: Redefining \microtypecontext on input line 63.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using protrusion set `basicmath'.
@@ -793,7 +769,7 @@ File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
 Package color Info: Driver file: pdftex.def on input line 130.
 )
-Package hyperref Info: Link coloring ON on input line 73.
+Package hyperref Info: Link coloring ON on input line 63.
  (D:\mikTex\tex\latex\hyperref\nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 
@@ -802,312 +778,316 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count118
 )
-LaTeX Info: Redefining \ref on input line 73.
-LaTeX Info: Redefining \pageref on input line 73.
-LaTeX Info: Redefining \nameref on input line 73.
+LaTeX Info: Redefining \ref on input line 63.
+LaTeX Info: Redefining \pageref on input line 63.
+LaTeX Info: Redefining \nameref on input line 63.
 
-("C:\Users\KUMAR\eYSIP_2015_Marker_based_Robot_Localisation\Task-2\Watershed Se
-gmentation\Documentation\Tex\watershed_segmentation.out")
-("C:\Users\KUMAR\eYSIP_2015_Marker_based_Robot_Localisation\Task-2\Watershed Se
-gmentation\Documentation\Tex\watershed_segmentation.out")
+(C:\Users\KUMAR\eYSIP_2015_Marker_based_Robot_Localisation.wiki\Thresholding.ou
+t)
+(C:\Users\KUMAR\eYSIP_2015_Marker_based_Robot_Localisation.wiki\Thresholding.ou
+t)
 \@outlinefile=\write3
- [1
-
-{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
-LaTeX Font Info:    Try loading font information for TS1+lmr on input line 90.
+LaTeX Font Info:    Try loading font information for TS1+lmr on input line 85.
  (D:\mikTex\tex\latex\lm\ts1lmr.fd
 File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-Underfull \hbox (badness 10000) in paragraph at lines 96--101
-
- []
-
-pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
-been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.109 \newpage
-               [1]
-LaTeX Font Info:    Try loading font information for T1+lmtt on input line 114.
-
+LaTeX Font Info:    Try loading font information for T1+lmtt on input line 85.
  (D:\mikTex\tex\latex\lm\t1lmtt.fd
 File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for TS1+lmtt on input line 136
+<sun.jpg, id=23, 276.03125pt x 183.68625pt>
+File: sun.jpg Graphic file (type jpg)
+ <use sun.jpg>
+Package pdftex.def Info: sun.jpg used on input line 106.
+(pdftex.def)             Requested size: 276.03056pt x 183.68578pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[1
+
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
+LaTeX Font Info:    Try loading font information for TS1+lmtt on input line 191
 .
 
 (D:\mikTex\tex\latex\lm\ts1lmtt.fd
 File: ts1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-Overfull \hbox (27.59233pt too wide) in paragraph at lines 136--136
-[]\T1/lmtt/m/n/14.4 ***********************************************************
-**********[] 
+Overfull \hbox (85.49875pt too wide) in paragraph at lines 191--191
+[]\T1/lmtt/m/n/10 *************************************************************
+*********************[] 
  []
 
 
-Overfull \hbox (27.59233pt too wide) in paragraph at lines 136--136
-[]\T1/lmtt/m/n/14.4 *                                                          
-         *[] 
+Overfull \hbox (85.49875pt too wide) in paragraph at lines 191--191
+[]\T1/lmtt/m/n/10 *                                                            
+                    *[] 
  []
 
 
-Overfull \hbox (27.59233pt too wide) in paragraph at lines 136--136
-[]\T1/lmtt/m/n/14.4 *          IMAGE PROCESSING ( WATERSHED SEGMENTATION )     
-         *[] 
+Overfull \hbox (85.49875pt too wide) in paragraph at lines 191--191
+[]\T1/lmtt/m/n/10 *                   IMAGE PROCESSING ( THRESHOLDING OPERATION
+ )                  *[] 
  []
 
 
-Overfull \hbox (27.59233pt too wide) in paragraph at lines 136--136
-[]\T1/lmtt/m/n/14.4 *                                                          
-         *[] 
+Overfull \hbox (85.49875pt too wide) in paragraph at lines 191--191
+[]\T1/lmtt/m/n/10 *                                                            
+                    *[] 
  []
 
 
-Overfull \hbox (27.59233pt too wide) in paragraph at lines 136--136
-[]\T1/lmtt/m/n/14.4 *                                                          
-         *[] 
+Overfull \hbox (85.49875pt too wide) in paragraph at lines 191--191
+[]\T1/lmtt/m/n/10 *                                                            
+                    *[] 
  []
 
 
-Overfull \hbox (27.59233pt too wide) in paragraph at lines 136--136
-[]\T1/lmtt/m/n/14.4 *  TEAM MEMBERS : NIHARIKA JAYANTHI, DHEERAJ KAMATH        
-         *[] 
+Overfull \hbox (85.49875pt too wide) in paragraph at lines 191--191
+[]\T1/lmtt/m/n/10 *  TEAM MEMBERS : NIHARIKA JAYANTHI, DHEERAJ KAMATH          
+                    *[] 
  []
 
 
-Overfull \hbox (27.59233pt too wide) in paragraph at lines 136--136
-[]\T1/lmtt/m/n/14.4 *                                                          
-         *[] 
+Overfull \hbox (85.49875pt too wide) in paragraph at lines 191--191
+[]\T1/lmtt/m/n/10 *                                                            
+                    *[] 
  []
 
 
-Overfull \hbox (27.59233pt too wide) in paragraph at lines 136--136
-[]\T1/lmtt/m/n/14.4 *  MENTOR : SANAM SHAKYA                                   
-         *[] 
+Overfull \hbox (85.49875pt too wide) in paragraph at lines 191--191
+[]\T1/lmtt/m/n/10 *  MENTOR : SANAM SHAKYA                                     
+                    *[] 
  []
 
 
-Overfull \hbox (27.59233pt too wide) in paragraph at lines 136--136
-[]\T1/lmtt/m/n/14.4 *                                                          
-         *[] 
+Overfull \hbox (85.49875pt too wide) in paragraph at lines 191--191
+[]\T1/lmtt/m/n/10 *                                                            
+                    *[] 
  []
 
 
-Overfull \hbox (20.18234pt too wide) in paragraph at lines 136--136
-[]\T1/lmtt/m/n/14.4 *  FILENAME : watershed.py                                 
-        *[] 
+Overfull \hbox (85.49875pt too wide) in paragraph at lines 191--191
+[]\T1/lmtt/m/n/10 *  FILENAME : THRESHOLDING.PY                                
+                    *[] 
  []
 
 
-Overfull \hbox (27.59233pt too wide) in paragraph at lines 136--136
-[]\T1/lmtt/m/n/14.4 *                                                          
-         *[] 
+Overfull \hbox (85.49875pt too wide) in paragraph at lines 191--191
+[]\T1/lmtt/m/n/10 *                                                            
+                    *[] 
  []
 
 
-Overfull \hbox (27.59233pt too wide) in paragraph at lines 136--136
-[]\T1/lmtt/m/n/14.4 *  THEME : DEVELOP MODULES FOR IMAGE PROCESSING AND        
-         *[] 
+Overfull \hbox (85.49875pt too wide) in paragraph at lines 191--191
+[]\T1/lmtt/m/n/10 *  THEME : DEVELOP MODULES FOR IMAGE PROCESSING AND ROBOT LOC
+ALISATION           *[] 
  []
 
 
-Overfull \hbox (27.59233pt too wide) in paragraph at lines 136--136
-[]\T1/lmtt/m/n/14.4 *          ROBOT LOCALISATION USING MARKERS                
-         *[] 
+Overfull \hbox (85.49875pt too wide) in paragraph at lines 191--191
+[]\T1/lmtt/m/n/10 *          USING MARKERS                                     
+                    *[] 
  []
 
 
-Overfull \hbox (27.59233pt too wide) in paragraph at lines 136--136
-[]\T1/lmtt/m/n/14.4 *                                                          
-         *[] 
+Overfull \hbox (85.49875pt too wide) in paragraph at lines 191--191
+[]\T1/lmtt/m/n/10 *                                                            
+                    *[] 
  []
 
 
-Overfull \hbox (27.59233pt too wide) in paragraph at lines 136--136
-[]\T1/lmtt/m/n/14.4 *  FUNCTIONS : cv2.watershed(), cv2.distanceTransform()    
-         *[] 
+Overfull \hbox (85.49875pt too wide) in paragraph at lines 191--191
+[]\T1/lmtt/m/n/10 *  FUNCTIONS : cv3.threshold(), cv2.cvtColor(), cv2.imread() 
+                    *[] 
  []
 
 
-Overfull \hbox (27.59233pt too wide) in paragraph at lines 136--136
-[]\T1/lmtt/m/n/14.4 *                                                          
-         *[] 
+Overfull \hbox (85.49875pt too wide) in paragraph at lines 191--191
+[]\T1/lmtt/m/n/10 *                                                            
+                    *[] 
  []
 
 
-Overfull \hbox (27.59233pt too wide) in paragraph at lines 136--136
-[]\T1/lmtt/m/n/14.4 *  GLOBAL VARIABLES : NONE                                 
-         *[] 
+Overfull \hbox (85.49875pt too wide) in paragraph at lines 191--191
+[]\T1/lmtt/m/n/10 *  GLOBAL VARIABLES : NONE                                   
+                    *[] 
  []
 
 
-Overfull \hbox (27.59233pt too wide) in paragraph at lines 136--136
-[]\T1/lmtt/m/n/14.4 *                                                          
-         *[] 
+Overfull \hbox (85.49875pt too wide) in paragraph at lines 191--191
+[]\T1/lmtt/m/n/10 *                                                            
+                    *[] 
  []
 
 
-Overfull \hbox (27.59233pt too wide) in paragraph at lines 136--136
-[]\T1/lmtt/m/n/14.4 ***********************************************************
-**********[] 
+Overfull \hbox (85.49875pt too wide) in paragraph at lines 191--191
+[]\T1/lmtt/m/n/10 *************************************************************
+*********************[] 
  []
 
-(D:\mikTex\tex\latex\listings\lstlang1.sty
-File: lstlang1.sty 2014/09/06 1.5e listings language file
-)
-("C:\Users\KUMAR\eYSIP_2015_Marker_based_Robot_Localisation\Task-2\Watershed Se
-gmentation\Documentation\Tex\watershed.py"
-Overfull \hbox (23.90079pt too wide) in paragraph at lines 9--10
-[][][][][][][][][][][][][][][][][][][] 
+[2 <C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation.wiki/sun.jpg>]
+Overfull \hbox (127.49863pt too wide) in paragraph at lines 191--191
+[]\T1/lmtt/m/n/10 #############################################################
+#############################[] 
  []
 
 
-Overfull \hbox (32.36075pt too wide) in paragraph at lines 10--12
-[][][][][][][][][][][][][][] 
- []
-
-[2]
-Overfull \hbox (15.44083pt too wide) in paragraph at lines 25--26
-[][][][][][][][][][] 
+Overfull \hbox (116.99866pt too wide) in paragraph at lines 191--191
+[]\T1/lmtt/m/n/10 * FUNCTION NAME : ret,thresh = cv2.threshold(img, Min_value,M
+ax_value,cv2.THRESH_BINARY)[] 
  []
 
 
-Overfull \hbox (23.90079pt too wide) in paragraph at lines 27--29
-[][][][][][][][][] 
+Overfull \hbox (27.74892pt too wide) in paragraph at lines 191--191
+[]\T1/lmtt/m/n/10 * INPUT         : Input is a source image which should be in 
+grayscale.[] 
  []
 
 
-Overfull \hbox (15.44083pt too wide) in paragraph at lines 37--38
-[][][][][][][][][][][][][][][][][][][][][][] 
+Overfull \hbox (85.49875pt too wide) in paragraph at lines 191--191
+[]\T1/lmtt/m/n/10 * LOGIC         : The function takes three inputs. First is t
+he source image(img),[] 
  []
 
 
-Overfull \hbox (32.36075pt too wide) in paragraph at lines 38--39
-[][][][][][][][][][][][][][][][][][][][] 
+Overfull \hbox (106.49869pt too wide) in paragraph at lines 191--191
+[]                  \T1/lmtt/m/n/10 second argument is the threshold value whic
+h is used to classify the[] 
  []
 
 
-Overfull \hbox (49.28067pt too wide) in paragraph at lines 39--41
-[][][][][][][][] 
+Overfull \hbox (116.99866pt too wide) in paragraph at lines 191--191
+[]                  \T1/lmtt/m/n/10 Third argument is the Max_value which repre
+sents the value to be given[] 
  []
 
 
-Overfull \hbox (32.36075pt too wide) in paragraph at lines 41--42
-[][][][][][][][][][][][][][][][][][][][][][][][] 
+Overfull \hbox (116.99866pt too wide) in paragraph at lines 191--191
+[]                  \T1/lmtt/m/n/10 if pixel value is more than (sometimes less
+ than) the threshold value.[] 
  []
 
 
-Overfull \hbox (15.44083pt too wide) in paragraph at lines 44--46
-[][][][][][][][][][][][] 
+Overfull \hbox (59.24883pt too wide) in paragraph at lines 191--191
+[]\T1/lmtt/m/n/10 * EXAMPLE CALL  : ret,thresh = cv2.threshold( img, 0, 255, cv
+2.THRESH_BINARY)[] 
  []
 
-LaTeX Font Info:    Try loading font information for OT1+lmr on input line 50.
-(D:\mikTex\tex\latex\lm\ot1lmr.fd
+
+Overfull \hbox (17.24895pt too wide) in paragraph at lines 191--191
+[]\T1/lmtt/m/n/10 #############################################################
+########[] 
+ []
+
+[3] <Threshbinary.jpg, id=44, 276.03125pt x 183.68625pt>
+File: Threshbinary.jpg Graphic file (type jpg)
+
+<use Threshbinary.jpg>
+Package pdftex.def Info: Threshbinary.jpg used on input line 199.
+(pdftex.def)             Requested size: 276.03056pt x 183.68578pt.
+ [4 <C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation.wiki/Threshbinar
+y.jpg>]
+<ThreshBinaryInv.jpg, id=50, 276.03125pt x 183.68625pt>
+File: ThreshBinaryInv.jpg Graphic file (type jpg)
+
+<use ThreshBinaryInv.jpg>
+Package pdftex.def Info: ThreshBinaryInv.jpg used on input line 204.
+(pdftex.def)             Requested size: 276.03056pt x 183.68578pt.
+ <ThreshTrunc.jpg, id=51, 276.03125pt x 183.68625pt>
+File: ThreshTrunc.jpg Graphic file (type jpg)
+
+<use ThreshTrunc.jpg>
+Package pdftex.def Info: ThreshTrunc.jpg used on input line 208.
+(pdftex.def)             Requested size: 276.03056pt x 183.68578pt.
+ [5 <C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation.wiki/ThreshBinar
+yInv.jpg> <C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation.wiki/Thres
+hTrunc.jpg>]
+<ThreshToZero.jpg, id=58, 276.03125pt x 183.68625pt>
+File: ThreshToZero.jpg Graphic file (type jpg)
+ <use ThreshToZero.jpg>
+Package pdftex.def Info: ThreshToZero.jpg used on input line 213.
+(pdftex.def)             Requested size: 276.03056pt x 183.68578pt.
+
+<ThreshToZeroInv.jpg, id=59, 276.03125pt x 183.68625pt>
+File: ThreshToZeroInv.jpg Graphic file (type jpg)
+
+<use ThreshToZeroInv.jpg>
+Package pdftex.def Info: ThreshToZeroInv.jpg used on input line 217.
+(pdftex.def)             Requested size: 276.03056pt x 183.68578pt.
+ [6 <C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation.wiki/ThreshToZer
+o.jpg> <C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation.wiki/ThreshTo
+ZeroInv.jpg>]
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 228.
+
+ (D:\mikTex\tex\latex\lm\ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OML+lmm on input line 50.
- (D:\mikTex\tex\latex\lm\omllmm.fd
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 228.
+
+
+(D:\mikTex\tex\latex\lm\omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 50.
-
-
-(D:\mikTex\tex\latex\lm\omslmsy.fd
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 228
+.
+ (D:\mikTex\tex\latex\lm\omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMX+lmex on input line 50.
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 228
+.
 
- (D:\mikTex\tex\latex\lm\omxlmex.fd
+(D:\mikTex\tex\latex\lm\omxlmex.fd
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <14.4> on input line 50.
+(Font)              <10> on input line 228.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 50.
+(Font)              <7> on input line 228.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 50.
+(Font)              <5> on input line 228.
+LaTeX Font Info:    Try loading font information for U+msa on input line 228.
+ (D:\mikTex\tex\latex\amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+(D:\mikTex\tex\latex\microtype\mt-msa.cfg
+File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 228.
 
-[3]
-Overfull \hbox (57.74063pt too wide) in paragraph at lines 56--57
-[][][][][][][][][][][][][][][][][][][][][][][][][][] 
- []
+(D:\mikTex\tex\latex\amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+(D:\mikTex\tex\latex\microtype\mt-msb.cfg
+File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
+)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 233.
+ [7]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 233.
 
-
-Overfull \hbox (49.28067pt too wide) in paragraph at lines 59--60
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-) [4] <watercoins.jpg, id=133, 252.945pt x 313.17pt>
-File: watercoins.jpg Graphic file (type jpg)
- <use watercoins.jpg>
-Package pdftex.def Info: watercoins.jpg used on input line 149.
-(pdftex.def)             Requested size: 252.94438pt x 313.16922pt.
-
-[5 <C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation/Task-2/Watershed 
-Segmentation/Documentation/Tex/watercoins.jpg>]
-<otsuthresh.jpg, id=139, 252.945pt x 313.17pt>
-File: otsuthresh.jpg Graphic file (type jpg)
- <use otsuthresh.jpg>
-Package pdftex.def Info: otsuthresh.jpg used on input line 154.
-(pdftex.def)             Requested size: 252.94438pt x 313.16922pt.
- [6 <C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation/Task-2/Watershed
- Segmentation/Documentation/Tex/otsuthresh.jpg>]
-<Surebg.jpg, id=146, 252.945pt x 313.17pt>
-File: Surebg.jpg Graphic file (type jpg)
- <use Surebg.jpg>
-Package pdftex.def Info: Surebg.jpg used on input line 159.
-(pdftex.def)             Requested size: 252.94438pt x 313.16922pt.
- [7 <C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation/Task-2/Watershed
- Segmentation/Documentation/Tex/Surebg.jpg>] <Surefg.jpg, id=152, 252.945pt x 3
-13.17pt>
-File: Surefg.jpg Graphic file (type jpg)
-
-<use Surefg.jpg>
-Package pdftex.def Info: Surefg.jpg used on input line 164.
-(pdftex.def)             Requested size: 252.94438pt x 313.16922pt.
- [8 <C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation/Task-2/Watershed
- Segmentation/Documentation/Tex/Surefg.jpg>]
-<img.jpg, id=158, 252.945pt x 313.17pt>
-File: img.jpg Graphic file (type jpg)
- <use img.jpg>
-Package pdftex.def Info: img.jpg used on input line 171.
-(pdftex.def)             Requested size: 252.94438pt x 313.16922pt.
- [9 <C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation/Task-2/Watershed
- Segmentation/Documentation/Tex/img.jpg>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 191.
- [10]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 191.
-
-("C:\Users\KUMAR\eYSIP_2015_Marker_based_Robot_Localisation\Task-2\Watershed Se
-gmentation\Documentation\Tex\watershed_segmentation.aux")
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 191.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 191.
-Package rerunfilecheck Info: File `watershed_segmentation.out' has not changed.
-
-(rerunfilecheck)             Checksum: A4D7AB6AD720DF2730B6450EE110048E;458.
-
-
-LaTeX Warning: There were multiply-defined labels.
-
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 191.
+(C:\Users\KUMAR\eYSIP_2015_Marker_based_Robot_Localisation.wiki\Thresholding.au
+x)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 233.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 233.
+Package rerunfilecheck Info: File `Thresholding.out' has not changed.
+(rerunfilecheck)             Checksum: 313A21213CBEB52CE75AD18190795654;448.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 233.
  ) 
 Here is how much of TeX's memory you used:
- 13076 strings out of 493921
- 187349 string characters out of 3154500
- 317233 words of memory out of 3000000
- 16102 multiletter control sequences out of 15000+200000
- 52280 words of font info for 46 fonts, out of 3000000 for 9000
+ 11618 strings out of 493921
+ 165256 string characters out of 3154500
+ 262452 words of memory out of 3000000
+ 14708 multiletter control sequences out of 15000+200000
+ 39419 words of font info for 54 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 39i,7n,43p,852b,1987s stack positions out of 5000i,500n,10000p,200000b,50000s
-{D:/mikTex/fonts/enc/dvips/lm/lm-mathsy.enc}{D:/mikTex/fonts/enc/dvips/lm/lm-
-ec.enc}{D:/mikTex/fonts/enc/dvips/lm/lm-ts1.enc}<D:/mikTex/fonts/type1/public/l
+ 31i,7n,35p,253b,464s stack positions out of 5000i,500n,10000p,200000b,50000s
+{D:/mikTex/fonts/enc/dvips/lm/lm-ts1.enc}{D:/mikTex/fonts/enc/dvips/lm/lm-ec.
+enc}<D:/mikTex/fonts/type1/public/lm/lmbx10.pfb><D:/mikTex/fonts/type1/public/l
 m/lmbx12.pfb><D:/mikTex/fonts/type1/public/lm/lmbxi10.pfb><D:/mikTex/fonts/type
-1/public/lm/lmr10.pfb><D:/mikTex/fonts/type1/public/lm/lmr12.pfb><D:/mikTex/fon
-ts/type1/public/lm/lmri12.pfb><D:/mikTex/fonts/type1/public/lm/lmsy10.pfb><D:/m
-ikTex/fonts/type1/public/lm/lmtt12.pfb>
-Output written on watershed_segmentation.pdf (11 pages, 281842 bytes).
+1/public/lm/lmr10.pfb><D:/mikTex/fonts/type1/public/lm/lmtt10.pfb>
+Output written on Thresholding.pdf (7 pages, 209070 bytes).
 PDF statistics:
- 228 PDF objects out of 1000 (max. 8388607)
- 106 named destinations out of 1000 (max. 500000)
- 8258 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 101 PDF objects out of 1000 (max. 8388607)
+ 19 named destinations out of 1000 (max. 500000)
+ 6215 words of extra memory for PDF output out of 10000 (max. 10000000)
 
