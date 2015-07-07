@@ -124,11 +124,11 @@ notorious way. A good way to express changes is by using derivatives. A
 high change in gradient indicates a major change in the image.\\
 To be more graphical, let's assume we have a 1D-image. An edge is shown
 by the ``jump'' in intensity in the plot below:\\
-\includegraphics{images/Gradient/graph1.jpg}
+\includegraphics{graph1.jpg}
 
 However if we take the first derivative we can see the edge peak more
 clearly as shown below:\\
-\includegraphics{images/Gradient/graph2.jpg}
+\includegraphics{graph2.jpg}
 
 Hence we can detect edges in an image by locating pixel locations where
 the gradient is higher than its neighbors (or to generalize, higher than
@@ -151,8 +151,8 @@ The operator uses two 3X3 kernels which are convolved with the original
 image to calculate approximations of the derivatives - one for
 horizontal changes, and one for vertical. The picture below shows Sobel
 Kernels in x-dir and y-dir:\\
-\includegraphics{images/Gradient/Sobel/sobelkernelx.png}
-\includegraphics{images/Gradient/Sobel/sobelkernely.png}
+\includegraphics{sobelkernelx.png}
+\includegraphics{sobelkernely.png}
 
 \subsection{Scharr}\label{scharr}
 
@@ -167,7 +167,7 @@ symmetry. The commonly used filter kernels are -
 
 \begin{figure}[htbp]
 \centering
-\includegraphics{images/Gradient/Scharr/Scharr_kernel.png}
+\includegraphics{Scharr_kernel.png}
 \caption{Scharr kernel}
 \end{figure}
 
@@ -181,7 +181,7 @@ The main function used for Scharr operator is-
 
 where * \textbf{src} : Input image * \textbf{ddepth} : Output image
 depth. Following are the compatible depths- \\
-\includegraphics{images/Gradient/Scharr/table.png}
+\includegraphics{table.png}
 
 \begin{itemize}
 \tightlist
@@ -204,7 +204,7 @@ Consider the following image-
 
 \begin{figure}[htbp]
 \centering
-\includegraphics{images/Gradient/Scharr/house.jpg}
+\includegraphics{house.jpg}
 \caption{Example house}
 \end{figure}
 
@@ -212,7 +212,7 @@ On applying Scharr operator on above image, we get the following-
 
 \begin{figure}[htbp]
 \centering
-\includegraphics{images/Gradient/Scharr/Scharr.jpg}
+\includegraphics{Scharr.jpg}
 \caption{Scharr image}
 \end{figure}
 
@@ -221,10 +221,10 @@ On applying Scharr operator on above image, we get the following-
 The Laplacian edge detector uses only one kernel. It calculates second
 order derivatives in a single pass. The Laplacian function is given
 below:\\
-\includegraphics{images/Gradient/Laplacian/laplace_func.png}
+\includegraphics{laplace_func.png}
 
 A kernel used in this Laplacian detection looks like this:\\
-\includegraphics{images/Gradient/Laplacian/LaplacianKernel.png}
+\includegraphics{LaplacianKernel.png}
 
 \subsection{Applications}\label{applications}
 
@@ -305,7 +305,7 @@ plt.show()
 
 \begin{figure}[htbp]
 \centering
-\includegraphics{images/Gradient/Sobel/Sobel1.png}
+\includegraphics{Sobel1.png}
 \caption{Output Image}
 \end{figure}
 
@@ -375,16 +375,16 @@ plt.show()
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
 \item
-  http://opencv-python-tutroals.readthedocs.org/en/latest/py\_tutorials/py\_imgproc
-  /py\_gradients/py\_gradients.html
+  \href{http://opencv-python-tutroals.readthedocs.org/en/latest/py\_tutorials/py\_imgproc
+  /py\_gradients/py\_gradients.html}{Gradients - opencv and python tutorials}
 \item
-  http://www.bogotobogo.com/python/OpenCV\_Python/python\_opencv3\_Image\_Gradient
-  \_Sobel\_Laplacian\_Derivatives\_Edge\_Detection.php
+  \href{http://www.bogotobogo.com/python/OpenCV\_Python/python\_opencv3\_Image\_Gradient
+  \_Sobel\_Laplacian\_Derivatives\_Edge\_Detection.php}{Gradients - More info}
 \item
-  http://en.wikipedia.org/wiki/Sobel\_operator
+  \href{http://en.wikipedia.org/wiki/Sobel\_operator}{Sobel Operator}
 \item
-  http://docs.opencv.org/doc/tutorials/imgproc/imgtrans/sobel
-  \_derivatives/sobel\_derivatives.html
+  \href{http://docs.opencv.org/doc/tutorials/imgproc/imgtrans/sobel
+  \_derivatives/sobel\_derivatives.html}{OpenCv docs}
 \end{enumerate}
 
 \section{Excercises}\label{excercises}

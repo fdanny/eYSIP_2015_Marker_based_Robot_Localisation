@@ -1,7 +1,9 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.5.23)  4 JUL 2015 16:28
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.5.23)  7 JUL 2015 13:06
 entering extended mode
 **Gradients.tex
-(C:\Users\KUMAR\eYSIP_2015_Marker_based_Robot_Localisation.wiki\Gradients.tex
+
+(C:\Users\KUMAR\eYSIP_2015_Marker_based_Robot_Localisation\Task-3\Gradients\src
+\Documentation\Gradients.tex
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -719,7 +721,8 @@ Package grffile Info: Option `extendedchars' is set to `false'.
 Package grffile Info: Option `space' is set to `true'.
 Package grffile Info: \Gin@ii of package `graphicx' fixed on input line 486.
 )
-(C:\Users\KUMAR\eYSIP_2015_Marker_based_Robot_Localisation.wiki\Gradients.aux)
+(C:\Users\KUMAR\eYSIP_2015_Marker_based_Robot_Localisation\Task-3\Gradients\src
+\Documentation\Gradients.aux)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 109.
 LaTeX Font Info:    ... okay on input line 109.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 109.
@@ -735,8 +738,7 @@ LaTeX Font Info:    ... okay on input line 109.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 109.
 LaTeX Font Info:    Try loading font information for TS1+cmr on input line 109.
 
-
-(D:\mikTex\tex\latex\base\ts1cmr.fd
+ (D:\mikTex\tex\latex\base\ts1cmr.fd
 File: ts1cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    ... okay on input line 109.
@@ -745,7 +747,8 @@ LaTeX Font Info:    ... okay on input line 109.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 109.
 LaTeX Font Info:    ... okay on input line 109.
 LaTeX Font Info:    Try loading font information for T1+lmr on input line 109.
- (D:\mikTex\tex\latex\lm\t1lmr.fd
+
+(D:\mikTex\tex\latex\lm\t1lmr.fd
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Info: Redefining \microtypecontext on input line 109.
@@ -758,8 +761,7 @@ Package microtype Info: Using default expansion set `basictext'.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
-
-(D:\mikTex\tex\latex\microtype\mt-cmr.cfg
+ (D:\mikTex\tex\latex\microtype\mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
@@ -778,11 +780,12 @@ LaTeX Info: Redefining \ref on input line 109.
 LaTeX Info: Redefining \pageref on input line 109.
 LaTeX Info: Redefining \nameref on input line 109.
 
-(C:\Users\KUMAR\eYSIP_2015_Marker_based_Robot_Localisation.wiki\Gradients.out)
-(C:\Users\KUMAR\eYSIP_2015_Marker_based_Robot_Localisation.wiki\Gradients.out)
+(C:\Users\KUMAR\eYSIP_2015_Marker_based_Robot_Localisation\Task-3\Gradients\src
+\Documentation\Gradients.out)
+(C:\Users\KUMAR\eYSIP_2015_Marker_based_Robot_Localisation\Task-3\Gradients\src
+\Documentation\Gradients.out)
 \@outlinefile=\write4
-
-(D:\mikTex\tex\context\base\supp-pdf.mkii
+ (D:\mikTex\tex\context\base\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count116
 \scratchdimen=\dimen119
@@ -795,102 +798,87 @@ LaTeX Info: Redefining \nameref on input line 109.
 \MPnumerator=\count120
 \makeMPintoPDFobject=\count121
 \everyMPtoPDFconversion=\toks25
-) <images/Gradient/graph1.jpg, id=55, 301.125pt x 218.8175pt>
-File: images/Gradient/graph1.jpg Graphic file (type jpg)
-
-<use images/Gradient/graph1.jpg>
-Package pdftex.def Info: images/Gradient/graph1.jpg used on input line 127.
+) <graph1.jpg, id=55, 301.125pt x 218.8175pt>
+File: graph1.jpg Graphic file (type jpg)
+ <use graph1.jpg>
+Package pdftex.def Info: graph1.jpg used on input line 127.
 (pdftex.def)             Requested size: 301.12885pt x 218.82028pt.
 
-<images/Gradient/graph2.jpg, id=56, 301.125pt x 221.82875pt>
-File: images/Gradient/graph2.jpg Graphic file (type jpg)
-
-<use images/Gradient/graph2.jpg>
-Package pdftex.def Info: images/Gradient/graph2.jpg used on input line 131.
+<graph2.jpg, id=56, 301.125pt x 221.82875pt>
+File: graph2.jpg Graphic file (type jpg)
+ <use graph2.jpg>
+Package pdftex.def Info: graph2.jpg used on input line 131.
 (pdftex.def)             Requested size: 301.12425pt x 221.82819pt.
  [1
 
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Users/KUMAR/eYSIP_2015
-_Marker_based_Robot_Localisation.wiki/images/Gradient/graph1.jpg>]
-<images/Gradient/Sobel/sobelkernelx.png, id=66, 121.45375pt x 83.31125pt>
-File: images/Gradient/Sobel/sobelkernelx.png Graphic file (type png)
-
-<use images/Gradient/Sobel/sobelkernelx.png>
-Package pdftex.def Info: images/Gradient/Sobel/sobelkernelx.png used on input l
-ine 154.
+_Marker_based_Robot_Localisation/Task-3/Gradients/src/Documentation/graph1.jpg>
+]
+<sobelkernelx.png, id=66, 121.45375pt x 83.31125pt>
+File: sobelkernelx.png Graphic file (type png)
+ <use sobelkernelx.png>
+Package pdftex.def Info: sobelkernelx.png used on input line 154.
 (pdftex.def)             Requested size: 121.45343pt x 83.31104pt.
 
-<images/Gradient/Sobel/sobelkernely.png, id=67, 138.5175pt x 83.31125pt>
-File: images/Gradient/Sobel/sobelkernely.png Graphic file (type png)
-
-<use images/Gradient/Sobel/sobelkernely.png>
-Package pdftex.def Info: images/Gradient/Sobel/sobelkernely.png used on input l
-ine 155.
+<sobelkernely.png, id=67, 138.5175pt x 83.31125pt>
+File: sobelkernely.png Graphic file (type png)
+ <use sobelkernely.png>
+Package pdftex.def Info: sobelkernely.png used on input line 155.
 (pdftex.def)             Requested size: 138.51715pt x 83.31104pt.
- [2 <C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation.wiki/images/Grad
-ient/graph2.jpg> <C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation.wik
-i/images/Gradient/Sobel/sobelkernelx.png> <C:/Users/KUMAR/eYSIP_2015_Marker_bas
-ed_Robot_Localisation.wiki/images/Gradient/Sobel/sobelkernely.png>]
-<images/Gradient/Scharr/Scharr_kernel.png, id=73, 368.37625pt x 86.3225pt>
-File: images/Gradient/Scharr/Scharr_kernel.png Graphic file (type png)
 
-<use images/Gradient/Scharr/Scharr_kernel.png>
-Package pdftex.def Info: images/Gradient/Scharr/Scharr_kernel.png used on input
- line 170.
+[2 <C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation/Task-3/Gradients/
+src/Documentation/graph2.jpg> <C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Loc
+alisation/Task-3/Gradients/src/Documentation/sobelkernelx.png> <C:/Users/KUMAR/
+eYSIP_2015_Marker_based_Robot_Localisation/Task-3/Gradients/src/Documentation/s
+obelkernely.png>] <Scharr_kernel.png, id=73, 368.37625pt x 86.3225pt>
+File: Scharr_kernel.png Graphic file (type png)
+
+<use Scharr_kernel.png>
+Package pdftex.def Info: Scharr_kernel.png used on input line 170.
 (pdftex.def)             Requested size: 344.99774pt x 80.84413pt.
 LaTeX Font Info:    Try loading font information for T1+lmtt on input line 177.
 
-
-(D:\mikTex\tex\latex\lm\t1lmtt.fd
+ (D:\mikTex\tex\latex\lm\t1lmtt.fd
 File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-<images/Gradient/Scharr/table.png, id=75, 412.54124pt x 205.76875pt>
-File: images/Gradient/Scharr/table.png Graphic file (type png)
-
-<use images/Gradient/Scharr/table.png>
-Package pdftex.def Info: images/Gradient/Scharr/table.png used on input line 18
-4.
+<table.png, id=75, 412.54124pt x 205.76875pt>
+File: table.png Graphic file (type png)
+ <use table.png>
+Package pdftex.def Info: table.png used on input line 184.
 (pdftex.def)             Requested size: 345.00262pt x 172.08159pt.
 LaTeX Font Info:    Try loading font information for TS1+lmr on input line 189.
 
- (D:\mikTex\tex\latex\lm\ts1lmr.fd
-File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-[3 <C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation.wiki/images/Gradi
-ent/Scharr/Scharr_kernel.png> <C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Loc
-alisation.wiki/images/Gradient/Scharr/table.png>]
-<images/Gradient/Scharr/house.jpg, id=85, 117.0774pt x 78.0516pt>
-File: images/Gradient/Scharr/house.jpg Graphic file (type jpg)
 
-<use images/Gradient/Scharr/house.jpg>
-Package pdftex.def Info: images/Gradient/Scharr/house.jpg used on input line 20
-7.
+(D:\mikTex\tex\latex\lm\ts1lmr.fd
+File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+) [3 <C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation/Task-3/Gradient
+s/src/Documentation/Scharr_kernel.png> <C:/Users/KUMAR/eYSIP_2015_Marker_based_
+Robot_Localisation/Task-3/Gradients/src/Documentation/table.png>] <house.jpg, i
+d=85, 117.0774pt x 78.0516pt>
+File: house.jpg Graphic file (type jpg)
+ <use house.jpg>
+Package pdftex.def Info: house.jpg used on input line 207.
 (pdftex.def)             Requested size: 117.08246pt x 78.05498pt.
 
-<images/Gradient/Scharr/Scharr.jpg, id=86, 487.8225pt x 325.215pt>
-File: images/Gradient/Scharr/Scharr.jpg Graphic file (type jpg)
-
-<use images/Gradient/Scharr/Scharr.jpg>
-Package pdftex.def Info: images/Gradient/Scharr/Scharr.jpg used on input line 2
-15.
+<Scharr.jpg, id=86, 487.8225pt x 325.215pt>
+File: Scharr.jpg Graphic file (type jpg)
+ <use Scharr.jpg>
+Package pdftex.def Info: Scharr.jpg used on input line 215.
 (pdftex.def)             Requested size: 345.00166pt x 230.00111pt.
 
-<images/Gradient/Laplacian/laplace_func.png, id=87, 211.79124pt x 45.16875pt>
-File: images/Gradient/Laplacian/laplace_func.png Graphic file (type png)
-
-<use images/Gradient/Laplacian/laplace_func.png>
-Package pdftex.def Info: images/Gradient/Laplacian/laplace_func.png used on inp
-ut line 224.
+<laplace_func.png, id=87, 211.79124pt x 45.16875pt>
+File: laplace_func.png Graphic file (type png)
+ <use laplace_func.png>
+Package pdftex.def Info: laplace_func.png used on input line 224.
 (pdftex.def)             Requested size: 211.79073pt x 45.16862pt.
- [4 <C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation.wiki/images/Grad
-ient/Scharr/house.jpg> <C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisati
-on.wiki/images/Gradient/Scharr/Scharr.jpg>]
-<images/Gradient/Laplacian/LaplacianKernel.png, id=94, 100.375pt x 78.2925pt>
-File: images/Gradient/Laplacian/LaplacianKernel.png Graphic file (type png)
 
-<use images/Gradient/Laplacian/LaplacianKernel.png>
-Package pdftex.def Info: images/Gradient/Laplacian/LaplacianKernel.png used on 
-input line 227.
+[4 <C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation/Task-3/Gradients/
+src/Documentation/house.jpg> <C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Loca
+lisation/Task-3/Gradients/src/Documentation/Scharr.jpg>]
+<LaplacianKernel.png, id=94, 100.375pt x 78.2925pt>
+File: LaplacianKernel.png Graphic file (type png)
+ <use LaplacianKernel.png>
+Package pdftex.def Info: LaplacianKernel.png used on input line 227.
 (pdftex.def)             Requested size: 100.37779pt x 78.29468pt.
 LaTeX Font Info:    Try loading font information for TS1+lmtt on input line 304
 .
@@ -909,34 +897,22 @@ Overfull \hbox (64.49881pt too wide) in paragraph at lines 304--304
 order rather than[] 
  []
 
-[5 <C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation.wiki/images/Gradi
-ent/Laplacian/laplace_func.png> <C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_L
-ocalisation.wiki/images/Gradient/Laplacian/LaplacianKernel.png>]
-<images/Gradient/Sobel/Sobel1.png, id=101, 589.0005pt x 444.4605pt>
-File: images/Gradient/Sobel/Sobel1.png Graphic file (type png)
-
-<use images/Gradient/Sobel/Sobel1.png>
-Package pdftex.def Info: images/Gradient/Sobel/Sobel1.png used on input line 30
-8.
+[5 <C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation/Task-3/Gradients/
+src/Documentation/laplace_func.png> <C:/Users/KUMAR/eYSIP_2015_Marker_based_Rob
+ot_Localisation/Task-3/Gradients/src/Documentation/LaplacianKernel.png>]
+<Sobel1.png, id=101, 589.0005pt x 444.4605pt>
+File: Sobel1.png Graphic file (type png)
+ <use Sobel1.png>
+Package pdftex.def Info: Sobel1.png used on input line 308.
 (pdftex.def)             Requested size: 345.00877pt x 260.34404pt.
- [6] [7 <C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation.wiki/images/
-Gradient/Sobel/Sobel1.png>]
-Overfull \hbox (39.41057pt too wide) in paragraph at lines 378--381
-[]\T1/lmr/m/n/10 (-20) http://opencv-python-tutroals.readthedocs.org/en/latest/
-py_tutorials/py_imgproc
- []
-
-
-Overfull \hbox (75.77155pt too wide) in paragraph at lines 381--384
-[]\T1/lmr/m/n/10 (-20) http://www.bogotobogo.com/python/OpenCV_Python/python_op
-encv3_Image_Gradient
- []
-
+ [6] [7 <C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation/Task-3/Gradi
+ents/src/Documentation/Sobel1.png>]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 392.
-[8]
+ [8]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 392.
 
-(C:\Users\KUMAR\eYSIP_2015_Marker_based_Robot_Localisation.wiki\Gradients.aux)
+(C:\Users\KUMAR\eYSIP_2015_Marker_based_Robot_Localisation\Task-3\Gradients\src
+\Documentation\Gradients.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 392.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 392.
 Package rerunfilecheck Info: File `Gradients.out' has not changed.
@@ -945,7 +921,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 392.
  ) 
 Here is how much of TeX's memory you used:
  11999 strings out of 493921
- 171421 string characters out of 3154500
+ 170783 string characters out of 3154500
  262552 words of memory out of 3000000
  15127 multiletter control sequences out of 15000+200000
  33579 words of font info for 42 fonts, out of 3000000 for 9000
@@ -956,9 +932,9 @@ enc}<D:/mikTex/fonts/type1/public/lm/lmbx10.pfb><D:/mikTex/fonts/type1/public/l
 m/lmbx12.pfb><D:/mikTex/fonts/type1/public/lm/lmbxi10.pfb><D:/mikTex/fonts/type
 1/public/lm/lmr10.pfb><D:/mikTex/fonts/type1/public/lm/lmri10.pfb><D:/mikTex/fo
 nts/type1/public/lm/lmtt10.pfb><D:/mikTex/fonts/type1/public/lm/lmtti10.pfb>
-Output written on Gradients.pdf (8 pages, 692052 bytes).
+Output written on Gradients.pdf (8 pages, 692812 bytes).
 PDF statistics:
- 157 PDF objects out of 1000 (max. 8388607)
+ 161 PDF objects out of 1000 (max. 8388607)
  30 named destinations out of 1000 (max. 500000)
  6304 words of extra memory for PDF output out of 10000 (max. 10000000)
 

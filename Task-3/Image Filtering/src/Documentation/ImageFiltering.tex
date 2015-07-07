@@ -309,8 +309,8 @@ Consider the following image:
 
 On applying blur, it looks like this-
 
-\includegraphics{Blur.jpg}
-\#\#Gaussian Blur
+\includegraphics{Blur.jpg} \\ \\
+\textbf{\LARGE Gaussian Blur}
 
 \begin{verbatim}
   #Import OpenCV and Numpy
@@ -321,9 +321,9 @@ On applying blur, it looks like this-
   img = cv2.imread('pepper.png')
 
   '''
-  OpenCV represents RGB images as multi-dimensional NumPy arrays…but in reverse
-  order!This means that images are actually represented in BGR order rather than
-  RGB!
+  OpenCV represents RGB images as multi-dimensional NumPy arrays…but
+   in reverse order! This means that images are actually represented in 
+   BGR order rather than RGB!
   '''
   img = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)   #Coverting from bgr to rgb
 
@@ -398,10 +398,10 @@ On apply median blur, it looks like this-
 \begin{itemize}
 \tightlist
 \item
-  http://opencv-python-tutroals.readthedocs.org/en/latest/py\_tutorials/py
-  \_imgproc/py\_filtering/py\_filtering.html
+  \href{http://opencv-python-tutroals.readthedocs.org/en/latest/py\_tutorials/py
+  \_imgproc/py\_filtering/py\_filtering.html}{Image filtering - opencv and python tutorials}
 \item
-  http://docs.opencv.org/modules/imgproc/doc/filtering.html\#
+  \href{http://docs.opencv.org/modules/imgproc/doc/filtering.html\#}{Filtering - opencv docs}
 \end{itemize}
 
 \section{Exercises}\label{exercises}
