@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.5.23)  7 JUL 2015 13:45
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.5.23)  7 JUL 2015 16:47
 entering extended mode
 **Contours_Hierarchy.tex
 
@@ -706,34 +706,34 @@ Package grffile Info: \Gin@ii of package `graphicx' fixed on input line 486.
 )
 ("C:\Users\KUMAR\eYSIP_2015_Marker_based_Robot_Localisation\Task-4\src\Document
 ation\Contours and hierarchy\Contours_Hierarchy.aux")
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 71.
-LaTeX Font Info:    ... okay on input line 71.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 71.
-LaTeX Font Info:    ... okay on input line 71.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 71.
-LaTeX Font Info:    ... okay on input line 71.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 71.
-LaTeX Font Info:    ... okay on input line 71.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 71.
-LaTeX Font Info:    ... okay on input line 71.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 71.
-LaTeX Font Info:    ... okay on input line 71.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 71.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 71.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 73.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 73.
 
 (D:\mikTex\tex\latex\base\ts1cmr.fd
 File: ts1cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 71.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 71.
-LaTeX Font Info:    ... okay on input line 71.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 71.
-LaTeX Font Info:    ... okay on input line 71.
-LaTeX Font Info:    Try loading font information for T1+lmr on input line 71.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Try loading font information for T1+lmr on input line 73.
  (D:\mikTex\tex\latex\lm\t1lmr.fd
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Info: Redefining \microtypecontext on input line 71.
+LaTeX Info: Redefining \microtypecontext on input line 73.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using protrusion set `basicmath'.
@@ -757,7 +757,7 @@ File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
 Package color Info: Driver file: pdftex.def on input line 130.
 )
-Package hyperref Info: Link coloring ON on input line 71.
+Package hyperref Info: Link coloring ON on input line 73.
  (D:\mikTex\tex\latex\hyperref\nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 
@@ -766,9 +766,9 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count112
 )
-LaTeX Info: Redefining \ref on input line 71.
-LaTeX Info: Redefining \pageref on input line 71.
-LaTeX Info: Redefining \nameref on input line 71.
+LaTeX Info: Redefining \ref on input line 73.
+LaTeX Info: Redefining \pageref on input line 73.
+LaTeX Info: Redefining \nameref on input line 73.
 
 ("C:\Users\KUMAR\eYSIP_2015_Marker_based_Robot_Localisation\Task-4\src\Document
 ation\Contours and hierarchy\Contours_Hierarchy.out")
@@ -790,212 +790,250 @@ ation\Contours and hierarchy\Contours_Hierarchy.out")
 \makeMPintoPDFobject=\count118
 \everyMPtoPDFconversion=\toks25
 )
-LaTeX Font Info:    Try loading font information for T1+lmtt on input line 86.
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 75.
+ (D:\mikTex\tex\latex\lm\ot1lmr.fd
+File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 75.
+ (D:\mikTex\tex\latex\lm\omllmm.fd
+File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 75.
+
+
+(D:\mikTex\tex\latex\lm\omslmsy.fd
+File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 75.
+
+ (D:\mikTex\tex\latex\lm\omxlmex.fd
+File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <12> on input line 75.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 75.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 75.
+LaTeX Font Info:    Try loading font information for U+msa on input line 75.
+
+(D:\mikTex\tex\latex\amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+(D:\mikTex\tex\latex\microtype\mt-msa.cfg
+File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 75.
+
+(D:\mikTex\tex\latex\amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+(D:\mikTex\tex\latex\microtype\mt-msb.cfg
+File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
+)
+LaTeX Font Info:    Try loading font information for T1+lmtt on input line 95.
  (D:\mikTex\tex\latex\lm\t1lmtt.fd
 File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for TS1+lmr on input line 96.
- (D:\mikTex\tex\latex\lm\ts1lmr.fd
+LaTeX Font Info:    Try loading font information for TS1+lmr on input line 105.
+
+
+(D:\mikTex\tex\latex\lm\ts1lmr.fd
 File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-Underfull \hbox (badness 10000) in paragraph at lines 95--97
+Underfull \hbox (badness 10000) in paragraph at lines 104--106
 \T1/lmtt/m/n/10 cv2.findContours(image, mode, method[, contours[, hierarchy[,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 103--105
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 105--113
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 113--114
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 120--125
-
  []
 
 [1
 
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 125--129
+Underfull \hbox (badness 10000) in paragraph at lines 112--114
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 129--132
+Underfull \hbox (badness 10000) in paragraph at lines 114--122
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 137--140
+Underfull \hbox (badness 10000) in paragraph at lines 122--123
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 152--153
+Underfull \hbox (badness 10000) in paragraph at lines 129--134
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 134--138
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 138--141
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 146--149
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 161--162
 \T1/lmtt/m/n/10 cv2.drawContours(image, contours, contourIdx, color[, thickness
 [,
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 159--161
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 161--164
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 164--167
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 167--169
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 169--172
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 172--174
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 174--176
-
- []
-
 [2]
-Underfull \hbox (badness 10000) in paragraph at lines 176--183
+Underfull \hbox (badness 10000) in paragraph at lines 168--170
 
  []
 
-<cont1.png, id=65, 451.6875pt x 293.095pt>
+
+Underfull \hbox (badness 10000) in paragraph at lines 170--173
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 173--176
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 176--178
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 178--181
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 181--183
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 183--185
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 185--192
+
+ []
+
+<cont1.png, id=67, 451.6875pt x 293.095pt>
 File: cont1.png Graphic file (type png)
  <use cont1.png>
-Package pdftex.def Info: cont1.png used on input line 198.
+Package pdftex.def Info: cont1.png used on input line 207.
 (pdftex.def)             Requested size: 345.02289pt x 223.88152pt.
- [3 <C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation/Task-4/src/Docum
-entation/Contours and hierarchy/cont1.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 239--242
+ [3] [4 <C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation/Task-4/src/D
+ocumentation/Contours and hierarchy/cont1.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 248--251
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 242--246
+Underfull \hbox (badness 10000) in paragraph at lines 251--255
 
  []
 
-<ccomp.png, id=73, 111.41624pt x 109.91063pt>
+<ccomp.png, id=79, 111.41624pt x 109.91063pt>
 File: ccomp.png Graphic file (type png)
  <use ccomp.png>
-Package pdftex.def Info: ccomp.png used on input line 259.
+Package pdftex.def Info: ccomp.png used on input line 268.
 (pdftex.def)             Requested size: 111.41766pt x 109.912pt.
 
-<tree_hierarchy.png, id=74, 451.6875pt x 294.09875pt>
+<tree_hierarchy.png, id=80, 451.6875pt x 294.09875pt>
 File: tree_hierarchy.png Graphic file (type png)
  <use tree_hierarchy.png>
-Package pdftex.def Info: tree_hierarchy.png used on input line 274.
+Package pdftex.def Info: tree_hierarchy.png used on input line 283.
 (pdftex.def)             Requested size: 345.02289pt x 224.64824pt.
-
-[4]
-LaTeX Font Info:    Try loading font information for TS1+lmtt on input line 331
+LaTeX Font Info:    Try loading font information for TS1+lmtt on input line 340
 .
- (D:\mikTex\tex\latex\lm\ts1lmtt.fd
+
+(D:\mikTex\tex\latex\lm\ts1lmtt.fd
 File: ts1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 ) [5 <C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation/Task-4/src/Docu
-mentation/Contours and hierarchy/ccomp.png> <C:/Users/KUMAR/eYSIP_2015_Marker_b
-ased_Robot_Localisation/Task-4/src/Documentation/Contours and hierarchy/tree_hi
-erarchy.png>]
-Overfull \hbox (122.24864pt too wide) in paragraph at lines 331--331
+mentation/Contours and hierarchy/ccomp.png>]
+Overfull \hbox (122.24864pt too wide) in paragraph at lines 340--340
 []  \T1/lmtt/m/n/10 contours1,heirarchy1 = cv2.findContours(thresh,cv2.RETR_CCO
 MP, cv2.CHAIN_APPROX_SIMPLE)[] 
  []
 
 
-Overfull \hbox (127.49863pt too wide) in paragraph at lines 331--331
+Overfull \hbox (127.49863pt too wide) in paragraph at lines 340--340
 []  \T1/lmtt/m/n/10 contours2, heirarchy2 = cv2.findContours(thresh, cv2.RETR_L
 IST, cv2.CHAIN_APPROX_SIMPLE)[] 
  []
 
 
-Overfull \hbox (116.99866pt too wide) in paragraph at lines 331--331
+Overfull \hbox (116.99866pt too wide) in paragraph at lines 340--340
 []  \T1/lmtt/m/n/10 contours3,heirarchy3 = cv2.findContours(thresh,cv2.RETR_TRE
 E, cv2.CHAIN_APPROX_SIMPLE)[] 
  []
 
 
-Overfull \hbox (148.49857pt too wide) in paragraph at lines 331--331
+Overfull \hbox (148.49857pt too wide) in paragraph at lines 340--340
 []  \T1/lmtt/m/n/10 contours4, heirarchy4 = cv2.findContours(thresh, cv2.RETR_E
 XTERNAL, cv2.CHAIN_APPROX_SIMPLE)[] 
  []
 
-<heir1.png, id=92, 589.0005pt x 444.4605pt>
+[6 <C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation/Task-4/src/Docume
+ntation/Contours and hierarchy/tree_hierarchy.png>]
+<heir1.png, id=98, 589.0005pt x 444.4605pt>
 File: heir1.png Graphic file (type png)
  <use heir1.png>
-Package pdftex.def Info: heir1.png used on input line 337.
+Package pdftex.def Info: heir1.png used on input line 346.
 (pdftex.def)             Requested size: 345.00877pt x 260.34404pt.
 
-<heir2.png, id=93, 589.0005pt x 444.4605pt>
+<heir2.png, id=99, 589.0005pt x 444.4605pt>
 File: heir2.png Graphic file (type png)
  <use heir2.png>
-Package pdftex.def Info: heir2.png used on input line 343.
+Package pdftex.def Info: heir2.png used on input line 354.
 (pdftex.def)             Requested size: 345.00877pt x 260.34404pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 341--344
+Underfull \hbox (badness 10000) in paragraph at lines 358--367
 
  []
 
-[6] [7 <C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation/Task-4/src/Do
-cumentation/Contours and hierarchy/heir1.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 345--354
-
- []
-
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 355.
-[8 <C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation/Task-4/src/Docume
-ntation/Contours and hierarchy/heir2.png>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 355.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 368.
+[7] [8 <C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation/Task-4/src/Do
+cumentation/Contours and hierarchy/heir1.png>] [9 <C:/Users/KUMAR/eYSIP_2015_Ma
+rker_based_Robot_Localisation/Task-4/src/Documentation/Contours and hierarchy/h
+eir2.png>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 368.
 
 ("C:\Users\KUMAR\eYSIP_2015_Marker_based_Robot_Localisation\Task-4\src\Document
 ation\Contours and hierarchy\Contours_Hierarchy.aux")
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 355.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 355.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 368.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 368.
 Package rerunfilecheck Info: File `Contours_Hierarchy.out' has not changed.
 (rerunfilecheck)             Checksum: B90F8A08689071940BB3D408588C88B9;1190.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 355.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 368.
  ) 
 Here is how much of TeX's memory you used:
- 11581 strings out of 493921
- 164583 string characters out of 3154500
- 254733 words of memory out of 3000000
- 14702 multiletter control sequences out of 15000+200000
- 39688 words of font info for 48 fonts, out of 3000000 for 9000
+ 11723 strings out of 493921
+ 167376 string characters out of 3154500
+ 254818 words of memory out of 3000000
+ 14790 multiletter control sequences out of 15000+200000
+ 52284 words of font info for 68 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 31i,6n,35p,243b,464s stack positions out of 5000i,500n,10000p,200000b,50000s
-{D:/mikTex/fonts/enc/dvips/lm/lm-ec.enc}{D:/mikTex/fonts/enc/dvips/lm/lm-ts1.
+ 31i,7n,35p,243b,464s stack positions out of 5000i,500n,10000p,200000b,50000s
+{D:/mikTex/fonts/enc/dvips/lm/lm-ts1.enc}{D:/mikTex/fonts/enc/dvips/lm/lm-ec.
 enc}<D:/mikTex/fonts/type1/public/lm/lmbx10.pfb><D:/mikTex/fonts/type1/public/l
 m/lmbx12.pfb><D:/mikTex/fonts/type1/public/lm/lmbxi10.pfb><D:/mikTex/fonts/type
-1/public/lm/lmr10.pfb><D:/mikTex/fonts/type1/public/lm/lmr17.pfb><D:/mikTex/fon
-ts/type1/public/lm/lmtt10.pfb>
-Output written on Contours_Hierarchy.pdf (8 pages, 265658 bytes).
+1/public/lm/lmr10.pfb><D:/mikTex/fonts/type1/public/lm/lmr12.pfb><D:/mikTex/fon
+ts/type1/public/lm/lmr17.pfb><D:/mikTex/fonts/type1/public/lm/lmtt10.pfb>
+Output written on Contours_Hierarchy.pdf (9 pages, 293099 bytes).
 PDF statistics:
- 147 PDF objects out of 1000 (max. 8388607)
- 31 named destinations out of 1000 (max. 500000)
- 6258 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 156 PDF objects out of 1000 (max. 8388607)
+ 33 named destinations out of 1000 (max. 500000)
+ 10354 words of extra memory for PDF output out of 12000 (max. 10000000)
 

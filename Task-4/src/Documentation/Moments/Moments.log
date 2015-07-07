@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.5.23)  7 JUL 2015 13:48
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.5.23)  7 JUL 2015 16:50
 entering extended mode
 **Moments.tex
 
@@ -723,35 +723,35 @@ Package grffile Info: \Gin@ii of package `graphicx' fixed on input line 486.
 )
 (C:\Users\KUMAR\eYSIP_2015_Marker_based_Robot_Localisation\Task-4\src\Documenta
 tion\Moments\Moments.aux)
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 109.
-LaTeX Font Info:    ... okay on input line 109.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 109.
-LaTeX Font Info:    ... okay on input line 109.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 109.
-LaTeX Font Info:    ... okay on input line 109.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 109.
-LaTeX Font Info:    ... okay on input line 109.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 109.
-LaTeX Font Info:    ... okay on input line 109.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 109.
-LaTeX Font Info:    ... okay on input line 109.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 109.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 109.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 111.
+LaTeX Font Info:    ... okay on input line 111.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 111.
+LaTeX Font Info:    ... okay on input line 111.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 111.
+LaTeX Font Info:    ... okay on input line 111.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 111.
+LaTeX Font Info:    ... okay on input line 111.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 111.
+LaTeX Font Info:    ... okay on input line 111.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 111.
+LaTeX Font Info:    ... okay on input line 111.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 111.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 111.
 
  (D:\mikTex\tex\latex\base\ts1cmr.fd
 File: ts1cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 109.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 109.
-LaTeX Font Info:    ... okay on input line 109.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 109.
-LaTeX Font Info:    ... okay on input line 109.
-LaTeX Font Info:    Try loading font information for T1+lmr on input line 109.
+LaTeX Font Info:    ... okay on input line 111.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 111.
+LaTeX Font Info:    ... okay on input line 111.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 111.
+LaTeX Font Info:    ... okay on input line 111.
+LaTeX Font Info:    Try loading font information for T1+lmr on input line 111.
 
 (D:\mikTex\tex\latex\lm\t1lmr.fd
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Info: Redefining \microtypecontext on input line 109.
+LaTeX Info: Redefining \microtypecontext on input line 111.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using protrusion set `basicmath'.
@@ -766,7 +766,7 @@ File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman
 (RS)
 )
 \AtBeginShipoutBox=\box29
-Package hyperref Info: Link coloring ON on input line 109.
+Package hyperref Info: Link coloring ON on input line 111.
 
 (D:\mikTex\tex\latex\hyperref\nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -776,9 +776,9 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count115
 )
-LaTeX Info: Redefining \ref on input line 109.
-LaTeX Info: Redefining \pageref on input line 109.
-LaTeX Info: Redefining \nameref on input line 109.
+LaTeX Info: Redefining \ref on input line 111.
+LaTeX Info: Redefining \pageref on input line 111.
+LaTeX Info: Redefining \nameref on input line 111.
 
 (C:\Users\KUMAR\eYSIP_2015_Marker_based_Robot_Localisation\Task-4\src\Documenta
 tion\Moments\Moments.out)
@@ -799,7 +799,50 @@ tion\Moments\Moments.out)
 \makeMPintoPDFobject=\count121
 \everyMPtoPDFconversion=\toks25
 )
-LaTeX Font Info:    Try loading font information for TS1+lmr on input line 116.
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 113.
+
+ (D:\mikTex\tex\latex\lm\ot1lmr.fd
+File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 113.
+
+ (D:\mikTex\tex\latex\lm\omllmm.fd
+File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 113
+.
+
+(D:\mikTex\tex\latex\lm\omslmsy.fd
+File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 113
+.
+ (D:\mikTex\tex\latex\lm\omxlmex.fd
+File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <12> on input line 113.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 113.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 113.
+LaTeX Font Info:    Try loading font information for U+msa on input line 113.
+
+(D:\mikTex\tex\latex\amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+(D:\mikTex\tex\latex\microtype\mt-msa.cfg
+File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 113.
+
+(D:\mikTex\tex\latex\amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+(D:\mikTex\tex\latex\microtype\mt-msb.cfg
+File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
+)
+LaTeX Font Info:    Try loading font information for TS1+lmr on input line 125.
 
  (D:\mikTex\tex\latex\lm\ts1lmr.fd
 File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
@@ -808,128 +851,132 @@ File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 File: Spatial moments.png Graphic file (type png)
 
 <use Spatial moments.png>
-Package pdftex.def Info: Spatial moments.png used on input line 136.
+Package pdftex.def Info: Spatial moments.png used on input line 145.
 (pdftex.def)             Requested size: 185.69896pt x 54.20401pt.
  <Area.png, id=45, 312.16624pt x 59.22125pt>
 File: Area.png Graphic file (type png)
 
 <use Area.png>
-Package pdftex.def Info: Area.png used on input line 152.
+Package pdftex.def Info: Area.png used on input line 161.
 (pdftex.def)             Requested size: 312.17024pt x 59.22198pt.
- <centroid.png, id=46, 288.07625pt x 35.13126pt>
+ [1
+
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
+<centroid.png, id=57, 288.07625pt x 35.13126pt>
 File: centroid.png Graphic file (type png)
-
-<use centroid.png>
-Package pdftex.def Info: centroid.png used on input line 164.
+ <use centroid.png>
+Package pdftex.def Info: centroid.png used on input line 173.
 (pdftex.def)             Requested size: 288.08432pt x 35.13222pt.
- <m10m01.png, id=47, 175.65625pt x 87.32625pt>
-File: m10m01.png Graphic file (type png)
 
-<use m10m01.png>
-Package pdftex.def Info: m10m01.png used on input line 172.
+<m10m01.png, id=58, 175.65625pt x 87.32625pt>
+File: m10m01.png Graphic file (type png)
+ <use m10m01.png>
+Package pdftex.def Info: m10m01.png used on input line 181.
 (pdftex.def)             Requested size: 175.66652pt x 87.33136pt.
- <central moments.png, id=48, 255.95625pt x 43.16125pt>
+
+<central moments.png, id=59, 255.95625pt x 43.16125pt>
 File: central moments.png Graphic file (type png)
 
 <use central moments.png>
-Package pdftex.def Info: central moments.png used on input line 184.
+Package pdftex.def Info: central moments.png used on input line 193.
 (pdftex.def)             Requested size: 255.95561pt x 43.16113pt.
- [1
 
-{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Users/KUMAR/eYSIP_2015
-_Marker_based_Robot_Localisation/Task-4/src/Documentation/Moments/Spatial momen
-ts.png> <C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation/Task-4/src/D
-ocumentation/Moments/Area.png>]
-<central normalized moments.png, id=62, 213.79875pt x 35.13126pt>
+<central normalized moments.png, id=60, 213.79875pt x 35.13126pt>
 File: central normalized moments.png Graphic file (type png)
 
 <use central normalized moments.png>
-Package pdftex.def Info: central normalized moments.png used on input line 196.
+Package pdftex.def Info: central normalized moments.png used on input line 205.
 
 (pdftex.def)             Requested size: 213.79822pt x 35.13115pt.
- <hu.png, id=63, 855.195pt x 220.825pt>
+ <hu.png, id=61, 855.195pt x 220.825pt>
 File: hu.png Graphic file (type png)
 
 <use hu.png>
-Package pdftex.def Info: hu.png used on input line 209.
+Package pdftex.def Info: hu.png used on input line 218.
 (pdftex.def)             Requested size: 344.99496pt x 89.08319pt.
- <example.jpg, id=64, 702.625pt x 555.07375pt>
+ <example.jpg, id=62, 702.625pt x 555.07375pt>
 File: example.jpg Graphic file (type jpg)
  <use example.jpg>
-Package pdftex.def Info: example.jpg used on input line 219.
+Package pdftex.def Info: example.jpg used on input line 228.
 (pdftex.def)             Requested size: 345.00758pt x 272.55597pt.
 
-<result moments.JPG, id=65, 484.81125pt x 99.37125pt>
+<result moments.JPG, id=63, 484.81125pt x 99.37125pt>
 File: result moments.JPG Graphic file (type jpg)
  <use result moments.JPG>
-Package pdftex.def Info: result moments.JPG used on input line 227.
+Package pdftex.def Info: result moments.JPG used on input line 236.
 (pdftex.def)             Requested size: 345.01733pt x 70.71783pt.
 
-<result hu.JPG, id=66, 125.71968pt x 88.83188pt>
+<result hu.JPG, id=64, 125.71968pt x 88.83188pt>
 File: result hu.JPG Graphic file (type jpg)
  <use result hu.JPG>
-Package pdftex.def Info: result hu.JPG used on input line 235.
+Package pdftex.def Info: result hu.JPG used on input line 244.
 (pdftex.def)             Requested size: 125.71936pt x 88.83165pt.
  [2 <C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation/Task-4/src/Docum
-entation/Moments/centroid.png> <C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Lo
-calisation/Task-4/src/Documentation/Moments/m10m01.png> <C:/Users/KUMAR/eYSIP_2
-015_Marker_based_Robot_Localisation/Task-4/src/Documentation/Moments/central mo
-ments.png>] [3 <C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation/Task-
-4/src/Documentation/Moments/central normalized moments.png> <C:/Users/KUMAR/eYS
-IP_2015_Marker_based_Robot_Localisation/Task-4/src/Documentation/Moments/hu.png
-> <C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation/Task-4/src/Documen
-tation/Moments/example.jpg>]
-LaTeX Font Info:    Try loading font information for T1+lmtt on input line 260.
+entation/Moments/Spatial moments.png> <C:/Users/KUMAR/eYSIP_2015_Marker_based_R
+obot_Localisation/Task-4/src/Documentation/Moments/Area.png> <C:/Users/KUMAR/eY
+SIP_2015_Marker_based_Robot_Localisation/Task-4/src/Documentation/Moments/centr
+oid.png>]
+[3 <C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation/Task-4/src/Docume
+ntation/Moments/m10m01.png> <C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Local
+isation/Task-4/src/Documentation/Moments/central moments.png> <C:/Users/KUMAR/e
+YSIP_2015_Marker_based_Robot_Localisation/Task-4/src/Documentation/Moments/cent
+ral normalized moments.png> <C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Local
+isation/Task-4/src/Documentation/Moments/hu.png>] [4 <C:/Users/KUMAR/eYSIP_2015
+_Marker_based_Robot_Localisation/Task-4/src/Documentation/Moments/example.jpg> 
+<C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation/Task-4/src/Documenta
+tion/Moments/result moments.JPG> <C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_
+Localisation/Task-4/src/Documentation/Moments/result hu.JPG>]
+LaTeX Font Info:    Try loading font information for T1+lmtt on input line 269.
 
- (D:\mikTex\tex\latex\lm\t1lmtt.fd
+
+(D:\mikTex\tex\latex\lm\t1lmtt.fd
 File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-Overfull \hbox (90.74873pt too wide) in paragraph at lines 273--273
+Overfull \hbox (90.74873pt too wide) in paragraph at lines 282--282
 []\T1/lmtt/m/n/10 array : Raster image (single-channel, 8-bit or floating-point
  2D array) or an array[] 
  []
 
 
-Overfull \hbox (43.49887pt too wide) in paragraph at lines 273--273
+Overfull \hbox (43.49887pt too wide) in paragraph at lines 282--282
 []\T1/lmtt/m/n/10 binaryImage : If it is true, all non-zero image pixels are tr
 eated as 1's.[] 
  []
 
-[4 <C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation/Task-4/src/Docume
-ntation/Moments/result moments.JPG> <C:/Users/KUMAR/eYSIP_2015_Marker_based_Rob
-ot_Localisation/Task-4/src/Documentation/Moments/result hu.JPG>]
-Overfull \hbox (63.48257pt too wide) in paragraph at lines 331--333
+[5]
+Overfull \hbox (63.48257pt too wide) in paragraph at lines 340--342
 []\T1/lmr/m/n/10 (-20) http://homepages.inf.ed.ac.uk/rbf/CVonline/LOCAL_COPIES/
 SHUTLER3/node8.html 
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 339.
-[5]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 339.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 348.
+[6]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 348.
 
 (C:\Users\KUMAR\eYSIP_2015_Marker_based_Robot_Localisation\Task-4\src\Documenta
 tion\Moments\Moments.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 339.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 339.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 348.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 348.
 Package rerunfilecheck Info: File `Moments.out' has not changed.
 (rerunfilecheck)             Checksum: 35D215D03F0AB2584742C2631896A501;938.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 339.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 348.
  ) 
 Here is how much of TeX's memory you used:
- 11930 strings out of 493921
- 169762 string characters out of 3154500
- 262419 words of memory out of 3000000
- 15078 multiletter control sequences out of 15000+200000
- 24231 words of font info for 34 fonts, out of 3000000 for 9000
+ 12074 strings out of 493921
+ 172596 string characters out of 3154500
+ 263489 words of memory out of 3000000
+ 15168 multiletter control sequences out of 15000+200000
+ 39842 words of font info for 55 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 31i,6n,35p,232b,409s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 31i,6n,35p,232b,486s stack positions out of 5000i,500n,10000p,200000b,50000s
 {D:/mikTex/fonts/enc/dvips/lm/lm-ec.enc}{D:/mikTex/fonts/enc/dvips/lm/lm-ts1.
 enc}<D:/mikTex/fonts/type1/public/lm/lmbx10.pfb><D:/mikTex/fonts/type1/public/l
 m/lmbx12.pfb><D:/mikTex/fonts/type1/public/lm/lmr10.pfb><D:/mikTex/fonts/type1/
-public/lm/lmtt10.pfb><D:/mikTex/fonts/type1/public/lm/lmtti10.pfb>
-Output written on Moments.pdf (5 pages, 291751 bytes).
+public/lm/lmr12.pfb><D:/mikTex/fonts/type1/public/lm/lmr17.pfb><D:/mikTex/fonts
+/type1/public/lm/lmtt10.pfb><D:/mikTex/fonts/type1/public/lm/lmtti10.pfb>
+Output written on Moments.pdf (6 pages, 343741 bytes).
 PDF statistics:
- 128 PDF objects out of 1000 (max. 8388607)
- 26 named destinations out of 1000 (max. 500000)
- 4227 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 140 PDF objects out of 1000 (max. 8388607)
+ 27 named destinations out of 1000 (max. 500000)
+ 8323 words of extra memory for PDF output out of 10000 (max. 10000000)
 

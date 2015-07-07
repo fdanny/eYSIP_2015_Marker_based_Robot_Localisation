@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.5.23)  7 JUL 2015 13:50
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.5.23)  7 JUL 2015 16:54
 entering extended mode
 **Shape_Detection.tex
 
@@ -706,33 +706,33 @@ Package grffile Info: \Gin@ii of package `graphicx' fixed on input line 486.
 )
 ("C:\Users\KUMAR\eYSIP_2015_Marker_based_Robot_Localisation\Task-4\src\Document
 ation\Shape Detection\Shape_Detection.aux")
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 71.
-LaTeX Font Info:    ... okay on input line 71.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 71.
-LaTeX Font Info:    ... okay on input line 71.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 71.
-LaTeX Font Info:    ... okay on input line 71.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 71.
-LaTeX Font Info:    ... okay on input line 71.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 71.
-LaTeX Font Info:    ... okay on input line 71.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 71.
-LaTeX Font Info:    ... okay on input line 71.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 71.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 71.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 73.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 73.
  (D:\mikTex\tex\latex\base\ts1cmr.fd
 File: ts1cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 71.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 71.
-LaTeX Font Info:    ... okay on input line 71.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 71.
-LaTeX Font Info:    ... okay on input line 71.
-LaTeX Font Info:    Try loading font information for T1+lmr on input line 71.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Try loading font information for T1+lmr on input line 73.
  (D:\mikTex\tex\latex\lm\t1lmr.fd
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Info: Redefining \microtypecontext on input line 71.
+LaTeX Info: Redefining \microtypecontext on input line 73.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using protrusion set `basicmath'.
@@ -755,7 +755,7 @@ File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
 Package color Info: Driver file: pdftex.def on input line 130.
 )
-Package hyperref Info: Link coloring ON on input line 71.
+Package hyperref Info: Link coloring ON on input line 73.
  (D:\mikTex\tex\latex\hyperref\nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 
@@ -764,9 +764,9 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count112
 )
-LaTeX Info: Redefining \ref on input line 71.
-LaTeX Info: Redefining \pageref on input line 71.
-LaTeX Info: Redefining \nameref on input line 71.
+LaTeX Info: Redefining \ref on input line 73.
+LaTeX Info: Redefining \pageref on input line 73.
+LaTeX Info: Redefining \nameref on input line 73.
 
 ("C:\Users\KUMAR\eYSIP_2015_Marker_based_Robot_Localisation\Task-4\src\Document
 ation\Shape Detection\Shape_Detection.out")
@@ -788,195 +788,238 @@ ation\Shape Detection\Shape_Detection.out")
 \makeMPintoPDFobject=\count118
 \everyMPtoPDFconversion=\toks25
 )
-Overfull \hbox (33.1331pt too wide) in paragraph at lines 75--82
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 75.
+ (D:\mikTex\tex\latex\lm\ot1lmr.fd
+File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 75.
+ (D:\mikTex\tex\latex\lm\omllmm.fd
+File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 75.
+
+
+(D:\mikTex\tex\latex\lm\omslmsy.fd
+File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 75.
+
+ (D:\mikTex\tex\latex\lm\omxlmex.fd
+File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <12> on input line 75.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 75.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 75.
+LaTeX Font Info:    Try loading font information for U+msa on input line 75.
+
+(D:\mikTex\tex\latex\amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+(D:\mikTex\tex\latex\microtype\mt-msa.cfg
+File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 75.
+
+(D:\mikTex\tex\latex\amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+(D:\mikTex\tex\latex\microtype\mt-msb.cfg
+File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
+)
+Overfull \hbox (33.1331pt too wide) in paragraph at lines 84--91
 \T1/lmr/m/n/10 (-20) * we will learn about : \T1/lmr/bx/n/10 cv2.contourArea()\
 T1/lmr/m/n/10 (-20) , \T1/lmr/bx/n/10 cv2.arcLength()\T1/lmr/m/n/10 (-20) , \T1
 /lmr/bx/n/10 cv2.approxPolyDP() 
  []
 
-LaTeX Font Info:    Try loading font information for T1+lmtt on input line 95.
+LaTeX Font Info:    Try loading font information for T1+lmtt on input line 104.
+
 (D:\mikTex\tex\latex\lm\t1lmtt.fd
 File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 ) [1
 
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 135--148
+Underfull \hbox (badness 10000) in paragraph at lines 144--157
 \T1/lmtt/m/n/10 Triangle, Square, Rectangle, Parallelogram, Pentagon, Hexagon,
  []
 
-LaTeX Font Info:    Try loading font information for TS1+lmtt on input line 293
+[2]
+LaTeX Font Info:    Try loading font information for TS1+lmtt on input line 302
 .
-(D:\mikTex\tex\latex\lm\ts1lmtt.fd
+ (D:\mikTex\tex\latex\lm\ts1lmtt.fd
 File: ts1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-Overfull \hbox (27.74892pt too wide) in paragraph at lines 293--293
+Overfull \hbox (27.74892pt too wide) in paragraph at lines 302--302
 []\T1/lmtt/m/n/10 inp_img = cv2.imread(raw_input("Enter the name of the unknown
  image:"))[] 
  []
 
 
-Overfull \hbox (69.7488pt too wide) in paragraph at lines 293--293
+Overfull \hbox (69.7488pt too wide) in paragraph at lines 302--302
 []\T1/lmtt/m/n/10 OpenCV represents RGB images as multi-dimensional NumPy array
 s...but in reverse[] 
  []
 
 
-Overfull \hbox (64.49881pt too wide) in paragraph at lines 293--293
+Overfull \hbox (64.49881pt too wide) in paragraph at lines 302--302
 []\T1/lmtt/m/n/10 order!This means that images are actually represented in BGR 
 order rather than[] 
  []
 
-[2]
-Overfull \hbox (101.2487pt too wide) in paragraph at lines 293--293
+
+Overfull \hbox (101.2487pt too wide) in paragraph at lines 302--302
 []\T1/lmtt/m/n/10 contours,heirarchy = cv2.findContours(thresh, cv2.RETR_TREE, 
 cv2.CHAIN_APPROX_SIMPLE)[] 
  []
 
 
-Overfull \hbox (111.74867pt too wide) in paragraph at lines 293--293
+Overfull \hbox (111.74867pt too wide) in paragraph at lines 302--302
 []\T1/lmtt/m/n/10 contours1,heirarchy = cv2.findContours(thresh1, cv2.RETR_TREE
 , cv2.CHAIN_APPROX_SIMPLE)[] 
  []
 
-
-Overfull \hbox (48.74886pt too wide) in paragraph at lines 293--293
+[3]
+Overfull \hbox (48.74886pt too wide) in paragraph at lines 302--302
 []\T1/lmtt/m/n/10 #####################Detection of shape######################
 ##############[] 
  []
 
-[3]
-Overfull \hbox (64.49881pt too wide) in paragraph at lines 293--293
+
+Overfull \hbox (64.49881pt too wide) in paragraph at lines 302--302
 []                    \T1/lmtt/m/n/10 cv2.putText(img,"Slight match",(50,50),fo
 nt,1,(0,255,0),2)[] 
  []
 
 
-Overfull \hbox (116.99866pt too wide) in paragraph at lines 293--293
+Overfull \hbox (116.99866pt too wide) in paragraph at lines 302--302
 []                    \T1/lmtt/m/n/10 cv2.putText(inp_img,"Parallelogram",(cx-2
 0,cy),font,0.5,(0,0,255),2)[] 
  []
 
 
-Overfull \hbox (74.99878pt too wide) in paragraph at lines 293--293
+Overfull \hbox (74.99878pt too wide) in paragraph at lines 302--302
 []                    \T1/lmtt/m/n/10 cv2.putText(img,"Slight Match",(50,50),fo
 nt,0.5,(0,0,255),2)[] 
  []
 
 
-Overfull \hbox (95.99872pt too wide) in paragraph at lines 293--293
+Overfull \hbox (95.99872pt too wide) in paragraph at lines 302--302
 []                    \T1/lmtt/m/n/10 cv2.putText(inp_img,"Rectangle",(cx-20,cy
 ),font,0.5,(0,0,255),2)[] 
  []
 
-
-Overfull \hbox (74.99878pt too wide) in paragraph at lines 293--293
+[4]
+Overfull \hbox (74.99878pt too wide) in paragraph at lines 302--302
 []                    \T1/lmtt/m/n/10 cv2.putText(img,"Slight Match",(50,50),fo
 nt,0.5,(0,0,255),2)[] 
  []
 
 
-Overfull \hbox (85.49875pt too wide) in paragraph at lines 293--293
+Overfull \hbox (85.49875pt too wide) in paragraph at lines 302--302
 []                    \T1/lmtt/m/n/10 cv2.putText(inp_img,"Rhombus",(cx-20,cy),
 font,0.5,(0,0,255),2)[] 
  []
 
 
-Overfull \hbox (69.7488pt too wide) in paragraph at lines 293--293
+Overfull \hbox (69.7488pt too wide) in paragraph at lines 302--302
 []                    \T1/lmtt/m/n/10 cv2.putText(img,"Perfect Match",(50,50),f
 ont,2,(0,0,255),2)[] 
  []
 
 
-Overfull \hbox (69.7488pt too wide) in paragraph at lines 293--293
+Overfull \hbox (69.7488pt too wide) in paragraph at lines 302--302
 []                    \T1/lmtt/m/n/10 cv2.putText(inp_img,"Square",(cx-25,cy),f
 ont,1,(0,0,255),2)[] 
  []
 
 
-Overfull \hbox (69.7488pt too wide) in paragraph at lines 293--293
+Overfull \hbox (69.7488pt too wide) in paragraph at lines 302--302
 []                \T1/lmtt/m/n/10 cv2.putText(inp_img,"Triangle",(cx-20,cy),fon
 t,0.5,(0,0,255),2)[] 
  []
 
-[4]
-Overfull \hbox (69.7488pt too wide) in paragraph at lines 293--293
+
+Overfull \hbox (69.7488pt too wide) in paragraph at lines 302--302
 []                \T1/lmtt/m/n/10 cv2.putText(inp_img,"Pentagon",(cx-20,cy),fon
 t,0.5,(0,0,255),2)[] 
  []
 
 
-Overfull \hbox (64.49881pt too wide) in paragraph at lines 293--293
+Overfull \hbox (64.49881pt too wide) in paragraph at lines 302--302
 []                \T1/lmtt/m/n/10 cv2.putText(inp_img,"Hexagon",(cx-20,cy),font
 ,0.5,(0,0,255),2)[] 
  []
 
 
-Overfull \hbox (32.9989pt too wide) in paragraph at lines 293--293
+Overfull \hbox (32.9989pt too wide) in paragraph at lines 302--302
 []                \T1/lmtt/m/n/10 cv2.putText(img,"Arrow",(cx-20,cy),font,0.5,(
 0,0,255),2)[] 
  []
 
 
-Overfull \hbox (59.24883pt too wide) in paragraph at lines 293--293
+Overfull \hbox (59.24883pt too wide) in paragraph at lines 302--302
 []                \T1/lmtt/m/n/10 cv2.putText(inp_img,"Circle",(cx-20,cy),font,
 0.5,(0,255,0),2)[] 
  []
 
 
-Overfull \hbox (90.74873pt too wide) in paragraph at lines 293--293
+Overfull \hbox (90.74873pt too wide) in paragraph at lines 302--302
 [] \T1/lmtt/m/n/10 plt.subplot(121),plt.imshow(img), plt.title(\TS1/lmtt/m/n/10
  '\T1/lmtt/m/n/10 Original image\TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 ),plt.set_cma
 p(\TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 bone\TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 )[] 
  []
 
-
-Overfull \hbox (90.74873pt too wide) in paragraph at lines 293--293
+[5]
+Overfull \hbox (90.74873pt too wide) in paragraph at lines 302--302
 [] \T1/lmtt/m/n/10 plt.subplot(122),plt.imshow(inp_img),plt.title(\TS1/lmtt/m/n
 /10 '\T1/lmtt/m/n/10 Shape found\TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 ),plt.set_cma
 p(\TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 bone\TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 )[] 
  []
 
-<ret.PNG, id=51, 344.78813pt x 88.07906pt>
+<ret.PNG, id=57, 344.78813pt x 88.07906pt>
 File: ret.PNG Graphic file (type png)
  <use ret.PNG>
-Package pdftex.def Info: ret.PNG used on input line 296.
+Package pdftex.def Info: ret.PNG used on input line 305.
 (pdftex.def)             Requested size: 344.78728pt x 88.07883pt.
 
-<shapes3.png, id=53, 589.0005pt x 444.4605pt>
+<shapes3.png, id=59, 589.0005pt x 444.4605pt>
 File: shapes3.png Graphic file (type png)
  <use shapes3.png>
-Package pdftex.def Info: shapes3.png used on input line 300.
+Package pdftex.def Info: shapes3.png used on input line 311.
 (pdftex.def)             Requested size: 345.00877pt x 260.34404pt.
- [5 <C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation/Task-4/src/Docum
-entation/Shape Detection/ret.PNG>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 310.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 323.
  [6 <C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation/Task-4/src/Docum
-entation/Shape Detection/shapes3.png>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 310.
+entation/Shape Detection/shapes3.png> <C:/Users/KUMAR/eYSIP_2015_Marker_based_R
+obot_Localisation/Task-4/src/Documentation/Shape Detection/ret.PNG>] [7]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 323.
 
 ("C:\Users\KUMAR\eYSIP_2015_Marker_based_Robot_Localisation\Task-4\src\Document
 ation\Shape Detection\Shape_Detection.aux")
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 310.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 310.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 323.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 323.
 Package rerunfilecheck Info: File `Shape_Detection.out' has not changed.
 (rerunfilecheck)             Checksum: 71BA46C4BE0B0869DD92E56F390AA87A;561.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 310.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 323.
  ) 
 Here is how much of TeX's memory you used:
- 11485 strings out of 493921
- 162862 string characters out of 3154500
- 258528 words of memory out of 3000000
- 14645 multiletter control sequences out of 15000+200000
- 32646 words of font info for 37 fonts, out of 3000000 for 9000
+ 11632 strings out of 493921
+ 165721 string characters out of 3154500
+ 257606 words of memory out of 3000000
+ 14737 multiletter control sequences out of 15000+200000
+ 48257 words of font info for 58 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 31i,5n,35p,240b,461s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 31i,7n,35p,240b,461s stack positions out of 5000i,500n,10000p,200000b,50000s
 {D:/mikTex/fonts/enc/dvips/lm/lm-ts1.enc}{D:/mikTex/fonts/enc/dvips/lm/lm-ec.
 enc}<D:/mikTex/fonts/type1/public/lm/lmbx10.pfb><D:/mikTex/fonts/type1/public/l
 m/lmbx12.pfb><D:/mikTex/fonts/type1/public/lm/lmbxi10.pfb><D:/mikTex/fonts/type
-1/public/lm/lmr10.pfb><D:/mikTex/fonts/type1/public/lm/lmtt10.pfb>
-Output written on Shape_Detection.pdf (6 pages, 159497 bytes).
+1/public/lm/lmr10.pfb><D:/mikTex/fonts/type1/public/lm/lmr12.pfb><D:/mikTex/fon
+ts/type1/public/lm/lmr17.pfb><D:/mikTex/fonts/type1/public/lm/lmtt10.pfb>
+Output written on Shape_Detection.pdf (7 pages, 210688 bytes).
 PDF statistics:
- 91 PDF objects out of 1000 (max. 8388607)
- 13 named destinations out of 1000 (max. 500000)
- 6203 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 106 PDF objects out of 1000 (max. 8388607)
+ 15 named destinations out of 1000 (max. 500000)
+ 10299 words of extra memory for PDF output out of 12000 (max. 10000000)
 

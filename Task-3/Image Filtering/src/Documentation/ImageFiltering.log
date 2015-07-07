@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.5.23)  7 JUL 2015 13:15
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.5.23)  7 JUL 2015 16:33
 entering extended mode
 **ImageFiltering.tex
 
@@ -723,34 +723,34 @@ Package grffile Info: \Gin@ii of package `graphicx' fixed on input line 486.
 )
 ("C:\Users\KUMAR\eYSIP_2015_Marker_based_Robot_Localisation\Task-3\Image Filter
 ing\src\Documentation\ImageFiltering.aux")
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 109.
-LaTeX Font Info:    ... okay on input line 109.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 109.
-LaTeX Font Info:    ... okay on input line 109.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 109.
-LaTeX Font Info:    ... okay on input line 109.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 109.
-LaTeX Font Info:    ... okay on input line 109.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 109.
-LaTeX Font Info:    ... okay on input line 109.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 109.
-LaTeX Font Info:    ... okay on input line 109.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 109.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 109.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 111.
+LaTeX Font Info:    ... okay on input line 111.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 111.
+LaTeX Font Info:    ... okay on input line 111.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 111.
+LaTeX Font Info:    ... okay on input line 111.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 111.
+LaTeX Font Info:    ... okay on input line 111.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 111.
+LaTeX Font Info:    ... okay on input line 111.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 111.
+LaTeX Font Info:    ... okay on input line 111.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 111.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 111.
 
  (D:\mikTex\tex\latex\base\ts1cmr.fd
 File: ts1cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 109.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 109.
-LaTeX Font Info:    ... okay on input line 109.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 109.
-LaTeX Font Info:    ... okay on input line 109.
-LaTeX Font Info:    Try loading font information for T1+lmr on input line 109.
+LaTeX Font Info:    ... okay on input line 111.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 111.
+LaTeX Font Info:    ... okay on input line 111.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 111.
+LaTeX Font Info:    ... okay on input line 111.
+LaTeX Font Info:    Try loading font information for T1+lmr on input line 111.
 (D:\mikTex\tex\latex\lm\t1lmr.fd
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Info: Redefining \microtypecontext on input line 109.
+LaTeX Info: Redefining \microtypecontext on input line 111.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using protrusion set `basicmath'.
@@ -765,7 +765,7 @@ File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman
 (RS)
 )
 \AtBeginShipoutBox=\box29
-Package hyperref Info: Link coloring ON on input line 109.
+Package hyperref Info: Link coloring ON on input line 111.
 
 (D:\mikTex\tex\latex\hyperref\nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -775,9 +775,9 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count115
 )
-LaTeX Info: Redefining \ref on input line 109.
-LaTeX Info: Redefining \pageref on input line 109.
-LaTeX Info: Redefining \nameref on input line 109.
+LaTeX Info: Redefining \ref on input line 111.
+LaTeX Info: Redefining \pageref on input line 111.
+LaTeX Info: Redefining \nameref on input line 111.
 
 ("C:\Users\KUMAR\eYSIP_2015_Marker_based_Robot_Localisation\Task-3\Image Filter
 ing\src\Documentation\ImageFiltering.out")
@@ -799,175 +799,199 @@ ing\src\Documentation\ImageFiltering.out")
 \makeMPintoPDFobject=\count121
 \everyMPtoPDFconversion=\toks25
 )
-LaTeX Font Info:    Try loading font information for TS1+lmr on input line 116.
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 113.
+
+ (D:\mikTex\tex\latex\lm\ot1lmr.fd
+File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 113.
+
+ (D:\mikTex\tex\latex\lm\omllmm.fd
+File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 113
+.
+
+(D:\mikTex\tex\latex\lm\omslmsy.fd
+File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 113
+.
+ (D:\mikTex\tex\latex\lm\omxlmex.fd
+File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <12> on input line 113.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 113.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 113.
+LaTeX Font Info:    Try loading font information for U+msa on input line 113.
+
+(D:\mikTex\tex\latex\amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+(D:\mikTex\tex\latex\microtype\mt-msa.cfg
+File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 113.
+
+(D:\mikTex\tex\latex\amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+(D:\mikTex\tex\latex\microtype\mt-msb.cfg
+File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
+)
+LaTeX Font Info:    Try loading font information for TS1+lmr on input line 125.
 
  (D:\mikTex\tex\latex\lm\ts1lmr.fd
 File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-<Blur_kernel.png, id=63, 162.6075pt x 93.34875pt>
+[1
+
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
+<Blur_kernel.png, id=74, 162.6075pt x 93.34875pt>
 File: Blur_kernel.png Graphic file (type png)
  <use Blur_kernel.png>
-Package pdftex.def Info: Blur_kernel.png used on input line 145.
+Package pdftex.def Info: Blur_kernel.png used on input line 154.
 (pdftex.def)             Requested size: 162.61453pt x 93.35278pt.
-LaTeX Font Info:    Try loading font information for T1+lmtt on input line 152.
+LaTeX Font Info:    Try loading font information for T1+lmtt on input line 161.
 
 
 (D:\mikTex\tex\latex\lm\t1lmtt.fd
 File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-Underfull \hbox (badness 10000) in paragraph at lines 162--165
-
- []
-
-[1
-
-{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Users/KUMAR/eYSIP_2015
-_Marker_based_Robot_Localisation/Task-3/Image Filtering/src/Documentation/Blur_
-kernel.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 165--167
+Underfull \hbox (badness 10000) in paragraph at lines 171--174
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 167--169
+Underfull \hbox (badness 10000) in paragraph at lines 174--176
 
  []
 
-<Gaussian Kernel.png, id=77, 127.22531pt x 91.09032pt>
+
+Underfull \hbox (badness 10000) in paragraph at lines 176--178
+
+ []
+
+<Gaussian Kernel.png, id=76, 127.22531pt x 91.09032pt>
 File: Gaussian Kernel.png Graphic file (type png)
 
 <use Gaussian Kernel.png>
-Package pdftex.def Info: Gaussian Kernel.png used on input line 194.
+Package pdftex.def Info: Gaussian Kernel.png used on input line 203.
 (pdftex.def)             Requested size: 127.22887pt x 91.09285pt.
- <Gaussfunc.png, id=78, 190.7125pt x 41.15375pt>
+ [2 <C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation/Task-3/Image Fil
+tering/src/Documentation/Blur_kernel.png>]
+<Gaussfunc.png, id=84, 190.7125pt x 41.15375pt>
 File: Gaussfunc.png Graphic file (type png)
-
-<use Gaussfunc.png>
-Package pdftex.def Info: Gaussfunc.png used on input line 204.
+ <use Gaussfunc.png>
+Package pdftex.def Info: Gaussfunc.png used on input line 213.
 (pdftex.def)             Requested size: 190.71783pt x 41.15489pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 204--208
-
- []
-
-[2 <C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation/Task-3/Image Filt
-ering/src/Documentation/Gaussian Kernel.png> <C:/Users/KUMAR/eYSIP_2015_Marker_
-based_Robot_Localisation/Task-3/Image Filtering/src/Documentation/Gaussfunc.png
->]
-Underfull \hbox (badness 10000) in paragraph at lines 212--213
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 264--266
-
- []
-
-[3]
-LaTeX Font Info:    Try loading font information for TS1+lmtt on input line 282
+ [3 <C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation/Task-3/Image Fil
+tering/src/Documentation/Gaussian Kernel.png> <C:/Users/KUMAR/eYSIP_2015_Marker
+_based_Robot_Localisation/Task-3/Image Filtering/src/Documentation/Gaussfunc.pn
+g>]
+LaTeX Font Info:    Try loading font information for TS1+lmtt on input line 290
 .
- (D:\mikTex\tex\latex\lm\ts1lmtt.fd
+
+(D:\mikTex\tex\latex\lm\ts1lmtt.fd
 File: ts1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-<dots.jpg, id=93, 1027.84pt x 1027.84pt>
+) [4]
+<dots.jpg, id=100, 1027.84pt x 1027.84pt>
 File: dots.jpg Graphic file (type jpg)
  <use dots.jpg>
-Package pdftex.def Info: dots.jpg used on input line 306.
+Package pdftex.def Info: dots.jpg used on input line 314.
 (pdftex.def)             Requested size: 345.00685pt x 345.00685pt.
 
-<Blur.jpg, id=94, 1027.84pt x 1027.84pt>
+<Blur.jpg, id=101, 1027.84pt x 1027.84pt>
 File: Blur.jpg Graphic file (type jpg)
  <use Blur.jpg>
-Package pdftex.def Info: Blur.jpg used on input line 312.
+Package pdftex.def Info: Blur.jpg used on input line 321.
 (pdftex.def)             Requested size: 345.00685pt x 345.00685pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 312--314
-
- []
-
-[4] [5 <C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation/Task-3/Image 
-Filtering/src/Documentation/dots.jpg>]
-Overfull \hbox (87.25021pt too wide) in paragraph at lines 342--342
+Overfull \hbox (87.25021pt too wide) in paragraph at lines 354--354
 []  \T1/lmtt/m/n/12 OpenCV represents RGB images as multi-dimensional NumPy arr
 ays...but[] 
  []
 
 
-Overfull \hbox (93.42522pt too wide) in paragraph at lines 342--342
+Overfull \hbox (93.42522pt too wide) in paragraph at lines 354--354
 []   \T1/lmtt/m/n/12 in reverse order! This means that images are actually repr
 esented in[] 
  []
 
-[6 <C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation/Task-3/Image Filt
-ering/src/Documentation/Blur.jpg>]
-Overfull \hbox (105.77522pt too wide) in paragraph at lines 342--342
+
+Overfull \hbox (105.77522pt too wide) in paragraph at lines 354--354
 []  \T1/lmtt/m/n/12 img = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)   #Coverting fro
 m bgr to rgb[] 
  []
 
 
-Overfull \hbox (6.97517pt too wide) in paragraph at lines 342--342
+Overfull \hbox (6.97517pt too wide) in paragraph at lines 354--354
 []  \T1/lmtt/m/n/12 plt.subplot(121),plt.imshow(img), plt.title(\TS1/lmtt/m/n/1
 2 '\T1/lmtt/m/n/12 Original\TS1/lmtt/m/n/12 '\T1/lmtt/m/n/12 )[] 
  []
 
-
-Overfull \hbox (13.15018pt too wide) in paragraph at lines 342--342
+[5] [6 <C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation/Task-3/Image 
+Filtering/src/Documentation/dots.jpg>] [7 <C:/Users/KUMAR/eYSIP_2015_Marker_bas
+ed_Robot_Localisation/Task-3/Image Filtering/src/Documentation/Blur.jpg>]
+Overfull \hbox (13.15018pt too wide) in paragraph at lines 354--354
 []  \T1/lmtt/m/n/12 plt.subplot(122),plt.imshow(blur), plt.title(\TS1/lmtt/m/n/
 12 '\T1/lmtt/m/n/12 Gaussian\TS1/lmtt/m/n/12 '\T1/lmtt/m/n/12 )[] 
  []
 
-<GaussBlur.png, id=110, 589.0005pt x 444.4605pt>
+<GaussBlur.png, id=117, 589.0005pt x 444.4605pt>
 File: GaussBlur.png Graphic file (type png)
  <use GaussBlur.png>
-Package pdftex.def Info: GaussBlur.png used on input line 346.
+Package pdftex.def Info: GaussBlur.png used on input line 358.
 (pdftex.def)             Requested size: 345.00877pt x 260.34404pt.
- [7 <C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation/Task-3/Image Fil
-tering/src/Documentation/GaussBlur.png>] <mountains.png, id=118, 385.44pt x 256
+ [8 <C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation/Task-3/Image Fil
+tering/src/Documentation/GaussBlur.png>] <mountains.png, id=124, 385.44pt x 256
 .96pt>
 File: mountains.png Graphic file (type png)
 
 <use mountains.png>
-Package pdftex.def Info: mountains.png used on input line 383.
+Package pdftex.def Info: mountains.png used on input line 395.
 (pdftex.def)             Requested size: 344.99901pt x 229.99933pt.
- <Median.jpg, id=119, 385.44pt x 256.96pt>
+ <Median.jpg, id=125, 385.44pt x 256.96pt>
 File: Median.jpg Graphic file (type jpg)
  <use Median.jpg>
-Package pdftex.def Info: Median.jpg used on input line 391.
+Package pdftex.def Info: Median.jpg used on input line 403.
 (pdftex.def)             Requested size: 344.99901pt x 229.99933pt.
 
-[8] [9 <C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation/Task-3/Image 
-Filtering/src/Documentation/mountains.png (PNG copy)> <C:/Users/KUMAR/eYSIP_201
-5_Marker_based_Robot_Localisation/Task-3/Image Filtering/src/Documentation/Medi
-an.jpg>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 409.
- [10]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 409.
+[9 <C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation/Task-3/Image Filt
+ering/src/Documentation/mountains.png (PNG copy)>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 421.
+ [10 <C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation/Task-3/Image Fi
+ltering/src/Documentation/Median.jpg>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 421.
 
 ("C:\Users\KUMAR\eYSIP_2015_Marker_based_Robot_Localisation\Task-3\Image Filter
 ing\src\Documentation\ImageFiltering.aux")
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 409.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 409.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 421.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 421.
 Package rerunfilecheck Info: File `ImageFiltering.out' has not changed.
 (rerunfilecheck)             Checksum: 6B49B3F9CE5B5E53B837E01FFFE1A530;1529.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 409.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 421.
  ) 
 Here is how much of TeX's memory you used:
- 11998 strings out of 493921
- 170795 string characters out of 3154500
- 262607 words of memory out of 3000000
- 15120 multiletter control sequences out of 15000+200000
- 28849 words of font info for 45 fonts, out of 3000000 for 9000
+ 12138 strings out of 493921
+ 173587 string characters out of 3154500
+ 262685 words of memory out of 3000000
+ 15210 multiletter control sequences out of 15000+200000
+ 44278 words of font info for 64 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 31i,6n,35p,239b,488s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 31i,6n,35p,239b,492s stack positions out of 5000i,500n,10000p,200000b,50000s
 {D:/mikTex/fonts/enc/dvips/lm/lm-ts1.enc}{D:/mikTex/fonts/enc/dvips/lm/lm-ec.
 enc}<D:/mikTex/fonts/type1/public/lm/lmbx10.pfb><D:/mikTex/fonts/type1/public/l
 m/lmbx12.pfb><D:/mikTex/fonts/type1/public/lm/lmr10.pfb><D:/mikTex/fonts/type1/
-public/lm/lmr12.pfb><D:/mikTex/fonts/type1/public/lm/lmtt10.pfb><D:/mikTex/font
-s/type1/public/lm/lmtt12.pfb><D:/mikTex/fonts/type1/public/lm/lmtti10.pfb>
-Output written on ImageFiltering.pdf (10 pages, 1185999 bytes).
+public/lm/lmr12.pfb><D:/mikTex/fonts/type1/public/lm/lmr17.pfb><D:/mikTex/fonts
+/type1/public/lm/lmtt10.pfb><D:/mikTex/fonts/type1/public/lm/lmtt12.pfb><D:/mik
+Tex/fonts/type1/public/lm/lmtti10.pfb>
+Output written on ImageFiltering.pdf (10 pages, 1213922 bytes).
 PDF statistics:
- 173 PDF objects out of 1000 (max. 8388607)
- 32 named destinations out of 1000 (max. 500000)
- 4257 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 178 PDF objects out of 1000 (max. 8388607)
+ 33 named destinations out of 1000 (max. 500000)
+ 8353 words of extra memory for PDF output out of 10000 (max. 10000000)
 

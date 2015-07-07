@@ -67,9 +67,18 @@
 \let\oldsubparagraph\subparagraph
 \renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
 \fi
-
+\title {Marker based localization \\ [10pt]
+	Shape Detection  \\[25pt] Team members }
+\author {Niharika Jayanthi \and Dheeraj Kamath}
 \begin{document}
-
+\maketitle
+\begin{center}
+	\begin{large}
+		Under the guidance of\\
+		\textbf{Sanam Shakya}\\
+		\vspace{0.5in}
+	\end{large}
+\end{center}
 \section{Goal}\label{goal}
 
 \emph{\textbf{In this chapter we will see,}} \\
@@ -297,7 +306,11 @@ If we input ``parallelogram.png'' we get:\\
 The highlighted portion represents the return value.
 
 We get the following as output:\\
-\includegraphics{shapes3.png}
+\begin{figure}
+	\centering
+	\includegraphics{shapes3.png}
+	\caption{Shape detection}
+\end{figure}
 
 \section{Resources}\label{resources}
 

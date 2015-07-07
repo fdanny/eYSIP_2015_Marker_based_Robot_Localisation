@@ -105,9 +105,18 @@
 \let\oldsubparagraph\subparagraph
 \renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
 \fi
-
+\title {Marker based localization \\ [10pt]
+	Image Filtering \\[25pt] Team members }
+\author {Niharika Jayanthi \and Dheeraj Kamath}
 \begin{document}
-
+\maketitle
+\begin{center}
+	\begin{large}
+		Under the guidance of\\
+		\textbf{Sanam Shakya}\\
+		\vspace{0.5in}
+	\end{large}
+\end{center}
 \section{Goals}\label{goals}
 
 \begin{itemize}
@@ -200,9 +209,8 @@ the neighborhood using the Gaussian function may not be present in the
 image itself. Hence it results in some blurring. It is also not edge
 preserving.\\
 A 2D Gaussian function is as given below:
-
+\centering
 \includegraphics{Gaussfunc.png}\\
-\\
 Gaussian kernel coefficients are sampled using the above function. For
 perfect filtering medianblur() is preferred.
 
@@ -309,7 +317,11 @@ Consider the following image:
 
 On applying blur, it looks like this-
 
-\includegraphics{Blur.jpg} \\ \\
+\begin{figure}
+\includegraphics{Blur.jpg}
+\caption{blur} 
+\end{figure}
+
 \textbf{\LARGE Gaussian Blur}
 
 \begin{verbatim}

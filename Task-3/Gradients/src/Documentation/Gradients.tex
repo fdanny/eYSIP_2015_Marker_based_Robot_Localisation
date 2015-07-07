@@ -105,8 +105,18 @@
 \let\oldsubparagraph\subparagraph
 \renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
 \fi
-
+\title {Marker based localization \\ [10pt]
+	Gradients  \\[25pt] Team members }
+\author {Niharika Jayanthi \and Dheeraj Kamath}
 \begin{document}
+\maketitle
+\begin{center}
+	\begin{large}
+		Under the guidance of\\
+		\textbf{Sanam Shakya}\\
+		\vspace{0.5in}
+	\end{large}
+\end{center}
 
 \section{Goal}\label{goal}
 
@@ -124,11 +134,17 @@ notorious way. A good way to express changes is by using derivatives. A
 high change in gradient indicates a major change in the image.\\
 To be more graphical, let's assume we have a 1D-image. An edge is shown
 by the ``jump'' in intensity in the plot below:\\
+\begin{figure}
 \includegraphics{graph1.jpg}
+\caption{Graph - f(t)}
+\end{figure}
 
 However if we take the first derivative we can see the edge peak more
 clearly as shown below:\\
-\includegraphics{graph2.jpg}
+\begin{figure}
+	\includegraphics{graph2.jpg}
+	\caption{Graph - f'(t)}
+\end{figure}
 
 Hence we can detect edges in an image by locating pixel locations where
 the gradient is higher than its neighbors (or to generalize, higher than
@@ -151,8 +167,13 @@ The operator uses two 3X3 kernels which are convolved with the original
 image to calculate approximations of the derivatives - one for
 horizontal changes, and one for vertical. The picture below shows Sobel
 Kernels in x-dir and y-dir:\\
+\begin{figure}
+\centering
 \includegraphics{sobelkernelx.png}
+\caption{Sobel\_Kernel\_x}
 \includegraphics{sobelkernely.png}
+\caption{Sobel\_Kernel\_y}
+\end{figure}
 
 \subsection{Scharr}\label{scharr}
 
@@ -221,11 +242,18 @@ On applying Scharr operator on above image, we get the following-
 The Laplacian edge detector uses only one kernel. It calculates second
 order derivatives in a single pass. The Laplacian function is given
 below:\\
+\begin{figure}
+\centering
 \includegraphics{laplace_func.png}
+\caption{Laplace Function}
+\end{figure}
 
 A kernel used in this Laplacian detection looks like this:\\
+\begin{figure}
+\centering
 \includegraphics{LaplacianKernel.png}
-
+\caption{laplacian Kernel}
+\end{figure}
 \subsection{Applications}\label{applications}
 
 \begin{itemize}
