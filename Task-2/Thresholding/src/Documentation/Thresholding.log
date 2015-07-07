@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.5.23)  6 JUL 2015 18:18
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.5.23)  7 JUL 2015 16:15
 entering extended mode
 **Thresholding.tex
 
-(C:\Users\KUMAR\eYSIP_2015_Marker_based_Robot_Localisation.wiki\Thresholding.te
-x
+(C:\Users\KUMAR\eYSIP_2015_Marker_based_Robot_Localisation\Task-2\Thresholding\
+src\Documentation\Thresholding.tex
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -704,35 +704,35 @@ Package hyperref Warning: Option `bookmarks' has already been used,
 
 Package hyperref Info: Option `colorlinks' set `true' on input line 42.
 
-(C:\Users\KUMAR\eYSIP_2015_Marker_based_Robot_Localisation.wiki\Thresholding.au
-x)
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 63.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 63.
+(C:\Users\KUMAR\eYSIP_2015_Marker_based_Robot_Localisation\Task-2\Thresholding\
+src\Documentation\Thresholding.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 65.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 65.
  (D:\mikTex\tex\latex\base\ts1cmr.fd
 File: ts1cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Try loading font information for T1+lmr on input line 63.
- (D:\mikTex\tex\latex\lm\t1lmr.fd
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Try loading font information for T1+lmr on input line 65.
+
+(D:\mikTex\tex\latex\lm\t1lmr.fd
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-(D:\mikTex\tex\context\base\supp-pdf.mkii
+) (D:\mikTex\tex\context\base\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count112
 \scratchdimen=\dimen119
@@ -746,7 +746,7 @@ File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 \makeMPintoPDFobject=\count117
 \everyMPtoPDFconversion=\toks25
 )
-LaTeX Info: Redefining \microtypecontext on input line 63.
+LaTeX Info: Redefining \microtypecontext on input line 65.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using protrusion set `basicmath'.
@@ -769,7 +769,7 @@ File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
 Package color Info: Driver file: pdftex.def on input line 130.
 )
-Package hyperref Info: Link coloring ON on input line 63.
+Package hyperref Info: Link coloring ON on input line 65.
  (D:\mikTex\tex\latex\hyperref\nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 
@@ -778,282 +778,49 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count118
 )
-LaTeX Info: Redefining \ref on input line 63.
-LaTeX Info: Redefining \pageref on input line 63.
-LaTeX Info: Redefining \nameref on input line 63.
+LaTeX Info: Redefining \ref on input line 65.
+LaTeX Info: Redefining \pageref on input line 65.
+LaTeX Info: Redefining \nameref on input line 65.
 
-(C:\Users\KUMAR\eYSIP_2015_Marker_based_Robot_Localisation.wiki\Thresholding.ou
-t)
-(C:\Users\KUMAR\eYSIP_2015_Marker_based_Robot_Localisation.wiki\Thresholding.ou
-t)
+(C:\Users\KUMAR\eYSIP_2015_Marker_based_Robot_Localisation\Task-2\Thresholding\
+src\Documentation\Thresholding.out)
+(C:\Users\KUMAR\eYSIP_2015_Marker_based_Robot_Localisation\Task-2\Thresholding\
+src\Documentation\Thresholding.out)
 \@outlinefile=\write3
-LaTeX Font Info:    Try loading font information for TS1+lmr on input line 85.
- (D:\mikTex\tex\latex\lm\ts1lmr.fd
-File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-LaTeX Font Info:    Try loading font information for T1+lmtt on input line 85.
- (D:\mikTex\tex\latex\lm\t1lmtt.fd
-File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-<sun.jpg, id=23, 276.03125pt x 183.68625pt>
-File: sun.jpg Graphic file (type jpg)
- <use sun.jpg>
-Package pdftex.def Info: sun.jpg used on input line 106.
-(pdftex.def)             Requested size: 276.03056pt x 183.68578pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[1
-
-{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
-LaTeX Font Info:    Try loading font information for TS1+lmtt on input line 191
-.
-
-(D:\mikTex\tex\latex\lm\ts1lmtt.fd
-File: ts1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-Overfull \hbox (85.49875pt too wide) in paragraph at lines 191--191
-[]\T1/lmtt/m/n/10 *************************************************************
-*********************[] 
- []
-
-
-Overfull \hbox (85.49875pt too wide) in paragraph at lines 191--191
-[]\T1/lmtt/m/n/10 *                                                            
-                    *[] 
- []
-
-
-Overfull \hbox (85.49875pt too wide) in paragraph at lines 191--191
-[]\T1/lmtt/m/n/10 *                   IMAGE PROCESSING ( THRESHOLDING OPERATION
- )                  *[] 
- []
-
-
-Overfull \hbox (85.49875pt too wide) in paragraph at lines 191--191
-[]\T1/lmtt/m/n/10 *                                                            
-                    *[] 
- []
-
-
-Overfull \hbox (85.49875pt too wide) in paragraph at lines 191--191
-[]\T1/lmtt/m/n/10 *                                                            
-                    *[] 
- []
-
-
-Overfull \hbox (85.49875pt too wide) in paragraph at lines 191--191
-[]\T1/lmtt/m/n/10 *  TEAM MEMBERS : NIHARIKA JAYANTHI, DHEERAJ KAMATH          
-                    *[] 
- []
-
-
-Overfull \hbox (85.49875pt too wide) in paragraph at lines 191--191
-[]\T1/lmtt/m/n/10 *                                                            
-                    *[] 
- []
-
-
-Overfull \hbox (85.49875pt too wide) in paragraph at lines 191--191
-[]\T1/lmtt/m/n/10 *  MENTOR : SANAM SHAKYA                                     
-                    *[] 
- []
-
-
-Overfull \hbox (85.49875pt too wide) in paragraph at lines 191--191
-[]\T1/lmtt/m/n/10 *                                                            
-                    *[] 
- []
-
-
-Overfull \hbox (85.49875pt too wide) in paragraph at lines 191--191
-[]\T1/lmtt/m/n/10 *  FILENAME : THRESHOLDING.PY                                
-                    *[] 
- []
-
-
-Overfull \hbox (85.49875pt too wide) in paragraph at lines 191--191
-[]\T1/lmtt/m/n/10 *                                                            
-                    *[] 
- []
-
-
-Overfull \hbox (85.49875pt too wide) in paragraph at lines 191--191
-[]\T1/lmtt/m/n/10 *  THEME : DEVELOP MODULES FOR IMAGE PROCESSING AND ROBOT LOC
-ALISATION           *[] 
- []
-
-
-Overfull \hbox (85.49875pt too wide) in paragraph at lines 191--191
-[]\T1/lmtt/m/n/10 *          USING MARKERS                                     
-                    *[] 
- []
-
-
-Overfull \hbox (85.49875pt too wide) in paragraph at lines 191--191
-[]\T1/lmtt/m/n/10 *                                                            
-                    *[] 
- []
-
-
-Overfull \hbox (85.49875pt too wide) in paragraph at lines 191--191
-[]\T1/lmtt/m/n/10 *  FUNCTIONS : cv3.threshold(), cv2.cvtColor(), cv2.imread() 
-                    *[] 
- []
-
-
-Overfull \hbox (85.49875pt too wide) in paragraph at lines 191--191
-[]\T1/lmtt/m/n/10 *                                                            
-                    *[] 
- []
-
-
-Overfull \hbox (85.49875pt too wide) in paragraph at lines 191--191
-[]\T1/lmtt/m/n/10 *  GLOBAL VARIABLES : NONE                                   
-                    *[] 
- []
-
-
-Overfull \hbox (85.49875pt too wide) in paragraph at lines 191--191
-[]\T1/lmtt/m/n/10 *                                                            
-                    *[] 
- []
-
-
-Overfull \hbox (85.49875pt too wide) in paragraph at lines 191--191
-[]\T1/lmtt/m/n/10 *************************************************************
-*********************[] 
- []
-
-[2 <C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation.wiki/sun.jpg>]
-Overfull \hbox (127.49863pt too wide) in paragraph at lines 191--191
-[]\T1/lmtt/m/n/10 #############################################################
-#############################[] 
- []
-
-
-Overfull \hbox (116.99866pt too wide) in paragraph at lines 191--191
-[]\T1/lmtt/m/n/10 * FUNCTION NAME : ret,thresh = cv2.threshold(img, Min_value,M
-ax_value,cv2.THRESH_BINARY)[] 
- []
-
-
-Overfull \hbox (27.74892pt too wide) in paragraph at lines 191--191
-[]\T1/lmtt/m/n/10 * INPUT         : Input is a source image which should be in 
-grayscale.[] 
- []
-
-
-Overfull \hbox (85.49875pt too wide) in paragraph at lines 191--191
-[]\T1/lmtt/m/n/10 * LOGIC         : The function takes three inputs. First is t
-he source image(img),[] 
- []
-
-
-Overfull \hbox (106.49869pt too wide) in paragraph at lines 191--191
-[]                  \T1/lmtt/m/n/10 second argument is the threshold value whic
-h is used to classify the[] 
- []
-
-
-Overfull \hbox (116.99866pt too wide) in paragraph at lines 191--191
-[]                  \T1/lmtt/m/n/10 Third argument is the Max_value which repre
-sents the value to be given[] 
- []
-
-
-Overfull \hbox (116.99866pt too wide) in paragraph at lines 191--191
-[]                  \T1/lmtt/m/n/10 if pixel value is more than (sometimes less
- than) the threshold value.[] 
- []
-
-
-Overfull \hbox (59.24883pt too wide) in paragraph at lines 191--191
-[]\T1/lmtt/m/n/10 * EXAMPLE CALL  : ret,thresh = cv2.threshold( img, 0, 255, cv
-2.THRESH_BINARY)[] 
- []
-
-
-Overfull \hbox (17.24895pt too wide) in paragraph at lines 191--191
-[]\T1/lmtt/m/n/10 #############################################################
-########[] 
- []
-
-[3] <Threshbinary.jpg, id=44, 276.03125pt x 183.68625pt>
-File: Threshbinary.jpg Graphic file (type jpg)
-
-<use Threshbinary.jpg>
-Package pdftex.def Info: Threshbinary.jpg used on input line 199.
-(pdftex.def)             Requested size: 276.03056pt x 183.68578pt.
- [4 <C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation.wiki/Threshbinar
-y.jpg>]
-<ThreshBinaryInv.jpg, id=50, 276.03125pt x 183.68625pt>
-File: ThreshBinaryInv.jpg Graphic file (type jpg)
-
-<use ThreshBinaryInv.jpg>
-Package pdftex.def Info: ThreshBinaryInv.jpg used on input line 204.
-(pdftex.def)             Requested size: 276.03056pt x 183.68578pt.
- <ThreshTrunc.jpg, id=51, 276.03125pt x 183.68625pt>
-File: ThreshTrunc.jpg Graphic file (type jpg)
-
-<use ThreshTrunc.jpg>
-Package pdftex.def Info: ThreshTrunc.jpg used on input line 208.
-(pdftex.def)             Requested size: 276.03056pt x 183.68578pt.
- [5 <C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation.wiki/ThreshBinar
-yInv.jpg> <C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation.wiki/Thres
-hTrunc.jpg>]
-<ThreshToZero.jpg, id=58, 276.03125pt x 183.68625pt>
-File: ThreshToZero.jpg Graphic file (type jpg)
- <use ThreshToZero.jpg>
-Package pdftex.def Info: ThreshToZero.jpg used on input line 213.
-(pdftex.def)             Requested size: 276.03056pt x 183.68578pt.
-
-<ThreshToZeroInv.jpg, id=59, 276.03125pt x 183.68625pt>
-File: ThreshToZeroInv.jpg Graphic file (type jpg)
-
-<use ThreshToZeroInv.jpg>
-Package pdftex.def Info: ThreshToZeroInv.jpg used on input line 217.
-(pdftex.def)             Requested size: 276.03056pt x 183.68578pt.
- [6 <C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation.wiki/ThreshToZer
-o.jpg> <C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation.wiki/ThreshTo
-ZeroInv.jpg>]
-LaTeX Font Info:    Try loading font information for OT1+lmr on input line 228.
-
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 67.
  (D:\mikTex\tex\latex\lm\ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OML+lmm on input line 228.
-
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 67.
 
 (D:\mikTex\tex\latex\lm\omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 228
-.
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 67.
+
  (D:\mikTex\tex\latex\lm\omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMX+lmex on input line 228
-.
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 67.
+
 
 (D:\mikTex\tex\latex\lm\omxlmex.fd
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 228.
+(Font)              <12> on input line 67.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 228.
+(Font)              <8> on input line 67.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 228.
-LaTeX Font Info:    Try loading font information for U+msa on input line 228.
+(Font)              <6> on input line 67.
+LaTeX Font Info:    Try loading font information for U+msa on input line 67.
  (D:\mikTex\tex\latex\amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 (D:\mikTex\tex\latex\microtype\mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 228.
+LaTeX Font Info:    Try loading font information for U+msb on input line 67.
 
 (D:\mikTex\tex\latex\amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -1061,33 +828,278 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 (D:\mikTex\tex\latex\microtype\mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 233.
- [7]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 233.
+LaTeX Font Info:    Try loading font information for TS1+lmr on input line 94.
+ (D:\mikTex\tex\latex\lm\ts1lmr.fd
+File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for T1+lmtt on input line 94.
 
-(C:\Users\KUMAR\eYSIP_2015_Marker_based_Robot_Localisation.wiki\Thresholding.au
-x)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 233.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 233.
+(D:\mikTex\tex\latex\lm\t1lmtt.fd
+File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
+) [1
+
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10> on input line 117.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <7> on input line 117.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <5> on input line 117.
+ <sun.jpg, id=33, 276.03125pt x 183.68625pt>
+File: sun.jpg Graphic file (type jpg)
+ <use sun.jpg>
+Package pdftex.def Info: sun.jpg used on input line 127.
+(pdftex.def)             Requested size: 276.03056pt x 183.68578pt.
+ [2 <C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation/Task-2/Threshold
+ing/src/Documentation/sun.jpg>]
+LaTeX Font Info:    Try loading font information for TS1+lmtt on input line 213
+.
+ (D:\mikTex\tex\latex\lm\ts1lmtt.fd
+File: ts1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+Overfull \hbox (85.49875pt too wide) in paragraph at lines 213--213
+[]\T1/lmtt/m/n/10 *************************************************************
+*********************[] 
+ []
+
+
+Overfull \hbox (85.49875pt too wide) in paragraph at lines 213--213
+[]\T1/lmtt/m/n/10 *                                                            
+                    *[] 
+ []
+
+
+Overfull \hbox (85.49875pt too wide) in paragraph at lines 213--213
+[]\T1/lmtt/m/n/10 *                   IMAGE PROCESSING ( THRESHOLDING OPERATION
+ )                  *[] 
+ []
+
+
+Overfull \hbox (85.49875pt too wide) in paragraph at lines 213--213
+[]\T1/lmtt/m/n/10 *                                                            
+                    *[] 
+ []
+
+
+Overfull \hbox (85.49875pt too wide) in paragraph at lines 213--213
+[]\T1/lmtt/m/n/10 *                                                            
+                    *[] 
+ []
+
+
+Overfull \hbox (85.49875pt too wide) in paragraph at lines 213--213
+[]\T1/lmtt/m/n/10 *  TEAM MEMBERS : NIHARIKA JAYANTHI, DHEERAJ KAMATH          
+                    *[] 
+ []
+
+
+Overfull \hbox (85.49875pt too wide) in paragraph at lines 213--213
+[]\T1/lmtt/m/n/10 *                                                            
+                    *[] 
+ []
+
+
+Overfull \hbox (85.49875pt too wide) in paragraph at lines 213--213
+[]\T1/lmtt/m/n/10 *  MENTOR : SANAM SHAKYA                                     
+                    *[] 
+ []
+
+
+Overfull \hbox (85.49875pt too wide) in paragraph at lines 213--213
+[]\T1/lmtt/m/n/10 *                                                            
+                    *[] 
+ []
+
+
+Overfull \hbox (85.49875pt too wide) in paragraph at lines 213--213
+[]\T1/lmtt/m/n/10 *  FILENAME : THRESHOLDING.PY                                
+                    *[] 
+ []
+
+
+Overfull \hbox (85.49875pt too wide) in paragraph at lines 213--213
+[]\T1/lmtt/m/n/10 *                                                            
+                    *[] 
+ []
+
+
+Overfull \hbox (85.49875pt too wide) in paragraph at lines 213--213
+[]\T1/lmtt/m/n/10 *  THEME : DEVELOP MODULES FOR IMAGE PROCESSING AND ROBOT LOC
+ALISATION           *[] 
+ []
+
+
+Overfull \hbox (85.49875pt too wide) in paragraph at lines 213--213
+[]\T1/lmtt/m/n/10 *          USING MARKERS                                     
+                    *[] 
+ []
+
+
+Overfull \hbox (85.49875pt too wide) in paragraph at lines 213--213
+[]\T1/lmtt/m/n/10 *                                                            
+                    *[] 
+ []
+
+
+Overfull \hbox (85.49875pt too wide) in paragraph at lines 213--213
+[]\T1/lmtt/m/n/10 *  FUNCTIONS : cv3.threshold(), cv2.cvtColor(), cv2.imread() 
+                    *[] 
+ []
+
+
+Overfull \hbox (85.49875pt too wide) in paragraph at lines 213--213
+[]\T1/lmtt/m/n/10 *                                                            
+                    *[] 
+ []
+
+
+Overfull \hbox (85.49875pt too wide) in paragraph at lines 213--213
+[]\T1/lmtt/m/n/10 *  GLOBAL VARIABLES : NONE                                   
+                    *[] 
+ []
+
+
+Overfull \hbox (85.49875pt too wide) in paragraph at lines 213--213
+[]\T1/lmtt/m/n/10 *                                                            
+                    *[] 
+ []
+
+
+Overfull \hbox (85.49875pt too wide) in paragraph at lines 213--213
+[]\T1/lmtt/m/n/10 *************************************************************
+*********************[] 
+ []
+
+
+Overfull \hbox (127.49863pt too wide) in paragraph at lines 213--213
+[]\T1/lmtt/m/n/10 #############################################################
+#############################[] 
+ []
+
+
+Overfull \hbox (116.99866pt too wide) in paragraph at lines 213--213
+[]\T1/lmtt/m/n/10 * FUNCTION NAME : ret,thresh = cv2.threshold(img, Min_value,M
+ax_value,cv2.THRESH_BINARY)[] 
+ []
+
+
+Overfull \hbox (27.74892pt too wide) in paragraph at lines 213--213
+[]\T1/lmtt/m/n/10 * INPUT         : Input is a source image which should be in 
+grayscale.[] 
+ []
+
+
+Overfull \hbox (85.49875pt too wide) in paragraph at lines 213--213
+[]\T1/lmtt/m/n/10 * LOGIC         : The function takes three inputs. First is t
+he source image(img),[] 
+ []
+
+
+Overfull \hbox (106.49869pt too wide) in paragraph at lines 213--213
+[]                  \T1/lmtt/m/n/10 second argument is the threshold value whic
+h is used to classify the[] 
+ []
+
+[3]
+Overfull \hbox (116.99866pt too wide) in paragraph at lines 213--213
+[]                  \T1/lmtt/m/n/10 Third argument is the Max_value which repre
+sents the value to be given[] 
+ []
+
+
+Overfull \hbox (116.99866pt too wide) in paragraph at lines 213--213
+[]                  \T1/lmtt/m/n/10 if pixel value is more than (sometimes less
+ than) the threshold value.[] 
+ []
+
+
+Overfull \hbox (59.24883pt too wide) in paragraph at lines 213--213
+[]\T1/lmtt/m/n/10 * EXAMPLE CALL  : ret,thresh = cv2.threshold( img, 0, 255, cv
+2.THRESH_BINARY)[] 
+ []
+
+
+Overfull \hbox (17.24895pt too wide) in paragraph at lines 213--213
+[]\T1/lmtt/m/n/10 #############################################################
+########[] 
+ []
+
+<Threshbinary.jpg, id=45, 276.03125pt x 183.68625pt>
+File: Threshbinary.jpg Graphic file (type jpg)
+ <use Threshbinary.jpg>
+Package pdftex.def Info: Threshbinary.jpg used on input line 222.
+(pdftex.def)             Requested size: 276.03056pt x 183.68578pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<ThreshBinaryInv.jpg, id=46, 276.03125pt x 183.68625pt>
+File: ThreshBinaryInv.jpg Graphic file (type jpg)
+
+<use ThreshBinaryInv.jpg>
+Package pdftex.def Info: ThreshBinaryInv.jpg used on input line 228.
+(pdftex.def)             Requested size: 276.03056pt x 183.68578pt.
+ <ThreshTrunc.jpg, id=47, 276.03125pt x 183.68625pt>
+File: ThreshTrunc.jpg Graphic file (type jpg)
+
+<use ThreshTrunc.jpg>
+Package pdftex.def Info: ThreshTrunc.jpg used on input line 234.
+(pdftex.def)             Requested size: 276.03056pt x 183.68578pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<ThreshToZero.jpg, id=48, 276.03125pt x 183.68625pt>
+File: ThreshToZero.jpg Graphic file (type jpg)
+ <use ThreshToZero.jpg>
+Package pdftex.def Info: ThreshToZero.jpg used on input line 240.
+(pdftex.def)             Requested size: 276.03056pt x 183.68578pt.
+
+<ThreshToZeroInv.jpg, id=49, 276.03125pt x 183.68625pt>
+File: ThreshToZeroInv.jpg Graphic file (type jpg)
+
+<use ThreshToZeroInv.jpg>
+Package pdftex.def Info: ThreshToZeroInv.jpg used on input line 246.
+(pdftex.def)             Requested size: 276.03056pt x 183.68578pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 253.
+[4] [5 <C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation/Task-2/Thresh
+olding/src/Documentation/Threshbinary.jpg> <C:/Users/KUMAR/eYSIP_2015_Marker_ba
+sed_Robot_Localisation/Task-2/Thresholding/src/Documentation/ThreshBinaryInv.jp
+g>] [6 <C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation/Task-2/Thresh
+olding/src/Documentation/ThreshTrunc.jpg> <C:/Users/KUMAR/eYSIP_2015_Marker_bas
+ed_Robot_Localisation/Task-2/Thresholding/src/Documentation/ThreshToZero.jpg>]
+[7 <C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation/Task-2/Thresholdi
+ng/src/Documentation/ThreshToZeroInv.jpg>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 253.
+
+(C:\Users\KUMAR\eYSIP_2015_Marker_based_Robot_Localisation\Task-2\Thresholding\
+src\Documentation\Thresholding.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 253.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 253.
 Package rerunfilecheck Info: File `Thresholding.out' has not changed.
-(rerunfilecheck)             Checksum: 313A21213CBEB52CE75AD18190795654;448.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 233.
+(rerunfilecheck)             Checksum: A01DA3FB28E7F1203252F1B18A2E873C;353.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 253.
  ) 
 Here is how much of TeX's memory you used:
- 11618 strings out of 493921
- 165256 string characters out of 3154500
- 262452 words of memory out of 3000000
- 14708 multiletter control sequences out of 15000+200000
- 39419 words of font info for 54 fonts, out of 3000000 for 9000
+ 11683 strings out of 493921
+ 166567 string characters out of 3154500
+ 264494 words of memory out of 3000000
+ 14751 multiletter control sequences out of 15000+200000
+ 60985 words of font info for 78 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 31i,7n,35p,253b,464s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 31i,7n,35p,253b,460s stack positions out of 5000i,500n,10000p,200000b,50000s
 {D:/mikTex/fonts/enc/dvips/lm/lm-ts1.enc}{D:/mikTex/fonts/enc/dvips/lm/lm-ec.
 enc}<D:/mikTex/fonts/type1/public/lm/lmbx10.pfb><D:/mikTex/fonts/type1/public/l
 m/lmbx12.pfb><D:/mikTex/fonts/type1/public/lm/lmbxi10.pfb><D:/mikTex/fonts/type
-1/public/lm/lmr10.pfb><D:/mikTex/fonts/type1/public/lm/lmtt10.pfb>
-Output written on Thresholding.pdf (7 pages, 209070 bytes).
+1/public/lm/lmr10.pfb><D:/mikTex/fonts/type1/public/lm/lmr12.pfb><D:/mikTex/fon
+ts/type1/public/lm/lmr17.pfb><D:/mikTex/fonts/type1/public/lm/lmtt10.pfb>
+Output written on Thresholding.pdf (7 pages, 259076 bytes).
 PDF statistics:
- 101 PDF objects out of 1000 (max. 8388607)
- 19 named destinations out of 1000 (max. 500000)
- 6215 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 107 PDF objects out of 1000 (max. 8388607)
+ 20 named destinations out of 1000 (max. 500000)
+ 12351 words of extra memory for PDF output out of 14400 (max. 10000000)
 

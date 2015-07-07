@@ -59,9 +59,18 @@
 \let\oldsubparagraph\subparagraph
 \renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
 \fi
-
+\title {Marker based localization \\ [10pt]
+	Thresholding  \\[25pt] Team members }
+\author {Niharika Jayanthi \and Dheeraj Kamath}
 \begin{document}
-
+\maketitle
+\begin{center}
+	\begin{large}
+		Under the guidance of\\
+		\textbf{Sanam Shakya}\\
+		\vspace{0.5in}
+	\end{large}
+\end{center}
 \section{Goal}\label{goal}
 
 \emph{\textbf{In this chapter,}} \\
@@ -98,12 +107,25 @@ value.
 	cv2.threshold(img, 127, 255, cv2.THRESH_BINARY)
 \end{verbatim}
 
+
+\section{Additional Resources}\label{additional-resources}
+
+\begin{enumerate}
+	\def\labelenumi{\arabic{enumi})}
+	\tightlist
+	\item
+	\url{http://docs.opencv.org/doc/tutorials/imgproc/threshold/threshold.html}
+\end{enumerate}
+
+
 \section{Code}\label{code}
 
 Below we will see an example on how to use thresholding to images.
 Consider the sunflower image below:
 \begin{figure}[h]
+	\centering
 	\includegraphics{sun.jpg}
+	\caption{Input image}
 \end{figure}
 
 \newpage
@@ -190,44 +212,42 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()
 \end{verbatim}
 
-Output Images:
+
 
 \begin{enumerate}
-\def\labelenumi{\arabic{enumi})}
-\item Thresh Binary\\
-  \begin{figure}[h]
-  	\includegraphics{Threshbinary.jpg}
-  \end{figure}
-\newpage
-\item Thresh Binary Inverse \\
-  \begin{figure}[h]
-  	\includegraphics{ThreshBinaryInv.jpg}
-  \end{figure}
-\item Thresh Trunc\\
-  \begin{figure}[h]
-  	\includegraphics{ThreshTrunc.jpg}
-  \end{figure}
-\newpage
-\item Thresh To Zero\\
-  \begin{figure}[h]
-  	\includegraphics{ThreshToZero.jpg}
-  \end{figure}
-\item Thresh To Zero Inv\\
-  \begin{figure}[h]
-  	\includegraphics{ThreshToZeroInv.jpg}
-  \end{figure}
+%\def\labelenumi{\arabic{enumi})
+\item Output Images:
+	\begin{figure}[h]
+		\centering
+	  	\includegraphics{Threshbinary.jpg}
+	  	\caption{Thresh\_Binary}
+	\end{figure}
+
+	\begin{figure}[b]
+	  	\centering
+	  	\includegraphics{ThreshBinaryInv.jpg}
+	  	\caption{Thresh\_Binary\_Inv}
+	\end{figure}
+
+	\begin{figure}[h]
+		\centering
+	    \includegraphics{ThreshTrunc.jpg}
+	    \caption{Thresh\_Trunc}
+	\end{figure}
+
+	\begin{figure}[b]
+		\centering
+	  	\includegraphics{ThreshToZero.jpg}
+	  	\caption{Thresh\_To\_Zero}
+	\end{figure}
+
+	\begin{figure}[h]
+		\centering
+	  	\includegraphics{ThreshToZeroInv.jpg}
+	  	\caption{Thresh\_To\_Zero}
+	\end{figure}
+	
 \end{enumerate}
 
-\newpage
-\section{Additional Resources}\label{additional-resources}
-
-\begin{enumerate}
-\def\labelenumi{\arabic{enumi})}
-\tightlist
-\item
-  \url{http://docs.opencv.org/doc/tutorials/imgproc/threshold/threshold.html}
-\end{enumerate}
-
-\section{Excercises}\label{excercises}
 
 \end{document}
