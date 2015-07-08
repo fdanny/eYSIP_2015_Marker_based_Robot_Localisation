@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.5.23)  7 JUL 2015 16:43
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.5.23)  8 JUL 2015 16:40
 entering extended mode
 **Gradients.tex
 
@@ -952,21 +952,21 @@ Package pdftex.def Info: Sobel1.png used on input line 336.
 (pdftex.def)             Requested size: 345.00877pt x 260.34404pt.
  [8 <C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation/Task-3/Gradients
 /src/Documentation/Sobel1.png>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 420.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 422.
  [9]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 420.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 422.
 
 (C:\Users\KUMAR\eYSIP_2015_Marker_based_Robot_Localisation\Task-3\Gradients\src
 \Documentation\Gradients.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 420.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 420.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 422.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 422.
 Package rerunfilecheck Info: File `Gradients.out' has not changed.
 (rerunfilecheck)             Checksum: 4FE13483CAAF7BC994476F3D43123BA3;1419.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 420.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 422.
  ) 
 Here is how much of TeX's memory you used:
- 12149 strings out of 493921
- 173666 string characters out of 3154500
+ 12150 strings out of 493921
+ 173672 string characters out of 3154500
  262624 words of memory out of 3000000
  15217 multiletter control sequences out of 15000+200000
  49190 words of font info for 63 fonts, out of 3000000 for 9000
@@ -979,9 +979,9 @@ m/lmbx12.pfb><D:/mikTex/fonts/type1/public/lm/lmbxi10.pfb><D:/mikTex/fonts/type
 ts/type1/public/lm/lmr17.pfb><D:/mikTex/fonts/type1/public/lm/lmri10.pfb><D:/mi
 kTex/fonts/type1/public/lm/lmtt10.pfb><D:/mikTex/fonts/type1/public/lm/lmtti10.
 pfb>
-Output written on Gradients.pdf (9 pages, 745376 bytes).
+Output written on Gradients.pdf (9 pages, 745782 bytes).
 PDF statistics:
- 183 PDF objects out of 1000 (max. 8388607)
- 37 named destinations out of 1000 (max. 500000)
+ 185 PDF objects out of 1000 (max. 8388607)
+ 38 named destinations out of 1000 (max. 500000)
  10400 words of extra memory for PDF output out of 12000 (max. 10000000)
 

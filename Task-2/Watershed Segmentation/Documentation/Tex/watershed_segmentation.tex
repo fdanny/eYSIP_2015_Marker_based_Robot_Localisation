@@ -111,72 +111,220 @@ What we do is to give different labels for our object we know. Label the region 
 1) Since segmentation needs an image in grayscale, we use the following code to convert the image to grayscale.
 
 \begin{verbatim}
-'''
-*********************************************************************
-*                                                                   *
-*          IMAGE PROCESSING ( WATERSHED SEGMENTATION )              *
-*                                                                   *
-*                                                                   *
-*  TEAM MEMBERS : NIHARIKA JAYANTHI, DHEERAJ KAMATH                 *
-*                                                                   *
-*  MENTOR : SANAM SHAKYA                                            *
-*                                                                   *
-*  FILENAME : watershed.py                                         *
-*                                                                   *
-*  THEME : DEVELOP MODULES FOR IMAGE PROCESSING AND                 *
-*          ROBOT LOCALISATION USING MARKERS                         *
-*                                                                   *
-*  FUNCTIONS : cv2.watershed(), cv2.distanceTransform()             *
-*                                                                   *
-*  GLOBAL VARIABLES : NONE                                          *
-*                                                                   *
-*********************************************************************
-'''
+
+  #import opencvn numpy and matplotlib
+  import numpy as np               
+  import cv2
+  from matplotlib import pyplot as plt
+ 
+  #Reading the image
+  img = cv2.imread('water_coins.jpg')
+  gray = cv2.cvtColor(img,cv2.COLOR_BGR2GRAY) #Conversion to gray scale
+\end{verbatim}
+\begin{figure}[h]
+	\centering
+	\includegraphics[width = 7cm]{watercoins.jpg}
+	\caption{Input image}
+\end{figure}
+
+
+
+2) Now, we threshold this image
+\begin{verbatim}
+ret, thresh = cv2.threshold(gray,0,255,cv2.THRESH_BINARY_INV 
+                                                    +cv2.THRESH_OTSU)   
+cv2.imshow("Otsu", thresh)
+\end{verbatim}
+\begin{figure}[h]
+	\centering
+	\includegraphics[width = 7cm]{otsuthresh.jpg}
+	\caption{Otsu Threshold}
+\end{figure}
+
+
+\newpage
+3) To remove noises from the image we use morphological operations. To remove small noises we use opening. To obtain the sure background we dilate the region of the coins and then the result will be the region where we are sure that they don’t contain coins.
+\begin{verbatim}
+ kernel = np.ones((3,3),np.uint8)
+ opening = cv2.morphologyEx(thresh,cv2.MORPH_OPEN,kernel, iterations = 2)
+ sure_bg = cv2.dilate(opening,kernel,iterations=3)
+\end{verbatim}
+\begin{figure}[h]
+	\centering
+	\includegraphics[width = 7cm]{Surebg.jpg}
+	\caption{Sure Background}
+\end{figure}
+%\lstinputlisting[language=Python]{watershed.py}
+\newpage
+4) Now we have to find the sure foreground region. For this we apply distance transform.
+\begin{verbatim}
+dist_transform = cv2.distanceTransform(opening,cv2.cv.CV_DIST_L2,5)
+ret, sure_fg = cv2.threshold(dist_transform,0.7*dist_transform.max(),
+                                                                  255,0)
+\end{verbatim}
+\begin{figure}[h]
+	\centering
+	\includegraphics{Surefg.jpg}
+	\caption{Sure foreground}
+\end{figure} 
+\pagebreak
+5) The remaining regions are those which we don’t have any idea, whether it is coins or background. Watershed algorithm should find it. These areas are normally around the boundaries of coins where foreground and background meet (Or even two different coins meet). We call it border. It can be obtained from subtracting sure\_fg area from sure\_bg area.
+\begin{verbatim}
+unknown = cv2.subtract(sure_bg,sure_fg)
+\end{verbatim}
+\begin{figure}[h]
+	\centering
+	\includegraphics[width = 7cm]{unknown.jpg}
+	\caption{Intersection region}
+\end{figure}
+
+6) Now we have to create the markers. But before this we have to note that a marker is same size as that of a image but of int32 data type. We will be using sure\_fg image for the marker.
+\begin{verbatim}
+sure_fg = np.uint8(sure_fg)
+\end{verbatim}
+
+7) Now we know for sure which are region of coins, which are background and all. So we create markers and label the regions inside it. The regions we know for sure (whether foreground or background) are labelled with any positive integers, but different integers, and the area we don’t know for sure are just left as zero. Now to do this there are two ways:
+\begin{itemize}
+	\item For those using python version 3.0 and above :
+	\begin{verbatim}
+	ret, markers = cv2.connectedComponents(sure_fg)
+	markers = markers + 1
+	markers[unknown==255] = 0
+	\end{verbatim}
+	\item For those using python version below 3.0:
+	\begin{verbatim}
+	contours, hierarchy = cv2.findContours(sure_fg,cv2.RETR_TREE,
+	                                            cv2.CHAIN_APPROX_SIMPLE)
+	
+	#Creating a numpy array for markers and converting the image
+	# to 32 bit using dtype paramter
+	marker = np.zeros((gray.shape[0], gray.shape[1]),dtype = np.int32)
+	
+	marker = np.int32(sure_fg) + np.int32(sure_bg)
+	
+	for id in range(len(contours)):
+	cv2.drawContours(marker,contours,id,id+2, -1)
+	
+	marker = marker + 1
+	marker[unknown==255] = 0
+	\end{verbatim}
+\end{itemize}
+\begin{verbatim}
+unknown = cv2.subtract(sure_bg,sure_fg)
+\end{verbatim}
+
+8) Applying water shed segmentation on the image.
+\begin{verbatim}
+	   cv2.watershed(img, marker)
+	   img[marker==-1]=(0,0,255) # to draw the contours in red 
+\end{verbatim}
+\begin{figure}[h]
+	\centering
+	\includegraphics[width = 7cm]{img.jpg}
+	\caption{Post watershed image}
+\end{figure}
+
+\newpage
+9)To observe the image in a colormap we use the matplotlib library.
+\begin{verbatim}
+  imgplt = plt.imshow(marker)
+  plt.colorbar()
+  plt.show()
+\end{verbatim}
+\begin{figure}[h]
+	\centering
+	\includegraphics[width = 10cm]{colormap.png}
+	\caption{Post watershed image}
+\end{figure}
+
+\begin{verbatim}
+#import opencvn numpy and matplotlib
+import numpy as np               
+import cv2
+from matplotlib import pyplot as plt
+
+#Reading the image
+img = cv2.imread('water_coins.jpg')
+gray = cv2.cvtColor(img,cv2.COLOR_BGR2GRAY)        #Conversion to gray scale
+ret, thresh = cv2.threshold(gray,0,255,cv2.THRESH_BINARY_INV+cv2.THRESH_OTSU)   #thresholding
+
+cv2.imshow("Otsu", thresh)
+
+# noise removal
+kernel = np.ones((3,3),np.uint8)
+opening = cv2.morphologyEx(thresh,cv2.MORPH_OPEN,kernel, iterations = 2)
+
+# sure background area
+sure_bg = cv2.dilate(opening,kernel,iterations=3)
+
+
+# Finding sure foreground area
+dist_transform = cv2.distanceTransform(opening,
+                                        cv2.cv.CV_DIST_L2,5)
+ret, sure_fg = cv2.threshold(dist_transform,
+                               0.7*dist_transform.max(),255,0)
+
+# Finding unknown region
+sure_fg = np.uint8(sure_fg)
+unknown = cv2.subtract(sure_bg,sure_fg)
+
+cv2.imshow("Sure bg", sure_bg)
+cv2.imshow("Sure fg",sure_fg)
+cv2.imshow("unknown",unknown)
+
+#Marker Labelling (for those with python version below 3.0)
+contours, hierarchy = cv2.findContours(sure_fg,cv2.RETR_TREE
+                                           ,cv2.CHAIN_APPROX_SIMPLE)
+
+# Creating a numpy array for markers and converting the image to 
+# 32 bit using dtype paramter
+marker = np.zeros((gray.shape[0], gray.shape[1]),dtype = np.int32)
+
+marker = np.int32(sure_fg) + np.int32(sure_bg)
+
+for id in range(len(contours)):
+cv2.drawContours(marker,contours,id,id+2, -1)
+
+marker = marker + 1
+marker[unknown==255] = 0
+
+"""
+# Marker labelling (For those with python version 3.0 and above)
+ret, markers = cv2.connectedComponents(sure_fg)
+
+# Add one to all labels so that sure background is not 0, but 1
+markers = markers+1
+
+# Now, mark the region of unknown with zero
+markers[unknown==255] = 0
+"""
+
+cv2.watershed(img, marker)
+img[marker==-1]=(0,0,255)
+
+cv2.imshow('watershed', img)
+
+#To display using colormap
+imgplt = plt.imshow(marker)
+plt.colorbar()               #Creates a bar of colors
+plt.show()                   #Displays the windows
+
+cv2.waitKey(0)
+cv2.destroyAllWindows()       #Destroys all windows
+
 \end{verbatim}
 
 
 
-\lstinputlisting[language=Python]{watershed.py}
 
-\newpage
-Output Images:
 
-\begin{enumerate}
-\def\labelenumi{\arabic{enumi})}
-\item Input Image\\
-   \begin{figure}[h]
-   	\includegraphics{watercoins.jpg}
-   \end{figure}
-\newpage
-\item Otsu thresholding output image\\
-\begin{figure}[h]
-	\includegraphics{otsuthresh.jpg}
-\end{figure}
-\newpage
-\item Sure background output image\\
-  \begin{figure}[h]
-  	\includegraphics{Surebg.jpg}
-  \end{figure}
-\newpage
-\item Sure foreground output image\\
-  \begin{figure}[h]
-	\includegraphics{Surefg.jpg}
-  \end{figure}
-
-\newpage   
-\item
-  Final output image\\
-  \begin{figure}[h]
-  	\includegraphics{img.jpg}
-  \end{figure}
-  
-\end{enumerate}
 \newpage
 \section{Additional Resources}\label{additional-resources}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi})}
 \tightlist
+\item \href{https://github.com/eyantrainternship/eYSIP_2015_Marker_based_Robot_Localisation/blob/master/Task-2/Watershed%20Segmentation/src/watershed.py}{Code - Github link}
 \item \url{http://cmm.ensmp.fr/~beucher/wtshed.html\#examples}
 \item \href{http://opencv-python-tutroals.readthedocs.org/en/latest/py
 \_tutorials/py\_imgproc/py\_watershed/py\_watershed.html\#watershed}{About watershed segmentation}

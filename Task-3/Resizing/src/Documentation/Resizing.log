@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.5.23)  7 JUL 2015 16:24
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.5.23)  8 JUL 2015 17:54
 entering extended mode
 **Resizing.tex
 
@@ -879,111 +879,111 @@ Package pdftex.def Info: res.jpg used on input line 182.
 <resizecomp.png, id=71, 589.0005pt x 444.4605pt>
 File: resizecomp.png Graphic file (type png)
  <use resizecomp.png>
-Package pdftex.def Info: resizecomp.png used on input line 186.
+Package pdftex.def Info: resizecomp.png used on input line 187.
 (pdftex.def)             Requested size: 345.00877pt x 260.34404pt.
  [3 <C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation/Task-3/Resizing/
 src/Documentation/original.jpg> <C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_L
 ocalisation/Task-3/Resizing/src/Documentation/res.jpg>] [4 <C:/Users/KUMAR/eYSI
 P_2015_Marker_based_Robot_Localisation/Task-3/Resizing/src/Documentation/resize
 comp.png>]
-Overfull \hbox (74.99878pt too wide) in paragraph at lines 262--262
+Overfull \hbox (74.99878pt too wide) in paragraph at lines 261--261
 [] \T1/lmtt/m/n/10 OpenCV represents RGB images as multi-dimensional NumPy arra
 ys...but in reverse[] 
  []
 
 
-Overfull \hbox (69.7488pt too wide) in paragraph at lines 262--262
+Overfull \hbox (69.7488pt too wide) in paragraph at lines 261--261
 [] \T1/lmtt/m/n/10 order!This means that images are actually represented in BGR
  order rather than[] 
  []
 
-<pyrUp().png, id=82, 589.0005pt x 444.4605pt>
+<pyrUp().png, id=84, 589.0005pt x 444.4605pt>
 File: pyrUp().png Graphic file (type png)
  <use pyrUp().png>
-Package pdftex.def Info: pyrUp().png used on input line 264.
+Package pdftex.def Info: pyrUp().png used on input line 263.
 (pdftex.def)             Requested size: 345.00877pt x 260.34404pt.
 
-<pyrDown().png, id=83, 589.0005pt x 444.4605pt>
+<pyrDown().png, id=85, 589.0005pt x 444.4605pt>
 File: pyrDown().png Graphic file (type png)
  <use pyrDown().png>
-Package pdftex.def Info: pyrDown().png used on input line 265.
+Package pdftex.def Info: pyrDown().png used on input line 264.
 (pdftex.def)             Requested size: 345.00877pt x 260.34404pt.
  [5]
 [6 <C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation/Task-3/Resizing/s
 rc/Documentation/pyrUp().png> <C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Loc
 alisation/Task-3/Resizing/src/Documentation/pyrDown().png>]
-Overfull \hbox (74.99878pt too wide) in paragraph at lines 322--322
+Overfull \hbox (74.99878pt too wide) in paragraph at lines 321--321
 [] \T1/lmtt/m/n/10 OpenCV represents RGB images as multi-dimensional NumPy arra
 ys...but in reverse[] 
  []
 
 
-Overfull \hbox (69.7488pt too wide) in paragraph at lines 322--322
+Overfull \hbox (69.7488pt too wide) in paragraph at lines 321--321
 [] \T1/lmtt/m/n/10 order!This means that images are actually represented in BGR
  order rather than[] 
  []
 
 
-Overfull \hbox (53.99884pt too wide) in paragraph at lines 322--322
+Overfull \hbox (53.99884pt too wide) in paragraph at lines 321--321
 [] \T1/lmtt/m/n/10 res = cv2.resize(img,None,fx=0.2, fy=0.2, interpolation = cv
 2.INTER_LINEAR)[] 
  []
 
 
-Overfull \hbox (59.24883pt too wide) in paragraph at lines 322--322
+Overfull \hbox (59.24883pt too wide) in paragraph at lines 321--321
 [] \T1/lmtt/m/n/10 plt.subplot(222),plt.imshow(nr_blur),plt.title(\TS1/lmtt/m/n
 /10 '\T1/lmtt/m/n/10 Median Blur without resize\TS1/lmtt/m/n/10 '\T1/lmtt/m/n/1
 0 )[] 
  []
 
 
-Overfull \hbox (59.24883pt too wide) in paragraph at lines 322--322
+Overfull \hbox (59.24883pt too wide) in paragraph at lines 321--321
 [] \T1/lmtt/m/n/10 plt.subplot(223),plt.imshow(r1_blur),plt.title(\TS1/lmtt/m/n
 /10 '\T1/lmtt/m/n/10 Median Blur after resize()\TS1/lmtt/m/n/10 '\T1/lmtt/m/n/1
 0 )[] 
  []
 
 [7]
-Overfull \hbox (64.49881pt too wide) in paragraph at lines 322--322
+Overfull \hbox (64.49881pt too wide) in paragraph at lines 321--321
 [] \T1/lmtt/m/n/10 plt.subplot(224),plt.imshow(r2_blur),plt.title(\TS1/lmtt/m/n
 /10 '\T1/lmtt/m/n/10 Median Blur after pyrDown()\TS1/lmtt/m/n/10 '\T1/lmtt/m/n/
 10 )[] 
  []
 
-<compare.png, id=100, 589.0005pt x 444.4605pt>
+<compare.png, id=102, 589.0005pt x 444.4605pt>
 File: compare.png Graphic file (type png)
  <use compare.png>
-Package pdftex.def Info: compare.png used on input line 326.
+Package pdftex.def Info: compare.png used on input line 325.
 (pdftex.def)             Requested size: 345.00877pt x 260.34404pt.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 342.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 341.
  [8 <C:/Users/KUMAR/eYSIP_2015_Marker_based_Robot_Localisation/Task-3/Resizing/
 src/Documentation/compare.png>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 342.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 341.
 
 (C:\Users\KUMAR\eYSIP_2015_Marker_based_Robot_Localisation\Task-3\Resizing\src\
 Documentation\Resizing.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 342.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 342.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 341.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 341.
 Package rerunfilecheck Info: File `Resizing.out' has not changed.
 (rerunfilecheck)             Checksum: 695ACECF848D4C45A537849527BD4C1A;1186.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 342.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 341.
  ) 
 Here is how much of TeX's memory you used:
- 11704 strings out of 493921
- 166894 string characters out of 3154500
+ 11710 strings out of 493921
+ 166948 string characters out of 3154500
  254783 words of memory out of 3000000
  14793 multiletter control sequences out of 15000+200000
- 48705 words of font info for 60 fonts, out of 3000000 for 9000
+ 48871 words of font info for 62 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 31i,6n,35p,233b,463s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 31i,7n,35p,315b,461s stack positions out of 5000i,500n,10000p,200000b,50000s
 {D:/mikTex/fonts/enc/dvips/lm/lm-ts1.enc}{D:/mikTex/fonts/enc/dvips/lm/lm-ec.
 enc}<D:/mikTex/fonts/type1/public/lm/lmbx10.pfb><D:/mikTex/fonts/type1/public/l
 m/lmbx12.pfb><D:/mikTex/fonts/type1/public/lm/lmbxi10.pfb><D:/mikTex/fonts/type
 1/public/lm/lmr10.pfb><D:/mikTex/fonts/type1/public/lm/lmr12.pfb><D:/mikTex/fon
 ts/type1/public/lm/lmr17.pfb><D:/mikTex/fonts/type1/public/lm/lmtt10.pfb>
-Output written on Resizing.pdf (8 pages, 1594862 bytes).
+Output written on Resizing.pdf (8 pages, 1595151 bytes).
 PDF statistics:
- 146 PDF objects out of 1000 (max. 8388607)
- 25 named destinations out of 1000 (max. 500000)
+ 148 PDF objects out of 1000 (max. 8388607)
+ 27 named destinations out of 1000 (max. 500000)
  10367 words of extra memory for PDF output out of 12000 (max. 10000000)
 

@@ -182,19 +182,18 @@ Output Image:\\
 \includegraphics{res.jpg}
 
 For better comparison, look at the table:
+\begin{figure}
 \centering
 \includegraphics{resizecomp.png}
-
+\end{figure}
 \subsection{pyrUp() and pyrDown()}\label{pyrup-and-pyrdown}
 
 OpenCV also offers inbuilt functions \texttt{pyrUp()} and
-\texttt{pyrDown()}. Normally, we used to work with an image of constant
-size. But in some occasions, we need to work with images of different
-resolution of the same image. Set of images with different resolution
-are called Image Pyramids .\\
-There are two kinds of image pyramids:\\
-1. Gaussian pyramid\\
-2. Laplacian pyramid
+\texttt{pyrDown()}. Normally, we used to work with an image of constant size. But in some occasions, we need to work with images of different resolution of the same image. Set of images with different resolution are called Image Pyramids. There are two kinds of image pyramids
+\begin{enumerate}
+\item Gaussian pyramid
+\item Laplacian pyramid
+\end{enumerate}
 
 Low resolution image is obtained by removing consecutive rows and
 columns. Then each pixel in higher level is formed by the contribution
