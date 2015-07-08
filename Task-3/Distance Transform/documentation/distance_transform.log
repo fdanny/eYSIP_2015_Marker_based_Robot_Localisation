@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.6.16)  5 JUL 2015 20:36
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.6.16)  8 JUL 2015 17:17
 entering extended mode
-**Morphological-Operations.tex
-(C:\Users\30038890\Desktop\Morph\Morphological-Operations.tex
+**distance_transform.tex
+(C:\Users\30038890\Desktop\Dist\distance_transform.tex
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -719,7 +719,7 @@ Package grffile Info: Option `extendedchars' is set to `false'.
 Package grffile Info: Option `space' is set to `true'.
 Package grffile Info: \Gin@ii of package `graphicx' fixed on input line 486.
 )
-(C:\Users\30038890\Desktop\Morph\Morphological-Operations.aux)
+(C:\Users\30038890\Desktop\Dist\distance_transform.aux)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 109.
 LaTeX Font Info:    ... okay on input line 109.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 109.
@@ -778,8 +778,8 @@ LaTeX Info: Redefining \ref on input line 109.
 LaTeX Info: Redefining \pageref on input line 109.
 LaTeX Info: Redefining \nameref on input line 109.
 
-(C:\Users\30038890\Desktop\Morph\Morphological-Operations.out)
-(C:\Users\30038890\Desktop\Morph\Morphological-Operations.out)
+(C:\Users\30038890\Desktop\Dist\distance_transform.out)
+(C:\Users\30038890\Desktop\Dist\distance_transform.out)
 \@outlinefile=\write4
 
 (D:\MikTex\tex\context\base\supp-pdf.mkii
@@ -841,215 +841,104 @@ File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 ) [1
 
 {C:/Users/30038890/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-LaTeX Font Info:    Try loading font information for TS1+lmr on input line 143.
+LaTeX Font Info:    Try loading font information for TS1+lmr on input line 119.
 
  (D:\MikTex\tex\latex\lm\ts1lmr.fd
 File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-<images/Morphological Operations/Images/Rectangle.PNG, id=52, 130.23656pt x 86.
-57344pt>
-File: images/Morphological Operations/Images/Rectangle.PNG Graphic file (type p
-ng)
- <use images/Morphological Operations/Images/Rectangle.PNG>
-Package pdftex.def Info: images/Morphological Operations/Images/Rectangle.PNG u
-sed on input line 147.
-(pdftex.def)             Requested size: 130.23624pt x 86.57321pt.
-
-<images/Morphological Operations/Images/Diamond.PNG, id=54, 125.71968pt x 79.79
-813pt>
-File: images/Morphological Operations/Images/Diamond.PNG Graphic file (type png
-)
- <use images/Morphological Operations/Images/Diamond.PNG>
-Package pdftex.def Info: images/Morphological Operations/Images/Diamond.PNG use
-d on input line 155.
-(pdftex.def)             Requested size: 125.71936pt x 79.79791pt.
-
-<images/Morphological Operations/Images/Cross.PNG, id=55, 126.4725pt x 75.28125
-pt>
-File: images/Morphological Operations/Images/Cross.PNG Graphic file (type png)
- <use images/Morphological Operations/Images/Cross.PNG>
-Package pdftex.def Info: images/Morphological Operations/Images/Cross.PNG used 
-on input line 167.
-(pdftex.def)             Requested size: 126.4741pt x 75.2822pt.
- [2 <C:/Users/30038890/Desktop/Morph/images/Morphological Operations/Images/Rec
-tangle.PNG>] [3 <C:/Users/30038890/Desktop/Morph/images/Morphological Operation
-s/Images/Diamond.PNG> <C:/Users/30038890/Desktop/Morph/images/Morphological Ope
-rations/Images/Cross.PNG>]
-Underfull \hbox (badness 10000) in paragraph at lines 230--231
-
- []
-
-<images/Morphological Operations/Images/music.jpg, id=74, 642.4pt x 361.35pt>
-File: images/Morphological Operations/Images/music.jpg Graphic file (type jpg)
-
-<use images/Morphological Operations/Images/music.jpg>
-Package pdftex.def Info: images/Morphological Operations/Images/music.jpg used 
-on input line 234.
-(pdftex.def)             Requested size: 284.5291pt x 160.0476pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 239--240
-
- []
-
-[4 <C:/Users/30038890/Desktop/Morph/images/Morphological Operations/Images/musi
-c.jpg>]
-<images/Morphological Operations/Images/Eroded.jpg, id=82, 642.4pt x 361.35pt>
-File: images/Morphological Operations/Images/Eroded.jpg Graphic file (type jpg)
-
-
-<use images/Morphological Operations/Images/Eroded.jpg>
-Package pdftex.def Info: images/Morphological Operations/Images/Eroded.jpg used
- on input line 241.
-(pdftex.def)             Requested size: 284.5291pt x 160.0476pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 243--247
-
- []
-
-
-<images/Morphological Operations/Images/Dilated.jpg, id=83, 642.4pt x 361.35pt>
-File: images/Morphological Operations/Images/Dilated.jpg Graphic file (type jpg
-)
-<use images/Morphological Operations/Images/Dilated.jpg>
-Package pdftex.def Info: images/Morphological Operations/Images/Dilated.jpg use
-d on input line 248.
-(pdftex.def)             Requested size: 284.5291pt x 160.0476pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 250--253
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 250--253
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 250--253
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 250--253
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 250--253
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 250--253
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 250--253
-
- []
-
-
-<images/Morphological Operations/Images/Sunflower.jpg, id=84, 501.875pt x 501.8
-75pt>
-File: images/Morphological Operations/Images/Sunflower.jpg Graphic file (type j
-pg)
- <use images/Morphological Operations/Images/Sunflower.jpg>
-Package pdftex.def Info: images/Morphological Operations/Images/Sunflower.jpg u
-sed on input line 256.
-(pdftex.def)             Requested size: 199.16888pt x 199.16888pt.
- [5 <C:/Users/30038890/Desktop/Morph/images/Morphological Operations/Images/Ero
-ded.jpg> <C:/Users/30038890/Desktop/Morph/images/Morphological Operations/Image
-s/Dilated.jpg>]
-<images/Morphological Operations/Images/Opened sunflower.jpg, id=89, 501.875pt 
-x 501.875pt>
-File: images/Morphological Operations/Images/Opened sunflower.jpg Graphic file 
-(type jpg)
- <use images/Morphological Operations/Images/Opened sunflower.jpg>
-Package pdftex.def Info: images/Morphological Operations/Images/Opened sunflowe
-r.jpg used on input line 267.
-(pdftex.def)             Requested size: 199.16888pt x 199.16888pt.
-
-[6 <C:/Users/30038890/Desktop/Morph/images/Morphological Operations/Images/Sunf
-lower.jpg> <C:/Users/30038890/Desktop/Morph/images/Morphological Operations/Ima
-ges/Opened sunflower.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 272--273
-
- []
-
-
-<images/Morphological Operations/Images/Closed sunflower.jpg, id=95, 501.875pt 
-x 501.875pt>
-File: images/Morphological Operations/Images/Closed sunflower.jpg Graphic file 
-(type jpg)
- <use images/Morphological Operations/Images/Closed sunflower.jpg>
-Package pdftex.def Info: images/Morphological Operations/Images/Closed sunflowe
-r.jpg used on input line 274.
-(pdftex.def)             Requested size: 199.16888pt x 199.16888pt.
-LaTeX Font Info:    Try loading font information for T1+lmtt on input line 284.
+LaTeX Font Info:    Try loading font information for T1+lmtt on input line 158.
 
 
 (D:\MikTex\tex\latex\lm\t1lmtt.fd
 File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
-) [7 <C:/Users/30038890/Desktop/Morph/images/Morphological Operations/Images/Cl
-osed sunflower.jpg>]
-LaTeX Font Info:    Try loading font information for TS1+lmtt on input line 308
-.
+) [2]
+<images/Distance Transform/Chessboard Distance.png, id=51, 265.99374pt x 269.00
+5pt>
+File: images/Distance Transform/Chessboard Distance.png Graphic file (type png)
 
+ <use images/Distance Transform/Chessboard Distance.png>
+Package pdftex.def Info: images/Distance Transform/Chessboard Distance.png used
+ on input line 164.
+(pdftex.def)             Requested size: 142.26668pt x 143.87724pt.
+
+<images/Distance Transform/Euclidean Distance.png, id=53, 270.00874pt x 268.001
+25pt>
+File: images/Distance Transform/Euclidean Distance.png Graphic file (type png)
+ <use images/Distance Transform/Euclidean Distance.png>
+Package pdftex.def Info: images/Distance Transform/Euclidean Distance.png used 
+on input line 188.
+(pdftex.def)             Requested size: 142.26758pt x 141.20984pt.
+ [3 <C:/Users/30038890/Desktop/Dist/images/Distance Transform/Chessboard Distan
+ce.png> <C:/Users/30038890/Desktop/Dist/images/Distance Transform/Euclidean Dis
+tance.png>]
+<images/Distance Transform/City blocks Distance.png, id=62, 297.11pt x 293.095p
+t>
+File: images/Distance Transform/City blocks Distance.png Graphic file (type png
+)
+ <use images/Distance Transform/City blocks Distance.png>
+Package pdftex.def Info: images/Distance Transform/City blocks Distance.png use
+d on input line 212.
+(pdftex.def)             Requested size: 142.27116pt x 140.34857pt.
+ [4 <C:/Users/30038890/Desktop/Dist/images/Distance Transform/City blocks Dista
+nce.png>]
+Overfull \hbox (59.24883pt too wide) in paragraph at lines 252--252
+[]\T1/lmtt/m/n/10 distanceType: Type of distance. It can be CV_DIST_L1, CV_DIST
+_L2 or CV_DIST_C[] 
+ []
+
+LaTeX Font Info:    Try loading font information for TS1+lmtt on input line 280
+.
 (D:\MikTex\tex\latex\lm\ts1lmtt.fd
 File: ts1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-Overfull \hbox (158.99854pt too wide) in paragraph at lines 308--308
-[]      \T1/lmtt/m/n/10 op:      Morphological operation to be performed. It\TS
-1/lmtt/m/n/10 '\T1/lmtt/m/n/10 s values can be one of the following-[] 
+) [5]
+<images/Distance Transform/example.jpg, id=74, 578.16pt x 361.35pt>
+File: images/Distance Transform/example.jpg Graphic file (type jpg)
+
+<use images/Distance Transform/example.jpg>
+Package pdftex.def Info: images/Distance Transform/example.jpg used on input li
+ne 371.
+(pdftex.def)             Requested size: 227.61641pt x 142.26025pt.
+ [6 <C:/Users/30038890/Desktop/Dist/images/Distance Transform/example.jpg>]
+<images/Distance Transform/Result.png, id=80, 589.0005pt x 444.4605pt>
+File: images/Distance Transform/Result.png Graphic file (type png)
+
+<use images/Distance Transform/Result.png>
+Package pdftex.def Info: images/Distance Transform/Result.png used on input lin
+e 379.
+(pdftex.def)             Requested size: 345.00877pt x 260.34404pt.
+
+Overfull \hbox (122.97495pt too wide) in paragraph at lines 397--399
+[]\T1/lmr/m/n/10 (-20) http://docs.opencv.org/modules/imgproc/doc/miscellaneous
+_transformations.html#distancetransform 
  []
 
-[8]
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 447.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 447.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 447.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 403.
+[7 <C:/Users/30038890/Desktop/Dist/images/Distance Transform/Result.png>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 403.
 
-Underfull \hbox (badness 10000) in paragraph at lines 447--449
-[][][]$\T1/lmr/m/n/10 (+20) http : / / opencv-[]python-[]tutroals . readthedocs
- . org / en / latest / py _ tutorials /$
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 447--449
-$\T1/lmr/m/n/10 (+20) py _ imgproc / py _ morphological _ ops / py _ morphologi
-cal _ ops . html #$
- []
-
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 457.
-[9]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 457.
- (C:\Users\30038890\Desktop\Morph\Morphological-Operations.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 457.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 457.
-Package rerunfilecheck Info: File `Morphological-Operations.out' has not change
-d.
-(rerunfilecheck)             Checksum: C5939F04549F1A75C52051F2D16A34A0;1137.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 457.
+(C:\Users\30038890\Desktop\Dist\distance_transform.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 403.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 403.
+Package rerunfilecheck Info: File `distance_transform.out' has not changed.
+(rerunfilecheck)             Checksum: B3A5F240E3013A30CF3D7F8C5FB44685;829.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 403.
  ) 
 Here is how much of TeX's memory you used:
- 12181 strings out of 493921
- 175087 string characters out of 3154491
- 263597 words of memory out of 3000000
- 15238 multiletter control sequences out of 15000+200000
- 58785 words of font info for 83 fonts, out of 3000000 for 9000
+ 12085 strings out of 493921
+ 172840 string characters out of 3154491
+ 262381 words of memory out of 3000000
+ 15178 multiletter control sequences out of 15000+200000
+ 46007 words of font info for 59 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 31i,6n,35p,249b,460s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 31i,6n,35p,243b,391s stack positions out of 5000i,500n,10000p,200000b,50000s
 {D:/MikTex/fonts/enc/dvips/lm/lm-ts1.enc}{D:/MikTex/fonts/enc/dvips/lm/lm-ec.
 enc}<D:/MikTex/fonts/type1/public/lm/lmbx10.pfb><D:/MikTex/fonts/type1/public/l
 m/lmbx12.pfb><D:/MikTex/fonts/type1/public/lm/lmr10.pfb><D:/MikTex/fonts/type1/
 public/lm/lmr12.pfb><D:/MikTex/fonts/type1/public/lm/lmr17.pfb><D:/MikTex/fonts
 /type1/public/lm/lmtt10.pfb>
-Output written on Morphological-Operations.pdf (9 pages, 636124 bytes).
+Output written on distance_transform.pdf (7 pages, 276163 bytes).
 PDF statistics:
- 150 PDF objects out of 1000 (max. 8388607)
- 29 named destinations out of 1000 (max. 500000)
- 10366 words of extra memory for PDF output out of 12000 (max. 10000000)
+ 120 PDF objects out of 1000 (max. 8388607)
+ 21 named destinations out of 1000 (max. 500000)
+ 8282 words of extra memory for PDF output out of 10000 (max. 10000000)
 

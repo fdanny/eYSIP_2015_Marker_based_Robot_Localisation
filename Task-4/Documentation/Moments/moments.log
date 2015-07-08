@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.6.16)  5 JUL 2015 21:15
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.6.16)  8 JUL 2015 17:32
 entering extended mode
-**Distance-Transform.tex
-(C:\Users\30038890\Desktop\Dist\Distance-Transform.tex
+**moments.tex
+(C:\Users\30038890\Desktop\Moments\moments.tex
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -719,7 +719,7 @@ Package grffile Info: Option `extendedchars' is set to `false'.
 Package grffile Info: Option `space' is set to `true'.
 Package grffile Info: \Gin@ii of package `graphicx' fixed on input line 486.
 )
-(C:\Users\30038890\Desktop\Dist\Distance-Transform.aux)
+(C:\Users\30038890\Desktop\Moments\moments.aux)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 109.
 LaTeX Font Info:    ... okay on input line 109.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 109.
@@ -778,8 +778,8 @@ LaTeX Info: Redefining \ref on input line 109.
 LaTeX Info: Redefining \pageref on input line 109.
 LaTeX Info: Redefining \nameref on input line 109.
 
-(C:\Users\30038890\Desktop\Dist\Distance-Transform.out)
-(C:\Users\30038890\Desktop\Dist\Distance-Transform.out)
+(C:\Users\30038890\Desktop\Moments\moments.out)
+(C:\Users\30038890\Desktop\Moments\moments.out)
 \@outlinefile=\write4
 
 (D:\MikTex\tex\context\base\supp-pdf.mkii
@@ -846,303 +846,154 @@ LaTeX Font Info:    Try loading font information for TS1+lmr on input line 119.
  (D:\MikTex\tex\latex\lm\ts1lmr.fd
 File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-Underfull \hbox (badness 10000) in paragraph at lines 132--138
+<images/Moments/Spatial moments.png, id=48, 185.69376pt x 54.2025pt>
+File: images/Moments/Spatial moments.png Graphic file (type png)
+
+<use images/Moments/Spatial moments.png>
+Package pdftex.def Info: images/Moments/Spatial moments.png used on input line 
+139.
+(pdftex.def)             Requested size: 185.69896pt x 54.20401pt.
+
+<images/Moments/Area.png, id=50, 312.16624pt x 59.22125pt>
+File: images/Moments/Area.png Graphic file (type png)
+
+<use images/Moments/Area.png>
+Package pdftex.def Info: images/Moments/Area.png used on input line 155.
+(pdftex.def)             Requested size: 312.17024pt x 59.22198pt.
+ [2 <C:/Users/30038890/Desktop/Moments/images/Moments/Spatial moments.png> <C:/
+Users/30038890/Desktop/Moments/images/Moments/Area.png>] <images/Moments/centro
+id.png, id=61, 288.07625pt x 35.13126pt>
+File: images/Moments/centroid.png Graphic file (type png)
+
+<use images/Moments/centroid.png>
+Package pdftex.def Info: images/Moments/centroid.png used on input line 167.
+(pdftex.def)             Requested size: 288.08432pt x 35.13222pt.
+
+<images/Moments/m10m01.png, id=62, 175.65625pt x 87.32625pt>
+File: images/Moments/m10m01.png Graphic file (type png)
+
+<use images/Moments/m10m01.png>
+Package pdftex.def Info: images/Moments/m10m01.png used on input line 175.
+(pdftex.def)             Requested size: 175.66652pt x 87.33136pt.
+
+<images/Moments/central moments.png, id=63, 255.95625pt x 43.16125pt>
+File: images/Moments/central moments.png Graphic file (type png)
+
+<use images/Moments/central moments.png>
+Package pdftex.def Info: images/Moments/central moments.png used on input line 
+187.
+(pdftex.def)             Requested size: 255.95561pt x 43.16113pt.
+
+<images/Moments/central normalized moments.png, id=64, 213.79875pt x 35.13126pt
+>
+File: images/Moments/central normalized moments.png Graphic file (type png)
+ <use images/Moments/central normalized moments.png>
+Package pdftex.def Info: images/Moments/central normalized moments.png used on 
+input line 199.
+(pdftex.def)             Requested size: 213.79822pt x 35.13115pt.
+ [3 <C:/Users/30038890/Desktop/Moments/images/Moments/centroid.png> <C:/Users/3
+0038890/Desktop/Moments/images/Moments/m10m01.png> <C:/Users/30038890/Desktop/M
+oments/images/Moments/central moments.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 203--204
 
  []
 
+<images/Moments/hu.png, id=75, 855.195pt x 220.825pt>
+File: images/Moments/hu.png Graphic file (type png)
 
-Underfull \hbox (badness 10000) in paragraph at lines 139--141
+<use images/Moments/hu.png>
+Package pdftex.def Info: images/Moments/hu.png used on input line 212.
+(pdftex.def)             Requested size: 344.99496pt x 89.08319pt.
+LaTeX Font Info:    Try loading font information for T1+lmtt on input line 237.
 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 142--146
-
- []
-
-LaTeX Font Info:    Try loading font information for T1+lmtt on input line 158.
-
-(D:\MikTex\tex\latex\lm\t1lmtt.fd
+ (D:\MikTex\tex\latex\lm\t1lmtt.fd
 File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-<images/Distance Transform/Images/Chessboard Distance.png, id=48, 265.99374pt x
- 269.005pt>
-File: images/Distance Transform/Images/Chessboard Distance.png Graphic file (ty
-pe png)
- <use images/Distance Transform/Images/Chessboard Distance.png>
-Package pdftex.def Info: images/Distance Transform/Images/Chessboard Distance.p
-ng used on input line 164.
-(pdftex.def)             Requested size: 199.17416pt x 201.42897pt.
+) [4 <C:/Users/30038890/Desktop/Moments/images/Moments/central normalized momen
+ts.png> <C:/Users/30038890/Desktop/Moments/images/Moments/hu.png>] [5]
+<images/Moments/example.jpg, id=90, 702.625pt x 555.07375pt>
+File: images/Moments/example.jpg Graphic file (type jpg)
 
-Underfull \hbox (badness 10000) in paragraph at lines 161--168
+<use images/Moments/example.jpg>
+Package pdftex.def Info: images/Moments/example.jpg used on input line 298.
+(pdftex.def)             Requested size: 170.71335pt x 134.86354pt.
 
+<images/Moments/result moments.JPG, id=91, 484.81125pt x 99.37125pt>
+File: images/Moments/result moments.JPG Graphic file (type jpg)
+
+<use images/Moments/result moments.JPG>
+Package pdftex.def Info: images/Moments/result moments.JPG used on input line 3
+06.
+(pdftex.def)             Requested size: 345.01733pt x 70.71783pt.
+
+<images/Moments/result hu.JPG, id=92, 125.71968pt x 88.83188pt>
+File: images/Moments/result hu.JPG Graphic file (type jpg)
+
+<use images/Moments/result hu.JPG>
+Package pdftex.def Info: images/Moments/result hu.JPG used on input line 314.
+(pdftex.def)             Requested size: 125.71936pt x 88.83165pt.
+ [6 <C:/Users/30038890/Desktop/Moments/images/Moments/example.jpg> <C:/Users/30
+038890/Desktop/Moments/images/Moments/result moments.JPG> <C:/Users/30038890/De
+sktop/Moments/images/Moments/result hu.JPG>]
+Overfull \hbox (36.2295pt too wide) in paragraph at lines 323--325
+[]\T1/lmr/m/n/10 (-20) http://breckon.eu/toby/teaching/dip/opencv/SimpleImageAn
+alysisbyMoments.pdf 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 161--168
-
+Overfull \hbox (97.12079pt too wide) in paragraph at lines 327--329
+[]\T1/lmr/m/n/10 (-20) http://docs.opencv.org/modules/imgproc/doc/structural_an
+alysis_and_shape_descriptors.html 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 161--168
-
+Overfull \hbox (63.48257pt too wide) in paragraph at lines 329--331
+[]\T1/lmr/m/n/10 (-20) http://homepages.inf.ed.ac.uk/rbf/CVonline/LOCAL_COPIES/
+SHUTLER3/node8.html 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 161--168
-
+Overfull \hbox (354.88976pt too wide) in paragraph at lines 331--332
+[]\T1/lmr/m/n/10 (-20) http://opencv-python-tutroals.readthedocs.org/en/latest/
+py_tutorials/py_imgproc/py_contours/py_contour_features/py_contour_features.htm
+l#contour-
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 161--168
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 161--168
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 161--168
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 161--168
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 161--168
-
- []
-
-[2]
-Underfull \hbox (badness 10000) in paragraph at lines 169--172
-
- []
-
-
-<images/Distance Transform/Images/Euclidean Distance.png, id=57, 270.00874pt x 
-268.00125pt>
-File: images/Distance Transform/Images/Euclidean Distance.png Graphic file (typ
-e png)
- <use images/Distance Transform/Images/Euclidean Distance.png>
-Package pdftex.def Info: images/Distance Transform/Images/Euclidean Distance.pn
-g used on input line 189.
-(pdftex.def)             Requested size: 199.17297pt x 197.69214pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 186--193
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 186--193
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 186--193
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 186--193
-
- []
-
-[3 <C:/Users/30038890/Desktop/Dist/images/Distance Transform/Images/Chessboard 
-Distance.png>]
-<images/Distance Transform/Images/City blocks Distance.png, id=64, 297.11pt x 2
-93.095pt>
-File: images/Distance Transform/Images/City blocks Distance.png Graphic file (t
-ype png)
- <use images/Distance Transform/Images/City blocks Distance.png>
-Package pdftex.def Info: images/Distance Transform/Images/City blocks Distance.
-png used on input line 214.
-(pdftex.def)             Requested size: 199.176pt x 196.48442pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 217--221
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 217--221
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 217--221
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 217--221
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 217--221
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 217--221
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 217--221
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 217--221
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 217--221
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 217--221
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 217--221
-
- []
-
-[4 <C:/Users/30038890/Desktop/Dist/images/Distance Transform/Images/Euclidean D
-istance.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 240--241
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 240--241
-
- []
-
-<images/Distance Transform/Images/example.jpg, id=71, 578.16pt x 361.35pt>
-File: images/Distance Transform/Images/example.jpg Graphic file (type jpg)
-
-<use images/Distance Transform/Images/example.jpg>
-Package pdftex.def Info: images/Distance Transform/Images/example.jpg used on i
-nput line 244.
-(pdftex.def)             Requested size: 199.16547pt x 124.47841pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 248--250
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 248--250
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 248--250
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 248--250
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 248--250
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 248--250
-
- []
-
-[5 <C:/Users/30038890/Desktop/Dist/images/Distance Transform/Images/City blocks
- Distance.png>]
-<images/Distance Transform/Images/Result.png, id=78, 589.0005pt x 444.4605pt>
-File: images/Distance Transform/Images/Result.png Graphic file (type png)
-
-<use images/Distance Transform/Images/Result.png>
-Package pdftex.def Info: images/Distance Transform/Images/Result.png used on in
-put line 253.
-(pdftex.def)             Requested size: 284.54147pt x 214.71533pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 257--258
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 257--258
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 257--258
-
- []
-
-[6 <C:/Users/30038890/Desktop/Dist/images/Distance Transform/Images/example.jpg
-> <C:/Users/30038890/Desktop/Dist/images/Distance Transform/Images/Result.png>]
-
-Overfull \hbox (59.24883pt too wide) in paragraph at lines 274--274
-[]\T1/lmtt/m/n/10 distanceType: Type of distance. It can be CV_DIST_L1, CV_DIST
-_L2 or CV_DIST_C[] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 275--276
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 275--276
-
- []
-
-LaTeX Font Info:    Try loading font information for TS1+lmtt on input line 302
-.
-(D:\MikTex\tex\latex\lm\ts1lmtt.fd
-File: ts1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
-) [7]
-Overfull \hbox (122.97495pt too wide) in paragraph at lines 400--402
-[]\T1/lmr/m/n/10 (-20) http://docs.opencv.org/modules/imgproc/doc/miscellaneous
-_transformations.html#distancetransform 
- []
-
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 407.
-[8]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 407.
- (C:\Users\30038890\Desktop\Dist\Distance-Transform.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 407.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 407.
-Package rerunfilecheck Info: File `Distance-Transform.out' has not changed.
-(rerunfilecheck)             Checksum: 1A5E16B2C0F6F208AF3A9392378C2A6C;919.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 407.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 334.
+[7]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 334.
+ (C:\Users\30038890\Desktop\Moments\moments.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 334.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 334.
+
+
+Package rerunfilecheck Warning: File `moments.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `moments.out':
+(rerunfilecheck)             Before: 88A71BE6D48AD4E1D8E370E2A72C7315;846
+(rerunfilecheck)             After:  07B8E82FC2F80467E7BCE9C835EAAD68;756.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 334.
  ) 
 Here is how much of TeX's memory you used:
- 12085 strings out of 493921
- 172975 string characters out of 3154491
- 262411 words of memory out of 3000000
- 15180 multiletter control sequences out of 15000+200000
- 45841 words of font info for 57 fonts, out of 3000000 for 9000
+ 12077 strings out of 493921
+ 172638 string characters out of 3154491
+ 261388 words of memory out of 3000000
+ 15169 multiletter control sequences out of 15000+200000
+ 45938 words of font info for 58 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 31i,7n,35p,243b,492s stack positions out of 5000i,500n,10000p,200000b,50000s
-{D:/MikTex/fonts/enc/dvips/lm/lm-ts1.enc}{D:/MikTex/fonts/enc/dvips/lm/lm-ec.
-enc}<D:/MikTex/fonts/type1/public/lm/lmbx10.pfb><D:/MikTex/fonts/type1/public/l
-m/lmbx12.pfb><D:/MikTex/fonts/type1/public/lm/lmr10.pfb><D:/MikTex/fonts/type1/
-public/lm/lmr12.pfb><D:/MikTex/fonts/type1/public/lm/lmr17.pfb><D:/MikTex/fonts
-/type1/public/lm/lmtt10.pfb>
-Output written on Distance-Transform.pdf (8 pages, 277859 bytes).
+ 31i,6n,35p,232b,407s stack positions out of 5000i,500n,10000p,200000b,50000s
+pdfTeX warning (dest): name{section*.9} has been referenced but does not exis
+t, replaced by a fixed one
+
+{D:/MikTex/fonts/enc/dvips/lm/lm-ec.enc}{D:/MikTex/fonts/enc/dvips/lm/lm-ts1.en
+c}<D:/MikTex/fonts/type1/public/lm/lmbx10.pfb><D:/MikTex/fonts/type1/public/lm/
+lmbx12.pfb><D:/MikTex/fonts/type1/public/lm/lmr10.pfb><D:/MikTex/fonts/type1/pu
+blic/lm/lmr12.pfb><D:/MikTex/fonts/type1/public/lm/lmr17.pfb><D:/MikTex/fonts/t
+ype1/public/lm/lmtt10.pfb><D:/MikTex/fonts/type1/public/lm/lmtti10.pfb>
+Output written on moments.pdf (7 pages, 345492 bytes).
 PDF statistics:
- 127 PDF objects out of 1000 (max. 8388607)
- 23 named destinations out of 1000 (max. 500000)
- 8290 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 139 PDF objects out of 1000 (max. 8388607)
+ 27 named destinations out of 1000 (max. 500000)
+ 8315 words of extra memory for PDF output out of 10000 (max. 10000000)
 

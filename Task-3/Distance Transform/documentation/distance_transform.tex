@@ -134,15 +134,15 @@ in an image according to their distance from the boundary of the object.
 The farther a pixel is from the image boundary, the higher a value it
 gets. This would result in a transformed image where the area near and
 within the boundary will be dark whereas the area near the center of the
-image will be white. \\
+image will be white.
 
 To put it in different words, a pixel in an image can have a value equal
-to the number of erosions required to be performed to make it disappear. \\
+to the number of erosions required to be performed to make it disappear.
 
 Distance transform operations can be classified into several types,
 depending upon the way the distance of a pixel from the boundary has
 been calculated (Distance metrics). Below are the three common distance
-metrics- \\
+metrics-
 
 \begin{itemize}
 \tightlist
@@ -158,17 +158,16 @@ is calculated as-
 \begin{verbatim}
 D = max(|x2 - x1|,|y2 - y1|)
 \end{verbatim}
-~\\ \\ \\ \\ \\ \\ \\ \\ \\ \\  
+\pagebreak
 \begin{figure}[htbp]
-\begin{center}
-\includegraphics[width = 7cm]{images/Distance Transform/Images/Chessboard Distance.png}
+\centering
+\includegraphics[width = 5cm]{images/Distance Transform/Chessboard Distance.png}
 \caption{Chessboard Distance}
-\end{center}
 \end{figure}
 
 In the above image, each cell represents a pixel. As you can see, the
 value of the pixel increases as it moves away from the boundary. This
-distance is also known as Chebyshev distance. \\
+distance is also known as Chebyshev distance.
 
 \begin{itemize}
 \tightlist
@@ -183,14 +182,13 @@ between two points A(x1, y1) and B(x2, y2)-
 \begin{verbatim}
 D = squareRoot( (x2 - x1)^2 + (y2 - y1)^2 )
 \end{verbatim}
-~\\ \\ \\ \\ \\
-\begin{figure}[htbp]
-\begin{center}
-\includegraphics[width = 7cm]{images/Distance Transform/Images/Euclidean Distance.png}
-\caption{Euclidean Distance}
-\end{center}
-\end{figure}
 
+\begin{figure}[htbp]
+\centering
+\includegraphics[width = 5cm]{images/Distance Transform/Euclidean Distance.png}
+\caption{Euclidean Distance}
+\end{figure}
+\pagebreak
 It is evident from the above example that the direct, straight distance
 between the two points is calculated.
 
@@ -211,10 +209,10 @@ D = |x2 - x1| + |y2 - y1|
 
 \begin{figure}[htbp]
 \centering
-\includegraphics[width = 7cm]{images/Distance Transform/Images/City blocks Distance.png}
+\includegraphics[width=5cm]{images/Distance Transform/City blocks Distance.png}
 \caption{City Blocks distance}
 \end{figure}
-~\\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\
+
 In the above example, you can see how path can either move horizontally
 or vertically only. The total distance would therefore be the sum of the
 differences in x and y coordinates respectively.
@@ -234,27 +232,7 @@ differences in x and y coordinates respectively.
 \item
   3D modelling uses signed distance fields.
 \end{itemize}
-
-\subsection{Example}\label{example}
-
-Consider the following image with different shapes- \\ \\
-
-\begin{figure}[htbp]
-\begin{center}
-\includegraphics[width = 7cm]{images/Distance Transform/Images/example.jpg}
-\caption{EXAMPLE}
-\end{center}
-\end{figure}
-~\\ \\ \\ \\ \\ \\ \\
-On performing distance transformation, it will look like this-
-
-\begin{figure}[htbp]
-\begin{center}
-\includegraphics[width = 10cm]{images/Distance Transform/Images/Result.png}
-\caption{Result}
-\end{center}
-\end{figure}
-~\\ \\ \\
+\pagebreak
 \section{Code}\label{code}
 
 The main function used for distance transformation is-
@@ -272,7 +250,7 @@ src:          8-bit binary source image
 distanceType: Type of distance. It can be CV_DIST_L1, CV_DIST_L2 or CV_DIST_C
 maskSize:     Size of distance transform mask
 \end{verbatim}
-~\\ \\
+
 \subsection{Explaining the code}\label{explaining-the-code}
 
 \begin{itemize}
@@ -320,7 +298,7 @@ Matplotlib is needed to plot our images on the window.
 \begin{itemize}
 \tightlist
 \item
-  We can now perform distance transformation on th.
+  We can now perform distance transformation on the thresholded image.
 \end{itemize}
 
 \begin{Shaded}
@@ -386,6 +364,25 @@ the subplot in the first subplot.
 \end{Highlighting}
 \end{Shaded}
 
+Consider the following image with different shapes-
+
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=8cm]{images/Distance Transform/example.jpg}
+\caption{EXAMPLE}
+\end{figure}
+\pagebreak
+On performing distance transformation, it will look like this-
+
+\begin{figure}[htbp]
+\centering
+\includegraphics{images/Distance Transform/Result.png}
+\caption{Result}
+\end{figure}
+
+The complete code can be found
+\href{https://github.com/eyantrainternship/eYSIP_2015_Marker_based_Robot_Localisation/tree/master/Task-3/Distance\%20Transform/src}{here}.
+
 \section{References}\label{references}
 
 \begin{itemize}
@@ -401,7 +398,6 @@ the subplot in the first subplot.
 \item
   http://matplotlib.org/api/pyplot\_api.html
 \end{itemize}
-
 
 
 \end{document}

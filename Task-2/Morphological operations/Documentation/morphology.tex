@@ -110,7 +110,7 @@
 	\title{\huge\textbf{Morphological Operations}\LARGE \\Project: Marker-based Localization}
 	\author{Niharika Jayanthi, Dheeraj Kamath \\Mentor: Sanam Shakya}
 	\maketitle
-\pagebreak
+	\pagebreak
 \section{Goal}\label{goal}
 
 The objectives of this documentation are - + To explain what are
@@ -147,6 +147,7 @@ special matrix format. Following are matrix formats of some shapes-
   \includegraphics{images/Morphological Operations/Images/Rectangle.PNG}
   \caption{Rectangle}
   \end{figure}
+\pagebreak
 \item
   Diamond
 
@@ -158,7 +159,11 @@ special matrix format. Following are matrix formats of some shapes-
 \item
   Ellipse
 
-  {[}Ellipse{]}(images/Morphological Operations/Images/Ellipse.PNG
+  \begin{figure}[htbp]
+  	\centering
+  	\includegraphics{images/Morphological Operations/Images/Ellipse.PNG}
+  	\caption{Ellipse}
+  \end{figure}
 \item
   Cross
 
@@ -225,61 +230,10 @@ It can help with detection of tumors, measurement of size and shapes of
 organs and much more. - Radar : It can be used in target detection and
 identification systems.
 
-\subsection{Example images}\label{example-images}
-
-Consider the following image: \\
-
-\begin{figure}[htbp]
-\begin{center}
-\includegraphics[width = 10cm]{images/Morphological Operations/Images/music.jpg}
-\caption{Music}
-\end{center}
-\end{figure}
-
-On performing erosion, it looks like this:\\
-\begin{center}
-\includegraphics[width = 10cm]{images/Morphological Operations/Images/Eroded.jpg}
-\end{center}
-Notice how the concentric white boundaries of the circe almost
-disappear. The black regions (holes) get bigger.
-\\ \\
-On performing dilation, the same image would look like-
-\begin{center}
-\includegraphics[width = 10cm]{images/Morphological Operations/Images/Dilated.jpg}
-\end{center}
-Here, the opposite happens. The white pixels increase whereas the black
-pixels (holes) decrease. \\ \\ \\ \\ \\ \\ \\ \\
-Now, consider the next sample image:
-
-\begin{figure}[htbp]
-\begin{center}
-\includegraphics[width = 7cm]{images/Morphological Operations/Images/Sunflower.jpg}
-\caption{Sunflower}
-\end{center}
-\end{figure}
-
-There are small white dots in the center of the flower whereas black
-dots are littered around the petals.
-
-When we apply opening operation on the above image, we get the following
-image:
-\begin{center}
-\includegraphics[width = 7cm]{images/Morphological Operations/Images/Opened sunflower.jpg}
-\end{center}
-
-The small white dots (noise) are removed from the image.
-
-Now let us see the result of performing closing operation on the same: \\
-\begin{center}
-\includegraphics[width = 7cm]{images/Morphological Operations/Images/Closed sunflower.jpg}
-\end{center}
-The noise in the center of the flower is not removed but the small black
-dots on the foreground(white part) are removed.
-
 \section{Code}\label{code}
-Let us now have a
-look at the available functions for the above morphological operations
-in python.
+
+Let us now have a look at the available functions for the above
+morphological operations in python.
 
 \begin{verbatim}
 cv2.erode(src, kernel, iterations)
@@ -439,6 +393,61 @@ We use cv2.morphologyEx() fuction.
 Waitkey displays the image for specified milliseconds. 0 means the
 window will be open infinitely until a keypress occurs.
 
+The full code can be found
+\href{https://github.com/eyantrainternship/eYSIP_2015_Marker_based_Robot_Localisation/tree/master/Task-2/Morphological\%20operations/src}{here}
+
+\subsection{Example images}\label{example-images}
+
+Consider the following image:
+
+\begin{figure}[htbp]
+\centering
+\includegraphics{images/Morphological Operations/Images/music.jpg}
+\caption{Sample Image 1}
+\end{figure}
+
+On performing erosion, it looks like this:\\
+\includegraphics{images/Morphological Operations/Images/Eroded.jpg}
+
+Notice how the concentric white boundaries of the circe almost
+disappear. The black regions (holes) get bigger.
+
+On performing dilation, the same image would look like-\\
+\includegraphics{images/Morphological Operations/Images/Dilated.jpg}
+
+Here, the opposite happens. The white pixels increase whereas the black
+pixels (holes) decrease.
+
+Now, consider the next sample image:
+
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=9cm]{images/Morphological Operations/Images/Sunflower.jpg}
+\caption{Sample Image 2}
+\end{figure}
+
+There are small white dots in the center of the flower whereas black
+dots are littered around the petals.
+
+When we apply opening operation on the above image, we get the following image: \\
+\begin{figure}[htbp]
+	\centering
+	\includegraphics[width=8cm]{images/Morphological Operations/Images/Opened sunflower.jpg}
+	\caption{Opened Image 2}
+\end{figure}
+
+The small white dots (noise) are removed from the image.
+
+Now let us see the result of performing closing operation on the same:
+\begin{figure}
+	\centering
+	\includegraphics[width=8cm]{images/Morphological Operations/Images/Closed sunflower.jpg}
+	\caption{Closed Image 2}
+\end{figure}
+
+The noise in the center of the flower is not removed but the small black
+dots on the foreground(white part) are removed.
+\pagebreak
 \section{Resources}\label{resources}
 
 \begin{itemize}
@@ -452,6 +461,21 @@ window will be open infinitely until a keypress occurs.
 \item
   `EGGN 510 - Lecture 10-1 Morphological
   Processing'\url{https://www.youtube.com/watch?v=gmi4ah7YAi0}
+\end{itemize}
+
+\section{Exercises}\label{exercises}
+
+\begin{itemize}
+\tightlist
+\item
+  Perform morphological operations with different structuring
+  elements(square, ellipse, diamond etc) and compare them.
+\item
+  Which structuring element is best suited to erode convex images while
+  preserving their shapes?
+\item
+  Observe the effect of size of structuring element while performing
+  various morphological operations.
 \end{itemize}
 
 \end{document}
