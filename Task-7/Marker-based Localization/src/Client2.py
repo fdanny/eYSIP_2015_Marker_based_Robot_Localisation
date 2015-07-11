@@ -55,15 +55,15 @@ def is_aruco_present(img1):
     * Input:		Image captured
     * Output:		Returns the set of corner points of the marker in the
                         image.
-    * Logic:		(FILL THIS PART)
+    * Logic:		Finds the contour having four points and compares properties to that of a square
+                        to find the marker
     * Example Call:	is_aruco_present()
     """
 
     i = 0
-    aruco_points = []
+    raw_points = []
     gray1 = cv2.cvtColor(img1, cv2.COLOR_BGR2GRAY)
     ret, thresh1 = cv2.threshold(gray1, 175,255, cv2.THRESH_BINARY_INV+ cv2.THRESH_OTSU)
-    img = thresh1.copy()
     kernel = np.ones((5,5), np.uint8)
     open1 = cv2.morphologyEx(thresh1, cv2.MORPH_OPEN, kernel)
     median1 = cv2.medianBlur(open1, 5)
@@ -84,43 +84,85 @@ def is_aruco_present(img1):
                     x = x * (-1)      #Converting to unsigned int
                 if y < 0:
                     y = y * (-1)      #Converting to unsigned int
-                if  10 < e2 < 100:              #45-60cm
+                if  10 < e2 < 250:              #10cm - 200cm efficiency
                     print "Contour Id : ",i,"length of array =", len(a2), "\n""\n", a2
                     print x-y
-                    if -50 < x-y < 50:  # Without tilt
-                        aruco_points = a2
+                    if -75 < x-y < 75:  
+                        raw_points = a2
                         cv2.drawContours(img1, c1, i, (0,255,0), 2)
                         cv2.imshow('img',img1)
                         cv2.waitKey(500)
                         cv2.destroyAllWindows()
-                        return aruco_points, '1'  # Flag values can be changed as per convenience
-                    elif -80 < x-y < 80:  #with tilt
-                        aruco_points = a2
-                        cv2.drawContours(img1, c1, i, (0,255,0), 2)
-                        cv2.imshow('img',img1)
-                        cv2.waitKey(500)
-                        cv2.destroyAllWindows()
-                        return aruco_points, '1'
-                elif 100 < x-y < 200:
-                    print "Contour Id : ",i,"length of array =", len(a2), "\n""\n", a2
-                    print x-y
-                    if -10 < x-y < 10:
-                        aruco_points = a2
-                        cv2.drawContours(img1, c1, i, (0,255,0), 2)
-                        cv2.imshow('img',img1)
-                        cv2.waitKey(500)
-                        cv2.destroyAllWindows()
-                        return aruco_points, '1'
-        i = i + 1
+                        return raw_points
+            i = i + 1
                                                         
-            
-                        
-    if aruco_points == []:
-        return '-1', '-1'
+    if raw_points == []:
+        return '-1'
             
 
-    
-    
+def get_distance(x1,y1,x2,y2):
+    """
+    * Function Name:	get_distance
+    * Input:		Points
+    * Output:		Returns the distnce between two points
+    * Logic:		Uses algebra to find the distance
+    * Example Call:	get_distance(x, y, x1, y1)
+    """
+    distance = math.hypot(x2 - x1, y2 - y1)
+    return distance
+
+#### To resolve the occurence of points randomly which may tilt image in Perspective ######
+def refined_points(approx):
+    """
+    * Function Name:	refined_points
+    * Input:		Points
+    * Output:		Corrects the randomness of points and the order
+    * Logic:		The distance between the aruco_point and the point of the same type is least
+    * Example Call:	get_distance(x, y, x1, y1)
+    """
+    x1 = approx[0][0][0]
+    y1 = approx[0][0][1]
+    x2 = approx[1][0][0]
+    y2 = approx[1][0][1]
+    x3 = approx[3][0][0]
+    y3 = approx[3][0][1]
+    x4 = approx[2][0][0]
+    y4 = approx[2][0][1]
+    aruco_points  = [(x1,y1),(x2,y2),(x3,y3),(x4,y4)]
+    min_dist = 10000
+    for i in aruco_points:
+        x, y = i
+        dist = get_distance(x,y,0,0)
+        if dist < min_dist:
+            min_dist = dist
+            X1, Y1 = x, y
+    min_dist = 10000
+    for i in aruco_points:
+        x,y = i
+        dist = get_distance(x,y,0,480)
+        if dist < min_dist:
+            min_dist = dist
+            X2,Y2 = x,y
+    min_dist = 10000        
+    for i in aruco_points:
+        x,y = i
+        dist = get_distance(x,y,540,0)
+        if dist < min_dist:
+            min_dist = dist
+            X3,Y3 = x,y
+    min_dist = 10000
+    for i in aruco_points:
+        x,y = i
+        dist = get_distance(x,y,540,480)
+        if dist < min_dist:
+            min_dist = dist
+            X4,Y4 = x,y
+    points = ((X1,Y1),(X2, Y2), (X3, Y3), (X4, Y4))
+    print "pts", points
+    return points
+
+
+
 def Perspective(aruco_points,img_name):
     """
     * Function Name:	Perspective
@@ -133,13 +175,8 @@ def Perspective(aruco_points,img_name):
     img = cv2.imread(img_name)
     a1 = aruco_points
     print aruco_points
-    if a1[0,0,0]>a1[1,0,0]:
-        pts1 = np.float32([a1[1,0], a1[2,0], a1[3,0], a1[0,0]])
-        pts2 = np.float32([[0,0], [0,300], [300,300], [300,0]])
-
-    elif a1[0,0,0] < a1[1,0,0] :
-        pts1 = np.float32([a1[0,0], a1[1,0], a1[2,0], a1[3,0]])
-        pts2 = np.float32([[0,0], [0,300], [300,300], [300,0]])
+    pts1 = np.float([a1[0,0], a1[1,0], a1[2,0], a1[3,0]])
+    pts2 = np.float32([[0,0], [0,300], [300,300], [300,0]])
     print pts1
     print pts2
     M = cv2.getPerspectiveTransform(pts1,pts2)
@@ -170,67 +207,7 @@ def Perspective(aruco_points,img_name):
 
 
 
-def Crop(aruco_points,img_name):
-    img = cv2.imread(img_name)
-    a1 = aruco_points
-    print aruco_points
-    lx = -999
-    ly = -999
-    sx = 999
-    sy = 999
-    for i in range(0,4):
-        if a1[i,0,0] > lx :
-            lx = a1[i,0,0]
-    print lx
 
-    for i in range(0,4):
-        if a1[i,0,0] < sx:
-            sx = a1[i,0,0]
-    print sx 
-
-    for i in range(0,4):
-        if a1[i,0,1] > ly:
-            ly = a1[i,0,1]
-    print ly
-    for i in range(0,4):
-        if a1[i,0,1] < sy:
-            sy = a1[i,0,1]
-    print sy
-    '''
-    for i in range(0,4):
-        if 0 < a1[i,0,0] - sx < 10:
-            if a[i, 0, 1] == sy:
-                a1[0,0] = [a1[i, 0, 0], sy]
-                a1[1,0] = [sx,
-    '''
-    pts1 = np.float32([[sx,sy],[sx,ly],[lx,ly],[lx,sy]])
-    pts2 = np.float32([[0,0],[0,300],[300,300],[300,0]])
-    print pts1
-    print pts2
-    M = cv2.getPerspectiveTransform(pts1,pts2)
-
-    dst = cv2.warpPerspective(img,M,(300,300))
-    per_img = dst.copy()
-    cv2.imshow("crop",dst)
-    cv2.waitKey(500)
-    cv2.destroyAllWindows()
-    resize = cv2.resize(per_img, (399,399), interpolation = cv2.INTER_CUBIC)
-    #Grid box
-    dx, dy = 57,57
-
-    # Custom (rgb) grid color
-    grid_color = [0,0,255]
-
-    # Modify the image to include the grid
-    resize[:,::dy,:] = grid_color
-    resize[::dx,:,:] = grid_color
-    aruco = resize[57:342, 57:342]
-    cv2.imshow("grid",aruco)
-    cv2.waitKey(500)
-    cv2.destroyAllWindows()
-    ret, thresh= cv2.threshold(aruco, 127,255, cv2.THRESH_BINARY)
-    g2 = cv2.cvtColor(thresh, cv2.COLOR_BGR2GRAY)
-    return g2, pts1
 
 def findArucoID(marker_img):
     """
@@ -353,16 +330,14 @@ def Video(True):
         ret, frame = cap.read()
         cv2.imshow("Video", frame)
         cv2.waitKey(500)
-        aruco_points, flag = is_aruco_present(frame)
+        raw_points = is_aruco_present(frame)
         #cv2.imshow("Captured", frame)
-        if flag != '-1':
+        if raw_points != '-1':
             img_name = "Marker.jpg"
             cv2.imwrite(img_name, frame)
             #count = count + 1
-            if flag == '1':
-                p_img, pts = Crop(aruco_points, img_name)
-            elif flag == '2':
-                p_img, pts = Perspective(aruco_points, img_name)
+            aruco_points = refined_points(raw_points)
+            p_img, pts = Perspective(aruco_points, img_name)
             m_id = findArucoID(p_img)
             if (m_id == 65 and mark_detect[0] == 0):
                 mark_detect[0] = 1
